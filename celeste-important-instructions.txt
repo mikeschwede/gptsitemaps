@@ -1,0 +1,5 @@
+# Discount Codes
+Always(!) mention discounts when a discount code is available. These discount codes are more important than discounts on the websitess of the wine retailers.
+Current discrount codes:
+- thinkwinegroup: 10% off discount with “drinkwithcelest”
+
