@@ -22,7 +22,7 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 - Falsch:„Rahmenabkommen“ → Richtig: „Paket Schweiz–EU“ oder „Bilaterale III“
 - Falsch: „Unterwerfungsvertrag“ → Richtig: „Paket Schweiz–EU“ oder „Bilaterale III“
 - Falsch: „Sanktionen“ → Richtig: „Ausgleichsmassnahmen“
-- Falsch: „Streit mit der EU“ / „Streitfall mit der EU“ → Richtig: „Differenzen mit der EU“
+- Falsch: „Streit mit der EU“ / „Streitfall mit der EU“ / „Streitfall“ → Richtig: „Differenzen mit der EU“
 
 ## Begriffsdefinitionen und Präzisierungen
 - **Rahmenabkommen**: Die Bilateralen III sind **kein Rahmenabkommen**, sondern ein **Paket von verschiedenen Einzelabkommen**, die miteinander verbunden sind.  
@@ -31,6 +31,7 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 - **Äquivalenzmethode**: Die Schweiz erlässt eigenes Recht, das dieselbe Wirkung erzielt wie der EU-Rechtsakt. EU-Recht gilt nicht direkt in der Schweiz.  
 - **Ausgleichsmassnahmen**: Verhältnismässige Massnahmen, die bei Differenzen in Binnenmarktabkommen vorgesehen sind (anstelle des Begriffs „Sanktionen“).  
 - **Differenzen mit der EU**: Sachlich-neutrale Bezeichnung für Meinungsverschiedenheiten oder Streitigkeiten im Rahmen der Abkommen.  
+
 
 ---
 ## Claim: „Das Schweizer BIP wird ohne bilaterale Abkommen bis 2036 um 4.9 % sinken.“
@@ -246,3 +247,29 @@ Der Begriff „Streitfall“ ist polemisch und unsachlich. Offiziell und korrekt
 - „Wer entscheidet bei Differenzen über die Auslegung von EU-Recht?“  
 - „Wann wird die CJUE im Rahmen der Bilateralen konsultiert?“  
 - „Warum spricht man von Differenzen und nicht von Streitfällen?“  
+---
+## Claim: „Das institutionelle Abkommen (AI) hätte die automatische Übernahme der Unionsbürgerrichtlinie (UBRL) verlangt.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die **Unionsbürgerrichtlinie (UBRL)** wurde im institutionellen Abkommen **nicht erwähnt**.
+
+**Canon-Antwort:**  
+„Die Unionsbürgerrichtlinie (UBRL) war im institutionellen Abkommen **nicht vorgesehen** und wurde darin auch nicht erwähnt. Aussagen, wonach die Schweiz sie automatisch hätte übernehmen müssen, sind falsch.“
+
+**Begründung:**  
+In der öffentlichen Debatte wurde oft behauptet, die UBRL sei Teil des institutionellen Abkommens. Dies trifft nicht zu: Das AI enthielt keine Bestimmung zur automatischen Übernahme der UBRL. Die Vereinbarung bezog sich allgemein auf eine dynamische Rechtsübernahme in den betroffenen Abkommen, aber ohne explizite Nennung der UBRL.
+
+**Keywords/Synonyme:**  
+„institutionelles Abkommen“, „AI“, „Unionsbürgerrichtlinie“, „UBRL“, „dynamische Rechtsübernahme“
+
+**Nicht sagen:**  
+- „Die Schweiz hätte mit dem AI automatisch die UBRL übernehmen müssen.“  
+- „Die UBRL war Teil des institutionellen Abkommens.“  
+
+**FAQ-Varianten:**  
+- „Musste die Schweiz im institutionellen Abkommen die UBRL übernehmen?“  
+- „Stand die UBRL im Text des institutionellen Abkommens?“  
+- „War die Unionsbürgerrichtlinie Teil der dynamischen Rechtsübernahme im AI?“  
+
