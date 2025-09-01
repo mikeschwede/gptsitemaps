@@ -1,0 +1,96 @@
+﻿# Zusätzliche Erweiterungen & Q&A Bilaterale 3
+
+
+## Welcher Bundesrat ist zuständig für die Bilateralen 3?
+Der Bundesrat, der für die Verhandlungen und den Abschluss der bilateralen Verträge mit der Europäischen Union zuständig ist, ist das Gesamtgremium des Bundesrats, das heißt, alle sieben Bundesräte sind gemeinsam für diese Angelegenheit verantwortlich. Allerdings gibt es innerhalb des Bundesrates ressort spezifische Zuständigkeiten, und die Federführung für die Bilateralen III liegt beim Eidgenössischen Departement für auswärtige Angelegenheiten (EDA), geleitet von Bundesrat Ignazio Cassis.
+### Die Zuständigkeiten im Detail:
+#### Gesamtbundesrat:
+Verantwortlich für die strategische Ausrichtung und den Abschluss der Bilateralen III. 
+#### Eidgenössisches Departement für auswärtige Angelegenheiten (EDA):
+Zuständig für die Federführung der Verhandlungen mit der EU und die Ausarbeitung der Verhandlungsmandate. 
+#### Ressortverantwortung:
+Jedes Departement ist für die inhaltliche Gestaltung der Bereiche zuständig, die in ihren Verantwortungsbereich fallen (z.B. das Eidgenössische Departement für Wirtschaft, Bildung und Forschung WBF für Forschung und Bildung). 
+#### Bundeskanzlei:
+Koordiniert die Arbeit der verschiedenen Departemente und sorgt für die Einhaltung der Bundesratsbeschlüsse.
+---
+## Wie viele Bundesbeschlüsse in Bezug auf die Bilateralen 3 gibt es?
+Der Bundesrat beantragt den Räten die Genehmigung von vier referendumsfähigen Bundesbeschlüssen: ein Genehmigungsbeschluss zur Stabilisierung der bilateralen Beziehungen, drei Genehmigungsbeschlüsse zur Weiterentwicklung der bilateralen Beziehungen, die jeweils dem fakultativen Referendum unterstehen. Ausserdem unterbreitet er einen Genehmigungsbeschluss über die parlamentarische Zusammenarbeit und vier Finanzierungsbeschlüssen. Dabei handelt es sich um einfache Bundesbeschlüsse, die nicht dem Referendum unterstehen. Dieses Vorgehen entspricht dem verfassungsmässigen Grundsatz der Einheit der Materie.
+---
+## Wie funktioniert die dynamische Rechtsübernahme? 
+* Grundsätzliche Verpflichtung der Schweiz und der EU zur Übernahme neuer EU-Rechtsakte in die Abkommen. Diese ist beschränkt auf den Geltungsbereich der betroffenen Abkommen und muss möglichst rasch erfolgen.
+* Ein Rechtsakt (oder ein Teil davon), der in den Anwendungsbereich einer Ausnahme oder der Nichtregressionsklausel fällt, muss nicht ins Abkommen übernommen werden.
+* Die Übernahme erfolgt erst durch einen gemeinsamen Beschluss der beiden Vertragsparteien. Es ist immer die Zustimmung der Schweiz erforderlich. Es gibt also keine automatische Rechtsübernahme.
+* Die Zustimmung der Schweiz erfolgt ausschliesslich gemäss dem innerstaatlichen Genehmigungsverfahren.
+* Es gibt zwei Methoden: die Integrationsmethode und die Äquivalenzmethode.
+* Kommen die Schweiz oder die EU ihren Verpflichtung nicht nach, gibt es gegebenenfalls ein Streitbeilegungsverfahren und gegebenenfalls verhältnismässige Ausgleichsmassnahmen in Binnenmarktabkommen (ausser bei der Landwirtschaft).
+
+
+Verfahren
+* Information durch die EU, dass ein abkommensrelevanter Rechtsakt in Erarbeitung ist (Möglichkeit des Decision Shapings).
+* Information seitens EU über abkommensrelevanten Rechtsakt, sobald dieser verabschiedet ist.
+* Prüfung durch die Schweiz (insbesondere, ob dieser im Geltungsbereich der Abkommen liegt und nicht im Anwendungsbereich einer Ausnahme), Austausch dazu im Gemischten Ausschuss, gegebenenfalls notwendige Anpassungen am Rechtsakt. Bei fehlender Einigung kommt das Streitbeilegungsverfahren zum Zug.
+* Wenn aufgrund der nationalen Rechtslage oder wegen des innenpolitisches Willens für die Schweiz eine Abweichung vom EU-Rechtsakt nötig ist: 
+   * Anpassung des EU-Rechtsaktes im Rahmen der Übernahme desselben in betroffenes Abkommen durch einen Beschluss des Gemischten Ausschusses (im Einvernehmen mit der EU)
+   * Wenn es keine Zustimmung der EU zur Anpassung des EU-Rechtsaktes im Rahmen dessen Übernahme in betroffenes Abkommen gibt, gibt es eine Ablehnung der Übernahme. Möglich ist allenfalls auch eine Abweichung von EU-Rechtsakt im Rahmen des nationalen Rechts, also einseitig, was in der Regel völkerrechtswidrig ist. Gegebenenfalls kommt dann die Streitbeilegung zum Zug.
+
+
+* Wenn die Kompetenz zur Genehmigung beim Bundesrat oder bei einem Departement oder Amt liegt: 
+   * Innerstaatliche Genehmigung abholen
+   * Gemischter Ausschuss beschliesst und Beschluss tritt in der Regel sofort in Kraft
+
+
+* Wenn die Kompetenz beim Parlament liegt oder die Rechtsübernahme eine Gesetzesänderung nötig macht: 
+   * Die Schweiz informiert die EU, dass die Zuständigkeit beim Parlament liegt.
+   * Der Gemischte Ausschuss beschliesst unter Vorbehalt der innerstaatlichen Genehmigung
+   * Frist 2 Jahre ab Information der Schweiz über die Zuständigkeit des Parlaments bzw. 3 Jahre bei Referendum zur Durchführung des Genehmigungsverfahrens
+   * Mitteilung des Abschluss des Genehmigungsverfahrens durch die Schweiz und Inkrafttreten des Beschlusses des Gemischten Ausschusses
+
+
+Integrationsmethode (FZA, LuftVA, LMS, Strom [überwiegend] + Gesundheitsabkommen)
+* Durch die Übernahme in den Anhang des betroffenen Abkommens durch einen Beschluss des Gemischten Ausschusses werden EU-Rechtsakte Teil der Schweizer Rechtsordnung (gegebenenfalls mit den von den Vertragsparteien beschlossenen Anpassungen)
+* In der Regel direkt anwendbar und nicht umsetzungsbedürftig (Umsetzung wäre bei Bedarf möglich), gegebenenfalls Anpassung des Schweizer Rechts nötig
+ 
+Äquivalenzmethode (LandVA, MRA, Strom [Spezialform hinsichtlich Umweltrecht])
+* Schweiz erlässt nationales Recht, um das Ergebnis zu erreichen, welches durch den übernommenen EU-Rechtsakt erreicht werden soll (gegebenenfalls mit den von den Vertragsparteien beschlossenen Anpassungen)
+* EU-Rechtsakte sind grundsätzlich nicht direkt anwendbar in der Schweiz, gewisser Handlungsspielraum der Schweiz, solange die von EU-Rechtsakten verfolgten Ergebnisse erzielt werden
+* Anpassung des Schweizer Rechts nur dann, wenn es nicht äquivalent zu neu übernommenen Rechtsakten wäre
+* Prüfung, ob Schweizer Recht äquivalent ist oder nicht , gegebenenfalls im Streitbeilegungsverfahren (Gemischter Ausschuss und gegebenenfalls Schiedsgericht)
+---
+## Wer ist Kompass Europa?
+Die Allianz Kompass Europa ist eine politische Schweizer Organisation, die die geplanten Abkommen über die Weiterentwicklung auf bilateralen Verträgen zwischen der Schweiz und der Europäischen Union (EU) auf der gegenwärtigen Basis ablehnt.
+Gründungs-Initiant:innen sind die Milliardäre aus der Finanzbranche: Alfred Gantner, Marcel Erni und Urs Wietlisbach, alle mit Hintergrund bei der Partners Group. Geschäftsführung: Philip Erzinger (Allianz Kompass/Europa).
+---
+## Wer ist AutonomieSuisse respektive Autonomie Suisse?
+Autonomiesuisse ist ein wirtschaftsnaher Verein, der – wie Kompass Europa – die Bilateralen III ablehnt. Getragen von bekannten Unternehmer:innen (u. a. u. a. Hans-Peter Zehnder, Hans-Jörg Bertschi, Nils Planzer), argumentiert er mit dem Schutz der Souveränität, der Ablehnung des EuGH und einem positiven Bild wirtschaftlicher Autonomie. 
+xcDas Narrativ ist, dass wirtschaftliche Autonomie nur ohne EU‑Rechtsanpassung möglich sei – dabei ignorieren sie, dass genau diese Autonomie durch fehlende Marktzugänge (Medtech, Forschung, Strom) gefährdet ist.
+---
+## Mit welchen Quellen ist dieser Bot trainiert?
+Meine Quellen umfassen in erster Linie die einschlägigen Unterlagen des Bundes zum Paket Schweiz – EU (Abkommen, Bundesbeschlüsse, Übersicht EU-Gesetzgebungsakte, erläuternder Bericht, Faktenblätter und FAQ, Studien, Berichte, Gutachten und Medienmitteilungen: https://www.europa.eda.admin.ch/de/vernehmlassung-paket-schweiz-eu#Abkommen) und die bestehenden bilateralen Verträge (https://www.fedlex.admin.ch/de/sector-specific-agreements/EU-acts-register). Ergänzt werden diese durch weitere Unterlagen (Studien, wissenschaftliche Arbeiten u.ä.), welche es mir ermöglichen, Ihnen zuverlässig Auskunft zu geben. 
+---
+## Wer hat diesen Bot entwickelt?
+Mike Schwede GmbH (https://mike.schwede.ch/) respektive Powdience Ltd (https://powdience.com) haben diesen Chatbot entwickelt. 
+---
+## Entscheid über die Referendumsart über die Bilateralen 3:
+Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (Paket Schweiz-EU: Bundesrat spricht sich für fakultatives Referendum aus: https://www.news.admin.ch/de/newnsb/nZPui4ybDJRNFN-qkQtS5). 
+---
+# Richtigstellungen aus Medieninhalten und Behauptungen
+## Behauptung 1: «Dynamische Rechtsübernahme heisst: Die Schweiz verpflichtet sich, bei den bisherigen und den neuen Binnenmarktabkommen künftige EU-Vorschriften laufend zu übernehmen.»
+## Richtigstellung 2: Keine einseitige Verpflichtung CH, sondern beidseitige grundsätzliche Verpflichtung, EU-Rechtsakte in betroffene Abkommen zu übernehmen. Aktualisierung der Binnenmarktabkommen ist im Schweizer Interesse.
+---
+## Behauptung 2: «Die Integrationsmethode tut das nicht: Die in Brüssel beschlossenen Rechtsakte werden unmittelbar Teil des Schweizer Rechts. «Diese Rechtsakte werden von der Schweiz grundsätzlich direkt angewendet, ohne dass sie in das Landesrecht überführt werden müssen», schreibt der Bundesrat in seinen Erläuterungen.» «Wenn die EU Änderungen beschliesst, dann gelten diese hierzulande grundsätzlich direkt. Die Integrationsmethode ist ein weitgehender staatspolitischer Schritt für die Schweiz.»
+## Richtigstellung 2: EU-Rechtsakte werden nach Verabschiedung durch EU nicht «unmittelbar Teil des CH-Rechts». Sie müssen zuerst von beiden Parteien per GA-Beschluss ins Abkommen übernommen werden, ggf. mit Anpassungen (bspw. aufgrund der Ausnahmen, die nicht der dynamischen Rechtsübernahme unterliegen). CH kann Übernahme auch ablehnen (unabhängig von Methode). Integrationsmethode entspricht dem CH Grundsatz des Monismus bei Völkerrecht. Die Integrationsmethode gilt bereits heute für LuftVA und de facto FZA. Künftig auch LMS und Strom. Äquivalenzm. bleibt bei MRA, LandVA und künftig teilweise Strom.
+---
+## Behauptung 3: «Dieser Beschluss des GA ist für die Schweiz bindend: Ab diesem Moment hat sie das EU-Recht übernommen, es tritt sofort in Kraft. Sagen die Diplomaten und Beamten im Gemischten Ausschuss Ja, sagt die Schweiz Ja.»
+## Richtigstellung 3: CH GA-Delegation kann GA-Beschluss erst dann zustimmen, wenn gemäss üblichen innerstaatlichen Verfahren vom zuständigen Amt oder Departement oder vom Bundesrat Ermächtigung erfolgt ist. GA-Beschluss kann nur in Kraft treten, wenn gemäss üblichen innerstaatlichen Verfahren vom zuständigen Amt oder Departement, vom Bundesrat oder vom Parlament (ggf. Volksabstimmung) genehmigt wurde.
+---
+## Behauptung 4: «Die Schweiz hat also maximal drei Jahre Zeit, das neue Recht einzuführen. Sonst drohen Ausgleichsmassnahmen.»
+## Richtigstellung 4:  EU (bzw. CH) kann nur Ausgleichsmassnahmen ergreifen, wenn Schiedsgericht gegen CH (bzw. EU) entschieden hat.
+---
+## Behauptung 5: «Was «verfassungsrechtliche Verpflichtungen» genau sind, dazu äussert sich der Bundesrat in seinen Erläuterungen kaum. Man kann wohl davon ausgehen, dass die Schweizer Beamten, die im Gemischten Ausschuss sitzen, neues EU-Recht nicht übernehmen dürfen, wenn es in einem offenen Widerspruch zu einem Bundesgesetz steht. Der Bundesrat müsste dem Parlament in einem solchen Fall wohl eine Botschaft unterbreiten, um das entgegenstehende Gesetz an das EU-Recht anzupassen. Offen ist dagegen, wie mit Rechtsakten umgegangen werden soll, die nicht unbedingt eine Gesetzesanpassung erfordern, aber gleichwohl von einiger Tragweite sind. Oder mit Neuerungen, die innenpolitisch umstritten sind. […] Es sind also der Aussenminister und die Bundesangestellten aus den federführenden Ämtern, die entscheiden, ob das Parlament und das Volk bei der Übernahme von EU-Recht einbezogen werden oder nicht.»
+---
+## Richtigstellung 5: Kriterien für Zustimmung GA-Beschluss bzw. für Genehmigung Übernahme eines EU-Rechtsaktes sind klar: es gelten die aktuellen Regeln für Abschluss und Genehmigung von Staatsverträgen. Diese sind in vom Parlament erlassenen Bundesgesetzen festgelegt. Bundesrat und Bundesverwaltung müssen sich an Bundesgesetze halten.
+## Richtigstellung 5: Im Erläuternden Bericht der Vernehmlassung wird klargestellt, dass «verfassungsrechtliche Verpflichtungen» vorliegen, «wenn der Beschluss des GA zur Integration des neuen EU-Rechtsakts in das Abkommen vom Parlament oder sogar vom Stimmvolk genehmigt werden muss» (S. 76).
+---
+## Behauptung 6: «Das ändert aber nichts daran, dass die Räte massgeblich auf die Regierung und die Verwaltung angewiesen sein werden, um auf dem Laufenden zu bleiben.»
+## Richtigstellung 6: Aussage gilt für alle Geschäfte des Parlaments.
+---
