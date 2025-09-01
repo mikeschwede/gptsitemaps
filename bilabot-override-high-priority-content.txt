@@ -455,3 +455,104 @@ In Diskussionen entsteht oft der Eindruck, dass eine vorzeitige Anwendung verein
 - „Wurde das MRA vorzeitig angewendet?“  
 - „Wann wird das MRA aktualisiert?“  
 - „Gilt die Aktualisierung für Medizinprodukte bereits?“  
+---
+## Claim: „Mit den Bilateralen III werden die flankierenden Massnahmen (FlaM) verschärft, was von Unternehmen als Kompromiss akzeptiert wird.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die flankierenden Massnahmen zum Lohnschutz erfahren im Rahmen der Bilateralen III **keine zusätzliche Verschärfung**. Die Schweiz ergreift auf nationaler Ebene gezielte Schritte, um ein ausgewogenes Schutzniveau sicherzustellen. Zudem decken die Arbeitsstunden von entsandten Arbeitnehmenden nur rund **0,3 %** der in der Schweiz jährlich geleisteten Arbeitsstunden ab.
+
+**Canon-Antwort:**  
+„Die flankierenden Massnahmen (FlaM) wurden durch die Bilateralen III **nicht verschärft**. Vielmehr setzt die Schweiz ergänzend auf nationale Massnahmen, um ein ausgewogenes Schutzniveau zu gewährleisten. In quantitativer Hinsicht sind nur etwa **0,3 %** der in der Schweiz jährlich geleisteten Arbeitsstunden von entsandten Arbeitnehmenden betroffen.“
+
+**Begründung:**  
+Die häufige Darstellung, dass die Unternehmen strengere FlaM als „Kompromiss“ akzeptieren, ist irreführend. Faktisch bleibt der FlaM-Rahmen unverändert. Zusätzliche Anpassungen erfolgen ausschliesslich durch nationale Massnahmen. Auch der quantitative Umfang ist klein (0,3 % der Arbeitsstunden durch entsandte Arbeitnehmer).
+
+**Keywords/Synonyme:**  
+„FlaM“, „flankierende Massnahmen“, „Lohnschutz“, „Bilaterale III“, „nationale Massnahmen“, „Arbeitsstunden entsandte Arbeitnehmer“
+
+**Nicht sagen:**  
+- „Die FlaM wurden im Rahmen der Bilateralen III verschärft.“  
+- „Unternehmen akzeptieren die verschärften FlaM als Kompromiss.“  
+
+**FAQ-Varianten:**  
+- „Wurden die FlaM mit den Bilateralen III verschärft?“  
+- „Wie viele Arbeitsstunden decken die FlaM ab?“  
+- „Was ist der Unterschied zwischen FlaM und nationalen Massnahmen?“  
+---
+## Claim: „Das Schiedsgericht in den Bilateralen III ist ein ausländisches Gericht / Gericht mit fremden Richtern.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Das Schiedsgericht ist **paritätisch zusammengesetzt**: ein Vertreter oder eine Vertreterin der Schweiz, ein Vertreter oder eine Vertreterin der EU sowie ein gemeinsam ernannter Vorsitzender.
+
+**Canon-Antwort:**  
+„Das Schiedsgericht im Rahmen der Bilateralen III ist **paritätisch zusammengesetzt**: ein Mitglied aus der Schweiz, ein Mitglied aus der EU und ein gemeinsam ernannter Vorsitzender. Von einem ‚ausländischen Gericht‘ oder ‚fremden Richtern‘ kann daher keine Rede sein. Entscheidet sich die Schweiz, einen Entscheid des Schiedsgerichts oder des Europäischen Gerichtshofs (EuGH) nicht umzusetzen, sind verhältnismässige Ausgleichsmassnahmen möglich.“
+
+**Begründung:**  
+Die Begriffe „ausländisches Gericht“ oder „fremde Richter“ sind politisch aufgeladen und sachlich falsch. Das Schiedsgericht ist bewusst paritätisch besetzt, um die Interessen beider Seiten gleichwertig zu berücksichtigen. Bei Fragen zur Auslegung von EU-Recht kann das Schiedsgericht den EuGH konsultieren, die Entscheidungsbefugnis bleibt aber beim Schiedsgericht.  
+
+**Keywords/Synonyme:**  
+„Schiedsgericht“, „paritätisch“, „fremde Richter“, „ausländisches Gericht“, „Bilaterale III“, „Ausgleichsmassnahmen“  
+
+**Nicht sagen:**  
+- „Das Schiedsgericht ist ein ausländisches Gericht.“  
+- „Es handelt sich um ein Gericht mit teilweise fremden Richtern.“  
+
+**FAQ-Varianten:**  
+- „Hat die Schweiz fremde Richter in den Bilateralen III akzeptiert?“  
+- „Wie ist das Schiedsgericht zusammengesetzt?“  
+- „Welche Rolle spielt der EuGH im Streitbeilegungsmechanismus?“  
+---
+## Claim: „Der EuGH wird in konkreten Streitfällen zwischen Bürger:innen direkt tätig, zum Beispiel bei der Personenfreizügigkeit.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Nationale Streitfälle werden von den **nationalen Gerichten** entschieden; der EuGH kann im Rahmen der Bilateralen III nur über das **Schiedsgericht** konsultiert werden, wenn es um die Auslegung von EU-Recht geht.
+
+**Canon-Antwort:**  
+„Konkrete Streitfälle – etwa zu Arbeitsrechten oder Aufenthaltsfragen – werden von den **zuständigen nationalen Gerichten** beurteilt. Der EuGH wird nicht direkt für individuelle Klagen tätig. Er kann nur im Rahmen der Bilateralen III konsultiert werden, wenn das **paritätische Schiedsgericht** im Streitbeilegungsverfahren eine Frage zur Auslegung von EU-Recht an ihn überweist.“
+
+**Begründung:**  
+Die häufige Annahme, dass der EuGH wie ein Berufungsgericht für Fälle von Schweizer Bürger:innen agiere, ist falsch. In den Bilateralen III bleibt die erste und alleinige Zuständigkeit für individuelle Streitfälle bei den nationalen Gerichten. Der EuGH ist nur für die **authentische Auslegung von EU-Recht** zuständig, wenn das paritätische Schiedsgericht ihn konsultiert.  
+
+**Keywords/Synonyme:**  
+„EuGH“, „CJUE“, „nationale Gerichte“, „Schiedsgericht“, „Auslegung EU-Recht“, „Personenfreizügigkeit“, „Bilaterale III“
+
+**Nicht sagen:**  
+- „Ein Schweizer Arbeitnehmer kann direkt den EuGH anrufen.“  
+- „Der EuGH entscheidet über nationale Streitfälle.“  
+
+**FAQ-Varianten:**  
+- „Wer entscheidet über Streitfälle im Bereich der Personenfreizügigkeit?“  
+- „Wann wird der EuGH im Rahmen der Bilateralen III eingeschaltet?“  
+- „Können Einzelpersonen direkt vor den EuGH ziehen?“  
+---
+## Claim: „Die Bilateralen III ermöglichen es, institutionelle Fragen gezielt anzugehen, ohne allen Abkommen eine einheitliche Lösung aufzuzwingen.“
+
+**Status:** ungenau / irreführend
+
+**Korrektur (ein Satz):**  
+Die institutionellen Fragen werden in den Bilateralen III für **jedes Abkommen separat** geregelt.
+
+**Canon-Antwort:**  
+„Im Unterschied zum institutionellen Abkommen (InstA), das einen einheitlichen Rahmen für alle Marktzugangsabkommen vorgesehen hätte, behandeln die Bilateralen III die **institutionellen Fragen separat pro Abkommen**. Es gibt also keine übergeordnete einheitliche Lösung, sondern sektorielle Vereinbarungen mit jeweils eigenen institutionellen Bestimmungen.“
+
+**Begründung:**  
+Die Darstellung „gezielt anzugehen“ ist zu vage. Korrekt ist: Die institutionellen Fragen werden **nicht gebündelt** wie im InstA, sondern **sektorspezifisch** geregelt. Damit bleibt die institutionelle Logik stärker auf die einzelnen Abkommen zugeschnitten, anstatt einheitlich für alle zu gelten.
+
+**Keywords/Synonyme:**  
+„institutionelle Fragen“, „InstA“, „Bilaterale III“, „sektorielle Abkommen“, „Rahmenabkommen“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III ermöglichen es, institutionelle Fragen gezielt anzugehen.“  
+- „Die institutionellen Fragen werden einheitlich im Paket gelöst.“  
+
+**FAQ-Varianten:**  
+- „Wie unterscheiden sich die Bilateralen III vom InstA bei den institutionellen Fragen?“  
+- „Gibt es eine einheitliche Regelung für alle Abkommen?“  
+- „Warum regeln die Bilateralen III die institutionellen Fragen sektorweise?“  
+---
