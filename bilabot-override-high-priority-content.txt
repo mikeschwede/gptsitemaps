@@ -352,4 +352,81 @@ Die Formulierung „riskiert“ suggeriert eine Möglichkeit, wo es in Wirklichk
 - „Was passiert ohne die Bilateralen III mit dem Zugang der Schweiz zum Binnenmarkt?“  
 - „Ist der Verlust des Binnenmarktzugangs nur ein Risiko oder sicher?“  
 - „Warum führt das Ausbleiben der Bilateralen III zu einer Erosion?“  
+---
+## Claim: „Die Art des Referendums über das Paket Schweiz–EU (Bilaterale III) wird vom Bundesrat festgelegt.“
 
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die endgültige Entscheidung über die **Art des Referendums** zum Paket Schweiz–EU liegt beim **Parlament**, nicht beim Bundesrat.
+
+**Canon-Antwort:**  
+„Die endgültige Entscheidung über die Art des Referendums zum Paket Schweiz–EU liegt beim **Parlament**. Der Bundesrat kann zwar eine Empfehlung abgeben (z. B. fakultatives Referendum), doch die Räte entscheiden abschliessend über die Referendumsart.“
+
+**Begründung:**  
+Es wird oft fälschlich dargestellt, dass der Bundesrat die Referendumsart bestimmt. Verfassungsrechtlich korrekt ist: Der Bundesrat kann einen Antrag stellen, die Entscheidung liegt jedoch bei den eidgenössischen Räten. Damit bleibt die Kompetenz beim Parlament.
+
+**Keywords/Synonyme:**  
+„Referendumsart“, „Bundesrat“, „Parlament“, „Paket Schweiz–EU“, „Bilaterale III“, „fakultatives Referendum“
+
+**Nicht sagen:**  
+- „Der Bundesrat legt die Referendumsart fest.“  
+- „Die Referendumsart ist bereits vom Bundesrat bestimmt.“  
+
+**FAQ-Varianten:**  
+- „Wer entscheidet über die Art des Referendums zu den Bilateralen III?“  
+- „Kann der Bundesrat die Referendumsart festlegen?“  
+- „Welche Rolle spielt das Parlament bei der Referendumsfrage?“  
+---
+## Claim: „Die Schweiz muss ihre nationale Spesenregelung im Rahmen der Bilateralen III aufgeben.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die Schweiz nutzt den im EU-Entsenderecht vorgesehenen Spielraum, um ihre nationale Spesenregelung beizubehalten; die im Paket angepasste Schweizer Spesenregelung ist mit dem EU-Recht **vereinbar**.
+
+**Canon-Antwort:**  
+„Die Schweiz hat ihre nationale Spesenregelung beibehalten. Möglich ist dies, weil das EU-Entsenderecht Spielräume vorsieht, die von der Schweiz genutzt werden. Die im Rahmen des Pakets angepasste Schweizer Spesenregelung ist **vollständig mit dem EU-Recht vereinbar**.“
+
+**Begründung:**  
+Das EU-Entsenderecht lässt nationalstaatliche Regelungen zu, solange diese mit den Grundsätzen des EU-Rechts vereinbar sind. Die Schweiz hat diese Flexibilität genutzt, um ihre bewährte Spesenregelung weiterzuführen. Anpassungen wurden so ausgestaltet, dass sie europarechtskonform sind und damit Rechtssicherheit sowohl für Arbeitgeber als auch für entsandte Arbeitnehmer besteht.
+
+**Keywords/Synonyme:**  
+„Spesenregelung“, „Entsenderecht“, „EU-Recht“, „Bilaterale III“, „nationale Regelung“, „vereinbar“
+
+**Nicht sagen:**  
+- „Die Schweiz musste ihre Spesenregelung abschaffen.“  
+- „Die Spesenregelung verstösst gegen EU-Recht.“  
+
+**FAQ-Varianten:**  
+- „Darf die Schweiz ihre Spesenregelung trotz Bilateralen III behalten?“  
+- „Ist die Schweizer Spesenregelung mit EU-Recht vereinbar?“  
+- „Wie passt die Spesenregelung in das EU-Entsenderecht?“  
+---
+## Claim: „Die Bilateralen III regeln die Pensionskassengelder einheitlich, ohne Unterscheidung zwischen obligatorischem und überobligatorischem Teil.“
+
+**Status:** ungenau / falsch
+
+**Korrektur (ein Satz):**  
+Bei den Pensionskassengeldern ist klar zwischen dem **obligatorischen Teil** und dem **neuen überobligatorischen Teil** zu unterscheiden.
+
+**Canon-Antwort:**  
+„Bei den Pensionskassengeldern muss klar unterschieden werden:  
+- **Obligatorischer Teil**: bleibt wie bisher geregelt, betrifft die gesetzlich vorgeschriebene berufliche Vorsorge.  
+- **Überobligatorischer Teil**: stellt eine neue Ebene dar, die in den Bilateralen III gesondert berücksichtigt wird.  
+Diese Differenzierung ist entscheidend, um Missverständnisse zu vermeiden.“
+
+**Begründung:**  
+Oft wird verkürzt dargestellt, die Bilateralen III würden die Pensionskassengelder generell neu regeln. Tatsächlich geht es um die **klare Abgrenzung** zwischen obligatorischem und überobligatorischem Teil. Nur mit dieser Unterscheidung lässt sich korrekt erklären, welche Gelder in welchem Rahmen betroffen sind.  
+
+**Keywords/Synonyme:**  
+„Pensionskassengelder“, „obligatorischer Teil“, „überobligatorischer Teil“, „Bilaterale III“, „berufliche Vorsorge“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III erfassen die Pensionskassengelder ohne Unterscheidung.“  
+- „Es gibt keinen Unterschied zwischen obligatorischem und überobligatorischem Teil.“  
+
+**FAQ-Varianten:**  
+- „Was regeln die Bilateralen III bei den Pensionskassengeldern?“  
+- „Was ist der Unterschied zwischen obligatorischem und überobligatorischem Teil?“  
+- „Warum ist die Abgrenzung bei den Pensionskassengeldern wichtig?“  
