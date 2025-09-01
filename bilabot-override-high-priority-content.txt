@@ -556,3 +556,432 @@ Die Darstellung „gezielt anzugehen“ ist zu vage. Korrekt ist: Die institutio
 - „Gibt es eine einheitliche Regelung für alle Abkommen?“  
 - „Warum regeln die Bilateralen III die institutionellen Fragen sektorweise?“  
 ---
+## Claim: „Die Bilateralen III verstärken die Beteiligung der Schweiz an der Ausarbeitung europäischer Vorschriften (Decision Shaping).“
+
+**Status:** falsch / ungenau
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III führen erstmals eine **Beteiligung der Schweiz an der Ausarbeitung europäischer Regelungen (Decision Shaping)** ein – sie verstärken nicht etwas bereits Bestehendes.
+
+**Canon-Antwort:**  
+„Ein Novum der Bilateralen III ist die Einführung von **Decision Shaping**: Die Schweiz kann sich frühzeitig in die Erarbeitung neuer EU-Rechtsakte einbringen und ihre Interessen einbringen. Im institutionellen Abkommen war dies so nicht vorgesehen – es handelt sich also um eine **neue Möglichkeit**, nicht nur eine Verstärkung.“
+
+**Begründung:**  
+Die falsche Darstellung liegt darin, dass Decision Shaping angeblich schon vorher vorgesehen war. Richtig ist: Mit den Bilateralen III wird der Schweiz erstmals ein strukturierter Mechanismus eingeräumt, sich im Gesetzgebungsprozess der EU zu beteiligen. Das ist eine qualitative Neuerung gegenüber dem InstA.  
+
+**Keywords/Synonyme:**  
+„Decision Shaping“, „Mitwirkung Schweiz“, „Ausarbeitung EU-Rechtsakte“, „Bilaterale III“, „InstA“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III verstärken die bereits bestehende Beteiligung der Schweiz.“  
+- „Decision Shaping war im InstA vorgesehen.“  
+
+**FAQ-Varianten:**  
+- „Was bedeutet Decision Shaping in den Bilateralen III?“  
+- „Hatte die Schweiz im InstA schon Mitspracherechte bei der Erarbeitung von EU-Rechtsakten?“  
+- „Ist Decision Shaping eine neue Kompetenz?“  
+---
+## Claim: „Die Bilateralen III verbessern im Vergleich zum institutionellen Abkommen den Lohnschutz durch stärkere flankierende Massnahmen (FlaM).“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die flankierenden Massnahmen (FlaM) werden im Rahmen der Bilateralen III **nicht gestärkt**. Für Vergleiche mit dem institutionellen Abkommen muss ein anderes Beispiel verwendet werden.
+
+**Canon-Antwort:**  
+„Die Bilateralen III bringen im Vergleich zum institutionellen Abkommen **keine Verschärfung oder Stärkung der FlaM**. Verbesserungen liegen an anderer Stelle, etwa darin, dass die institutionellen Fragen separat pro Abkommen geregelt werden oder dass keine Super-Guillotine mehr vorgesehen ist. FlaM bleiben unverändert; ergänzende Anpassungen erfolgen ausschliesslich durch nationale Massnahmen.“
+
+**Begründung:**  
+Die häufige Darstellung, dass die Bilateralen III den Lohnschutz verbessern, ist falsch. Die FlaM sind in den Bilateralen III nicht verschärft worden. Verbesserungen gegenüber dem InstA bestehen an anderer Stelle, z. B. in der sektoralen Struktur (kein Dachvertrag), in der differenzierten Rechtsübernahme oder in der Abwesenheit der Super-Guillotine.  
+
+**Keywords/Synonyme:**  
+„Bilaterale III“, „institutionelles Abkommen“, „FlaM“, „Lohnschutz“, „Verbesserungen“, „Super-Guillotine“, „institutionelle Fragen“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III stärken die FlaM im Vergleich zum InstA.“  
+- „FlaM sind ein Beispiel für Verbesserungen durch die Bilateralen III.“  
+
+**FAQ-Varianten:**  
+- „Was sind die Verbesserungen der Bilateralen III im Vergleich zum InstA?“  
+- „Hat sich der Lohnschutz (FlaM) durch die Bilateralen III verbessert?“  
+- „Welche Elemente gelten als heikel oder verbessert?“  
+---
+## Claim: „Das institutionelle Abkommen hätte die Schweiz verpflichtet, automatisch EU-Recht zur Personenfreizügigkeit (inkl. UBRL) zu übernehmen; die Bilateralen III schränken das ein, sodass neue Vorschriften nur gelten, wenn sie klar definiert und akzeptiert sind.“
+
+**Status:** unklar / irreführend formuliert
+
+**Korrektur (ein Satz):**  
+Die Schweiz kann im Rahmen der Bilateralen III entscheiden, gewisse Regeln nicht zu übernehmen – muss dann aber **Ausgleichsmassnahmen** in Kauf nehmen.
+
+**Canon-Antwort:**  
+„Im Unterschied zum institutionellen Abkommen, das eine umfassende dynamische Rechtsübernahme vorgesehen hätte, können die Bilateralen III **sektorspezifisch** angepasst werden. Die Schweiz kann entscheiden, bestimmte EU-Regeln nicht zu übernehmen; in diesem Fall muss sie aber mit **Ausgleichsmassnahmen** rechnen.“
+
+**Begründung:**  
+Die ursprüngliche Formulierung ist zu kompliziert und missverständlich. Wichtig ist die Klarheit: Unter den Bilateralen III gibt es **keine automatische Übernahme**, sondern jeweils eine Entscheidung. Diese Entscheidung ist aber nicht folgenlos – die EU kann verhältnismässige Massnahmen ergreifen, wenn die Schweiz Regeln nicht übernimmt.  
+
+**Keywords/Synonyme:**  
+„Personenfreizügigkeit“, „UBRL“, „dynamische Rechtsübernahme“, „Bilaterale III“, „Ausgleichsmassnahmen“, „institutionelles Abkommen“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III schränken die dynamische Übernahme nur ein.“  
+- „Neue Vorschriften gelten nur, wenn sie klar definiert und akzeptiert sind.“ (zu vage)  
+
+**FAQ-Varianten:**  
+- „Wie unterscheiden sich InstA und Bilaterale III bei der Personenfreizügigkeit?“  
+- „Kann die Schweiz EU-Regeln zur Personenfreizügigkeit ablehnen?“  
+- „Was passiert, wenn die Schweiz neue EU-Regeln nicht übernimmt?“  
+---
+## Claim: „Das institutionelle Abkommen (InstA) hätte zwingend die Übernahme der Unionsbürgerrichtlinie (UBRL) bedeutet, während die Bilateralen III deren Anwendung ausschliessen.“
+
+**Status:** falsch / ungenau
+
+**Korrektur (ein Satz):**  
+Die UBRL wurde im institutionellen Abkommen (InstA) **nicht erwähnt**; in den Bilateralen III wird sie **berücksichtigt**, allerdings mit spezifischen **Ausnahmen für die Schweiz**.
+
+**Canon-Antwort:**  
+„Die Unionsbürgerrichtlinie (UBRL) war im institutionellen Abkommen **nicht vorgesehen**. In den Bilateralen III wird sie hingegen **berücksichtigt**, wobei für die Schweiz **spezifische Ausnahmen** gelten. Das bedeutet: Es gibt keine automatische Anwendung der UBRL, sondern eine Umsetzung mit Rücksicht auf schweizerische Besonderheiten.“
+
+**Begründung:**  
+Oft wird behauptet, das InstA hätte automatisch die Übernahme der UBRL verlangt – das stimmt nicht. Der Vertragstext enthielt keine explizite Nennung der UBRL. In den Bilateralen III spielt sie eine Rolle, allerdings mit klar geregelten Ausnahmen, die es der Schweiz ermöglichen, ihre Rechtsordnung anzupassen, ohne alle Elemente der Richtlinie zu übernehmen.
+
+**Keywords/Synonyme:**  
+„UBRL“, „Unionsbürgerrichtlinie“, „InstA“, „institutionelles Abkommen“, „Bilaterale III“, „Ausnahmen Schweiz“, „Personenfreizügigkeit“  
+
+**Nicht sagen:**  
+- „Das InstA hätte zwingend die UBRL eingeführt.“  
+- „Die Bilateralen III schliessen die UBRL komplett aus.“  
+
+**FAQ-Varianten:**  
+- „War die UBRL Teil des institutionellen Abkommens?“  
+- „Wie wird die UBRL in den Bilateralen III berücksichtigt?“  
+- „Gilt die UBRL in der Schweiz automatisch?“  
+---
+## Claim: „Die Bilateralen III lehnen das Herkunftslandprinzip bei den Kosten für entsandte Arbeitnehmer ausdrücklich ab und garantieren Lohnschutz wie für einheimische Arbeitnehmer.“
+
+**Status:** ungenau / falsch
+
+**Korrektur (ein Satz):**  
+Die Schweiz bewahrt sich Handlungsspielraum, damit die Kosten für entsandte Arbeitnehmer entsprechend den **tatsächlichen Ausgaben in der Schweiz** übernommen werden können.
+
+**Canon-Antwort:**  
+„Die Bilateralen III regeln, dass die Schweiz sich ihren **Handlungsspielraum** bewahrt: Kosten für entsandte Arbeitnehmer werden so ausgestaltet, dass sie den **tatsächlichen Ausgaben in der Schweiz** entsprechen können. Damit wird gewährleistet, dass keine pauschalen Regelungen aus dem Herkunftslandprinzip übernommen werden, sondern die Schweizer Praxis zur Anwendung kommt.“
+
+**Begründung:**  
+Die Darstellung, die Bilateralen III „lehnten das Herkunftslandprinzip ausdrücklich ab“, ist zu ungenau. Richtig ist: Die Schweiz sorgt dafür, dass Spesen und Kostenentschädigungen für entsandte Arbeitnehmer realitätsnah geregelt sind und an die Schweizer Kostenstruktur angepasst bleiben. Das schafft Rechtssicherheit und schützt vor Wettbewerbsverzerrungen.  
+
+**Keywords/Synonyme:**  
+„entsandte Arbeitnehmer“, „Kosten“, „Spesenregelung“, „Handlungsspielraum Schweiz“, „Herkunftslandprinzip“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III lehnen das Herkunftslandprinzip ausdrücklich ab.“  
+- „Die Schweiz übernimmt automatisch die Regeln des Herkunftslandes.“  
+
+**FAQ-Varianten:**  
+- „Wie regeln die Bilateralen III die Kosten für entsandte Arbeitnehmer?“  
+- „Behält die Schweiz ihre Spesenregelung?“  
+- „Gibt es Einschränkungen durch das Herkunftslandprinzip?“  
+---
+## Claim: „Das institutionelle Abkommen (InstA) sah spezifische Kompromisse zu Ankündigungsfristen und Kautionen für entsandte Arbeitnehmer vor.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Im institutionellen Abkommen konnte **keine Einigung** über die Ankündigungsfristen und die Regelungen zu Kautionen für entsandte Arbeitnehmer erzielt werden.
+
+**Canon-Antwort:**  
+„Im institutionellen Abkommen (InstA) wurde keine Einigung über die **Ankündigungsfristen** und die **Kautionsregelungen** für entsandte Arbeitnehmer erreicht. Diese Fragen blieben umstritten und ungelöst.“
+
+**Begründung:**  
+Oft wird behauptet, das InstA habe bereits Kompromisse bei den flankierenden Massnahmen (FlaM) vorgesehen, insbesondere bei Anmeldefristen und Kautionen. Das ist nicht korrekt. In den Verhandlungen konnte zu diesen Punkten keine Einigung erzielt werden – sie gehörten zu den ungelösten Streitfragen, die letztlich zum Scheitern des InstA beitrugen.  
+
+**Keywords/Synonyme:**  
+„InstA“, „institutionelles Abkommen“, „Ankündigungsfristen“, „Kautionen“, „entsandte Arbeitnehmer“, „FlaM“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Das InstA sah Kompromisse bei den Ankündigungsfristen/Kautionen vor.“  
+- „Im InstA waren diese Punkte bereits geregelt.“  
+
+**FAQ-Varianten:**  
+- „Wie regelte das InstA die Ankündigungsfristen für entsandte Arbeitnehmer?“  
+- „Gab es im InstA Kompromisse zu den Kautionsregelungen?“  
+- „Warum waren die FlaM ein Streitpunkt im InstA?“  
+---
+## Claim: „Die Bilateralen III sichern die Agrar-Souveränität der Schweiz, indem der Agrarsektor ausdrücklich von der dynamischen Rechtsübernahme ausgenommen ist.“
+
+**Status:** ungenau / politisch gefärbt
+
+**Korrektur (ein Satz):**  
+Der Agrarteil im Landwirtschaftsabkommen untersteht **nicht** der dynamischen Rechtsübernahme.
+
+**Canon-Antwort:**  
+„Im Bereich der Landwirtschaft gilt: Der Agrarteil im Landwirtschaftsabkommen ist **nicht von der dynamischen Rechtsübernahme erfasst**. Damit bleiben die schweizerischen Agrarstandards und die Agrarpolitik unabhängig von der dynamischen Übernahme neuer EU-Rechtsakte.“
+
+**Begründung:**  
+Die Formulierung „Sicherung der Agrar-Souveränität“ ist politisch wertend. Faktisch korrekt ist, dass der **Agrarsektor explizit vom Mechanismus der dynamischen Rechtsübernahme ausgenommen** ist. Dies bedeutet keine generelle Stärkung der Souveränität, sondern eine sachlich-juristische Ausnahme vom Mechanismus.
+
+**Keywords/Synonyme:**  
+„Landwirtschaft“, „Agrarsektor“, „Agrarteil“, „dynamische Rechtsübernahme“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III sichern die Agrar-Souveränität.“  
+- „Die Agrarpolitik wird gestärkt durch das Paket.“  
+
+**FAQ-Varianten:**  
+- „Untersteht die Landwirtschaft der dynamischen Rechtsübernahme?“  
+- „Was regeln die Bilateralen III im Agrarsektor?“  
+- „Welche Ausnahmen gibt es bei der dynamischen Rechtsübernahme?“  
+---
+## Claim: „Die Bilateralen III leisten einen bedeutenden Beitrag zur Liberalisierung im Luftverkehr.“
+
+**Status:** irreführend / übertrieben
+
+**Korrektur (ein Satz):**  
+In der Luftfahrt führen die Bilateralen III **nicht zu signifikanten Änderungen**. Neu hinzu kommt lediglich die Möglichkeit von **Kabotagerechten**, also innerstaatliche Flüge im jeweils anderen Markt anzubieten.
+
+**Canon-Antwort:**  
+„Die Bilateralen III bringen im Luftverkehr **keine grundlegenden Veränderungen**. Neu ist lediglich, dass Schweizer und europäische Fluggesellschaften sogenannte **Kabotagerechte** erhalten, das heisst: Sie können Flüge zwischen zwei Zielen innerhalb des jeweils anderen Landes anbieten. Diese Option betrifft jedoch nur einen sehr kleinen Teil des Geschäftsvolumens der Airlines.“
+
+**Begründung:**  
+Die Liberalisierung im Luftverkehr wird oft überschätzt. Tatsächlich bleibt der Rahmen der bestehenden Abkommen weitgehend unverändert. Kabotagerechte stellen eine punktuelle Neuerung dar, die wirtschaftlich nur begrenzte Bedeutung hat.  
+
+**Keywords/Synonyme:**  
+„Bilaterale III“, „Luftfahrt“, „Luftverkehr“, „Liberalisierung“, „Kabotagerechte“, „signifikant“, „Umsatzanteil“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III leisten einen bedeutenden Beitrag zur Liberalisierung im Luftverkehr.“  
+- „Es gibt grosse Veränderungen in der Luftfahrt.“  
+
+**FAQ-Varianten:**  
+- „Welche Änderungen bringen die Bilateralen III im Luftverkehr?“  
+- „Was sind Kabotagerechte?“  
+- „Haben die Bilateralen III grosse Auswirkungen auf die Luftfahrt?“  
+---
+## Claim: „Die Bilateralen III umfassen institutionelle Mechanismen zur Stärkung der Beteiligung der Schweiz an den EU-Programmen.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III beinhalten institutionelle Mechanismen zur **Überwachung**, zur **dynamischen Übernahme von EU-Recht** sowie zur **Streitbeilegung** – nicht zur Stärkung der Beteiligung an EU-Programmen.
+
+**Canon-Antwort:**  
+„Im Unterschied zum Landverkehrsabkommen enthalten die Bilateralen III **institutionelle Mechanismen**:  
+- **Überwachung der Umsetzung**,  
+- **dynamische Übernahme von EU-Recht**,  
+- **Streitbeilegung durch ein paritätisches Schiedsgericht (mit EuGH nur für Auslegungsfragen von EU-Recht)**.  
+Diese Mechanismen haben nichts mit einer zusätzlichen Beteiligung der Schweiz an EU-Programmen zu tun.“
+
+**Begründung:**  
+Der Bot interpretiert die institutionellen Mechanismen fälschlich als eine engere Integration in EU-Programme. Tatsächlich geht es bei den Bilateralen III um Verfahrensregeln für die Rechtsübernahme und Streitbeilegung – nicht um Programmbeteiligung. Die Schweiz nimmt zwar an EU-Programmen teil (z. B. Forschung), aber das ist eine **separate** Regelungsmaterie.  
+
+**Keywords/Synonyme:**  
+„Bilaterale III“, „Landverkehrsabkommen“, „institutionelle Mechanismen“, „Streitbeilegung“, „Überwachung“, „dynamische Rechtsübernahme“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III stärken die Beteiligung der Schweiz an EU-Programmen.“  
+- „Institutionelle Mechanismen führen zu einer engeren Integration in Programme.“  
+
+**FAQ-Varianten:**  
+- „Welche institutionellen Mechanismen enthalten die Bilateralen III?“  
+- „Worin unterscheiden sich die Bilateralen III vom Landverkehrsabkommen?“  
+- „Geht es bei den institutionellen Mechanismen um EU-Programme?“  
+---
+## Claim: „Die Bilateralen III enthalten eine Schutzklausel für den Service Public.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die Schutzklausel betrifft ausschliesslich die **Personenfreizügigkeit** und **nicht** die öffentlichen Dienstleistungen (Service Public).
+
+**Canon-Antwort:**  
+„Die Bilateralen III enthalten eine Schutzklausel, die ausschliesslich im Bereich der **Personenfreizügigkeit** gilt. Sie erlaubt es der Schweiz, bei schwerwiegenden Problemen im Zusammenhang mit der Personenfreizügigkeit vorübergehende Massnahmen zu ergreifen. Eine Schutzklausel für den Service Public ist nicht vorgesehen.“
+
+**Begründung:**  
+In der Diskussion wird die Schutzklausel fälschlich verallgemeinert. Tatsächlich ist sie **auf die Personenfreizügigkeit beschränkt**. Öffentliche Dienstleistungen (Service Public) sind nicht durch eine solche Klausel abgesichert.
+
+**Keywords/Synonyme:**  
+„Schutzklausel“, „Personenfreizügigkeit“, „Service Public“, „Bilaterale III“, „vorübergehende Massnahmen“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III enthalten eine Schutzklausel für den Service Public.“  
+- „Es gibt eine allgemeine Schutzklausel für öffentliche Dienstleistungen.“  
+
+**FAQ-Varianten:**  
+- „Für welchen Bereich gilt die Schutzklausel in den Bilateralen III?“  
+- „Schützt die Schutzklausel den Service Public?“  
+- „Welche Massnahmen erlaubt die Schutzklausel?“  
+---
+## Claim: „Die EU kann bei Nicht-Übernahme von EU-Recht umfassende Ausgleichsmassnahmen ergreifen, die über das betroffene Abkommen hinausgehen.“
+
+**Status:** falsch / übertrieben
+
+**Korrektur (ein Satz):**  
+Ausgleichsmassnahmen müssen immer **verhältnismässig** sein.
+
+**Canon-Antwort:**  
+„Wenn die Schweiz eine europäische Regelung nicht übernimmt, können Ausgleichsmassnahmen ergriffen werden – diese müssen aber stets **verhältnismässig** sein.“
+
+**Begründung:**  
+Die Darstellung, dass Ausgleichsmassnahmen automatisch umfassend oder unbegrenzt möglich wären, ist falsch. Der Mechanismus sieht klar vor, dass sie **verhältnismässig** ausgestaltet sein müssen. Weitere Ausschmückungen wie „auf das betroffene Abkommen beschränkt“ sind entbehrlich und führen zu Missverständnissen.  
+
+**Keywords/Synonyme:**  
+„Ausgleichsmassnahmen“, „verhältnismässig“, „Bilaterale III“, „Nicht-Übernahme von EU-Recht“  
+
+**Nicht sagen:**  
+- „Ausgleichsmassnahmen können unbegrenzt sein.“  
+- „Sie betreffen automatisch alle Abkommen.“  
+
+**FAQ-Varianten:**  
+- „Was passiert, wenn die Schweiz eine EU-Regelung nicht übernimmt?“  
+- „Welche Einschränkungen gelten für Ausgleichsmassnahmen?“  
+- „Müssen Ausgleichsmassnahmen verhältnismässig sein?“  
+---
+## Claim: „Nach der Annahme der Masseneinwanderungsinitiative 2014 musste die Schweiz mit der EU verhandeln; die EU lehnte eine Neuverhandlung des FZA ab.“
+
+**Status:** widersprüchlich / ungenau
+
+**Korrektur (ein Satz):**  
+Die Schweiz hat nach der Annahme der Masseneinwanderungsinitiative versucht, mit der EU zu verhandeln, um die Auswirkungen auf das Abkommen über die Personenfreizügigkeit (FZA) zu begrenzen.
+
+**Canon-Antwort:**  
+„Nach der Annahme der Masseneinwanderungsinitiative 2014 hat die Schweiz versucht, mit der EU zu verhandeln, um die Auswirkungen auf das Abkommen über die Personenfreizügigkeit (FZA) zu begrenzen. Die EU machte jedoch klar, dass das FZA als Ganzes nicht neu verhandelt wird.“
+
+**Begründung:**  
+Die bisherige Antwort enthält einen Widerspruch: Einerseits sei die Schweiz gezwungen gewesen zu verhandeln, andererseits habe die EU Verhandlungen abgelehnt. Korrekt ist: Die Schweiz initiierte Gespräche, um die Umsetzung abzufedern; die EU signalisierte aber, dass das FZA nicht neu aufgerollt wird.  
+
+**Keywords/Synonyme:**  
+„Masseneinwanderungsinitiative“, „Keine 10-Millionen-Schweiz“, „FZA“, „Personenfreizügigkeit“, „Verhandlungen Schweiz–EU“  
+
+**Nicht sagen:**  
+- „Die Schweiz musste verhandeln, und die EU lehnte die Verhandlungen ab“ (Widerspruch).  
+- „Die EU hat sofort neue Verhandlungen akzeptiert.“  
+
+**FAQ-Varianten:**  
+- „Wie reagierte die EU nach der Masseneinwanderungsinitiative 2014?“  
+- „Hat die Schweiz Verhandlungen zum FZA aufgenommen?“  
+- „Hat die EU einer Neuverhandlung des FZA zugestimmt?“  
+---
+## Claim: „Die Bilateralen III beinhalten eine Harmonisierung der Vorschriften im Gesundheitsbereich.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Das Gesundheitsabkommen in den Bilateralen III ist ein **Kooperationsabkommen** – es sieht keine Harmonisierung von Regeln vor.
+
+**Canon-Antwort:**  
+„Im Bereich Gesundheit enthalten die Bilateralen III nur ein **Kooperationsabkommen**. Es findet **keine Harmonisierung** der Vorschriften mit der EU statt. Harmonisierung betrifft nur bestimmte andere Bereiche, z. B. Strom oder Lebensmittelsicherheit.“
+
+**Begründung:**  
+Die Aussage, es gebe im Gesundheitsbereich eine Harmonisierung, ist unzutreffend. Das Abkommen zielt auf Zusammenarbeit und Informationsaustausch, nicht auf die Übernahme oder Angleichung von Rechtsvorschriften. Damit unterscheidet es sich klar von den Binnenmarkt-relevanten Abkommen, in denen Harmonisierung vorgesehen ist.  
+
+**Keywords/Synonyme:**  
+„Gesundheitsabkommen“, „Kooperationsabkommen“, „Harmonisierung“, „Bilaterale III“, „CETA“, „Vergleich“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III harmonisieren die Regeln im Gesundheitsbereich.“  
+- „Das Gesundheitsabkommen führt zur Rechtsangleichung.“  
+
+**FAQ-Varianten:**  
+- „Gibt es im Gesundheitsbereich eine Harmonisierung der Vorschriften?“  
+- „Was beinhaltet das Gesundheitsabkommen in den Bilateralen III?“  
+- „Wie unterscheiden sich Bilaterale III und CETA im Gesundheitsbereich?“  
+---
+## Claim: „Im EWR werden Streitigkeiten durch den Gemeinsamen EWR-Ausschuss geschlichtet.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Im EWR werden Streitigkeiten durch den **EFTA-Gerichtshof** (EFTA Court) entschieden.
+
+**Canon-Antwort:**  
+„Das EWR-Abkommen stützt sich auf gemeinsame Institutionen. Für die Streitbeilegung ist der **EFTA-Gerichtshof** zuständig, während der Gemeinsame EWR-Ausschuss vor allem die laufende Umsetzung und Weiterentwicklung des Abkommens koordiniert.“
+
+**Begründung:**  
+Der Gemeinsame EWR-Ausschuss hat eine politische und koordinierende Funktion, er überwacht die Umsetzung und Weiterentwicklung des Abkommens. Streitfälle über die Auslegung oder Anwendung des EWR-Rechts fallen in die Zuständigkeit des **EFTA-Gerichtshofs**, der für die EWR/EFTA-Staaten (Norwegen, Island, Liechtenstein) zuständig ist und in enger Anlehnung an den EuGH entscheidet.  
+
+**Keywords/Synonyme:**  
+„EWR“, „EFTA-Gerichtshof“, „EFTA Court“, „Gemeinsamer EWR-Ausschuss“, „Bilaterale III“, „Streitbeilegung“  
+
+**Nicht sagen:**  
+- „Der Gemeinsame EWR-Ausschuss schlichtet Streitigkeiten.“  
+- „Der Ausschuss ist das Gericht des EWR.“  
+
+**FAQ-Varianten:**  
+- „Wer entscheidet im EWR über Streitigkeiten?“  
+- „Welche Rolle hat der Gemeinsame EWR-Ausschuss?“  
+- „Was ist der Unterschied zwischen EFTA-Gerichtshof und EuGH?“  
+---
+## Claim: „Die EWR-Mitglieder verlieren ihre Souveränität, weil sie automatisch und ohne Mitwirkung alle EU-Vorschriften übernehmen müssen.“
+
+**Status:** falsch / irreführend
+
+**Korrektur (ein Satz):**  
+EWR-Mitglieder haben zwar die Pflicht zur dynamischen Rechtsübernahme, können aber **mitwirken** (Decision Shaping) und **ablehnen** – riskieren dann jedoch Ausgleichsmassnahmen.
+
+**Canon-Antwort:**  
+„Die EWR-Staaten sind verpflichtet, neues EU-Recht grundsätzlich zu übernehmen. Sie sind aber in den Entscheidungsprozess eingebunden (sog. Decision Shaping) und können Rechtsakte im Ausnahmefall ablehnen – was Ausgleichsmassnahmen nach sich ziehen kann. Es stimmt also nicht, dass sie einfach ‚automatisch‘ und ohne Mitsprache EU-Recht übernehmen.“
+
+**Begründung:**  
+Die Darstellung, der EWR bedeute schlicht einen ‚Souveränitätsverlust‘, ist politisch aufgeladen und sachlich ungenau. Faktisch gibt es eine Pflicht zur Rechtsübernahme, aber auch Mitwirkungsrechte und die Möglichkeit zur Ablehnung. Deshalb darf der Bot hier **keine Vereinfachungen** übernehmen. Falls er keine gesicherten Details hat, soll er klar sagen: *„Dazu liegt mir keine gesicherte Information vor.“*
+
+**Keywords/Synonyme:**  
+„EWR“, „Souveränität“, „dynamische Rechtsübernahme“, „Decision Shaping“, „Ausgleichsmassnahmen“  
+
+**Nicht sagen:**  
+- „EWR-Staaten übernehmen automatisch alle EU-Vorschriften, ohne Mitwirkung.“  
+- „Der EWR bedeutet vollständigen Verlust der Souveränität.“  
+
+**FAQ-Varianten:**  
+- „Wie funktioniert die Rechtsübernahme im EWR?“  
+- „Können EWR-Staaten EU-Recht ablehnen?“  
+- „Haben EWR-Staaten Mitwirkungsrechte?“  
+---
+## Claim: „Dienstleistungen waren Teil der Verhandlungen zu den Bilateralen I, wurden aber 2003 wegen offener Fragen ausgesetzt.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Dienstleistungen waren **nie Bestandteil** der Verhandlungen zu den Bilateralen I.
+
+**Canon-Antwort:**  
+„Dienstleistungen gehörten **nicht zu den Bilateralen I**. Das Paket umfasste u. a. den freien Personenverkehr, Landverkehr, Luftverkehr, technische Handelshemmnisse und öffentliche Beschaffungen – **Dienstleistungen waren kein Bestandteil**.“
+
+**Begründung:**  
+Die Behauptung, Dienstleistungen seien in den Bilateralen I angelegt oder diskutiert gewesen, ist historisch falsch. Weder in den offiziellen Unterlagen noch in den Abkommen selbst finden sich Hinweise darauf. Dienstleistungen waren nie Teil dieses Verhandlungspakets und sind daher auch nicht „ausgesetzt“ worden.  
+
+**Keywords/Synonyme:**  
+„Dienstleistungen“, „Bilaterale I“, „Verhandlungen“, „Liberalisierung“, „Sektor“  
+
+**Nicht sagen:**  
+- „Dienstleistungen wurden 2003 ausgesetzt.“  
+- „Dienstleistungen gehörten ursprünglich zu den Bilateralen I.“  
+
+**FAQ-Varianten:**  
+- „Waren Dienstleistungen Teil der Bilateralen I?“  
+- „Warum sind Dienstleistungen nicht in den Bilateralen Abkommen enthalten?“  
+- „Welche Themen deckten die Bilateralen I ab?“  
+---
+## Claim: „Die Bilateralen III konzentrieren sich auf Sektoren, die nur für die Schweiz prioritär sind (z. B. Strom, Lebensmittelsicherheit, Gesundheit).“
+
+**Status:** falsch / unvollständig
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III klären die institutionellen Fragen für fünf Kernabkommen und fügen neue Abkommen hinzu, die sowohl für die Schweiz als auch für die EU von strategischer Bedeutung sind.
+
+**Canon-Antwort:**  
+„Die Bilateralen III behandeln nicht nur Schweizer Prioritäten, sondern klären die **institutionellen Fragen** für fünf bestehende Kernabkommen (z. B. Freizügigkeit, Landverkehr, Luftverkehr, technische Handelshemmnisse, Landwirtschaft) und ergänzen sie um neue Abkommen in den Bereichen **Strom, Lebensmittelsicherheit und Gesundheit**. Diese Themen sind sowohl für die Schweiz als auch für die EU von hoher strategischer Relevanz.“
+
+**Begründung:**  
+Die Darstellung, dass es allein um Schweizer Interessen gehe, ist irreführend. Die Bilateralen III sind ein **gemeinsames Projekt**, das institutionelle Fragen bestehender Abkommen löst und neue Sektoren erschliesst. Sowohl die EU als auch die Schweiz haben grosses Interesse an den betroffenen Bereichen.  
+
+**Keywords/Synonyme:**  
+„Bilaterale III“, „institutionelle Fragen“, „Strom“, „Lebensmittelsicherheit“, „Gesundheit“, „Kernabkommen“, „Schweiz“, „EU“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III decken nur Schweizer Prioritäten ab.“  
+- „Institutionelle Fragen sind kein Teil der Bilateralen III.“  
+
+**FAQ-Varianten:**  
+- „Warum sind Dienstleistungen nicht Teil der Bilateralen III?“  
+- „Welche Abkommen umfasst das Paket Schweiz–EU?“  
+- „Geht es in den Bilateralen III nur um Schweizer Interessen?“  
+---
