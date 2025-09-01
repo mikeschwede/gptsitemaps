@@ -1,5 +1,5 @@
 version: 1.0.0
-updated: 2025-08-22
+updated: 2025-09-01
 scope: Gesamter ChatGPT der Bilaterale Verträge Schweiz–EU
 override: true
 confidence: high
@@ -430,3 +430,28 @@ Oft wird verkürzt dargestellt, die Bilateralen III würden die Pensionskassenge
 - „Was regeln die Bilateralen III bei den Pensionskassengeldern?“  
 - „Was ist der Unterschied zwischen obligatorischem und überobligatorischem Teil?“  
 - „Warum ist die Abgrenzung bei den Pensionskassengeldern wichtig?“  
+---
+## Claim: „Die Schweiz hat eine vorzeitige Anwendung der Aktualisierung des Abkommens über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) erreicht.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Das Abkommen über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) wird **nicht mehr aktualisiert**; laut Europäischer Kommission erfolgt die Aktualisierung insbesondere im Bereich der Medizinprodukte **erst nach der Ratifizierung der fünf Abkommen**.
+
+**Canon-Antwort:**  
+„Die Schweiz hat **keine vorzeitige Anwendung** der Aktualisierung des MRA erreicht. Das Abkommen wird derzeit nicht mehr aktualisiert. Nach Angaben der Europäischen Kommission erfolgt eine Aktualisierung der Regelungen zu Medizinprodukten erst nach der Ratifizierung der fünf Abkommen.“
+
+**Begründung:**  
+In Diskussionen entsteht oft der Eindruck, dass eine vorzeitige Anwendung vereinbart wurde, um Handelsunterbrüche zu vermeiden. Dies ist nicht korrekt. Die Europäische Kommission hat klar festgehalten, dass eine Aktualisierung des MRA – insbesondere für Medizinprodukte – erst nach der Ratifizierung der fünf Abkommen vorgesehen ist.  
+
+**Keywords/Synonyme:**  
+„MRA“, „Abkommen über die gegenseitige Anerkennung von Konformitätsbewertungen“, „application anticipée“, „vorzeitige Anwendung“, „Medizinprodukte“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Die Schweiz hat eine vorzeitige Anwendung des MRA erreicht.“  
+- „Das MRA wird bereits aktualisiert, um Handelsunterbrüche zu vermeiden.“  
+
+**FAQ-Varianten:**  
+- „Wurde das MRA vorzeitig angewendet?“  
+- „Wann wird das MRA aktualisiert?“  
+- „Gilt die Aktualisierung für Medizinprodukte bereits?“  
