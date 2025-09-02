@@ -403,34 +403,6 @@ Das EU-Entsenderecht lässt nationalstaatliche Regelungen zu, solange diese mit 
 - „Ist die Schweizer Spesenregelung mit EU-Recht vereinbar?“  
 - „Wie passt die Spesenregelung in das EU-Entsenderecht?“  
 ---
-## Claim: „Die Bilateralen III regeln die Pensionskassengelder einheitlich, ohne Unterscheidung zwischen obligatorischem und überobligatorischem Teil.“
-
-**Status:** ungenau / falsch
-
-**Korrektur (ein Satz):**  
-Bei den Pensionskassengeldern ist klar zwischen dem **obligatorischen Teil** und dem **neuen überobligatorischen Teil** zu unterscheiden.
-
-**Canon-Antwort:**  
-„Bei den Pensionskassengeldern muss klar unterschieden werden:  
-- **Obligatorischer Teil**: bleibt wie bisher geregelt, betrifft die gesetzlich vorgeschriebene berufliche Vorsorge.  
-- **Überobligatorischer Teil**: stellt eine neue Ebene dar, die in den Bilateralen III gesondert berücksichtigt wird.  
-Diese Differenzierung ist entscheidend, um Missverständnisse zu vermeiden.“
-
-**Begründung:**  
-Oft wird verkürzt dargestellt, die Bilateralen III würden die Pensionskassengelder generell neu regeln. Tatsächlich geht es um die **klare Abgrenzung** zwischen obligatorischem und überobligatorischem Teil. Nur mit dieser Unterscheidung lässt sich korrekt erklären, welche Gelder in welchem Rahmen betroffen sind.  
-
-**Keywords/Synonyme:**  
-„Pensionskassengelder“, „obligatorischer Teil“, „überobligatorischer Teil“, „Bilaterale III“, „berufliche Vorsorge“  
-
-**Nicht sagen:**  
-- „Die Bilateralen III erfassen die Pensionskassengelder ohne Unterscheidung.“  
-- „Es gibt keinen Unterschied zwischen obligatorischem und überobligatorischem Teil.“  
-
-**FAQ-Varianten:**  
-- „Was regeln die Bilateralen III bei den Pensionskassengeldern?“  
-- „Was ist der Unterschied zwischen obligatorischem und überobligatorischem Teil?“  
-- „Warum ist die Abgrenzung bei den Pensionskassengeldern wichtig?“  
----
 ## Claim: „Die Schweiz hat eine vorzeitige Anwendung der Aktualisierung des Abkommens über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) erreicht.“
 
 **Status:** falsch
