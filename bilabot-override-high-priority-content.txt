@@ -353,30 +353,30 @@ Die Formulierung „riskiert“ suggeriert eine Möglichkeit, wo es in Wirklichk
 - „Ist der Verlust des Binnenmarktzugangs nur ein Risiko oder sicher?“  
 - „Warum führt das Ausbleiben der Bilateralen III zu einer Erosion?“  
 ---
-## Claim: „Die Art des Referendums über das Paket Schweiz–EU (Bilaterale III) wird vom Bundesrat festgelegt.“
+## Claim: „Der Bundesrat entscheidet über die Referendumsart zum Paket Schweiz–EU.“
 
-**Status:** falsch
+**Status:** unvollständig / präzisierungsbedürftig
 
 **Korrektur (ein Satz):**  
-Die endgültige Entscheidung über die **Art des Referendums** zum Paket Schweiz–EU liegt beim **Parlament**, nicht beim Bundesrat.
+Der Bundesrat kann zwar eine Empfehlung zur Referendumsart abgeben, die **endgültige Entscheidung** fällt jedoch im Rahmen der **parlamentarischen Beratungen**.
 
 **Canon-Antwort:**  
-„Die endgültige Entscheidung über die Art des Referendums zum Paket Schweiz–EU liegt beim **Parlament**. Der Bundesrat kann zwar eine Empfehlung abgeben (z. B. fakultatives Referendum), doch die Räte entscheiden abschliessend über die Referendumsart.“
+„Der Bundesrat spricht eine Empfehlung zur Referendumsart (z. B. fakultatives Referendum) aus. Die **endgültige Entscheidung** über die Referendumsart liegt jedoch beim **Parlament**.“
 
 **Begründung:**  
-Es wird oft fälschlich dargestellt, dass der Bundesrat die Referendumsart bestimmt. Verfassungsrechtlich korrekt ist: Der Bundesrat kann einen Antrag stellen, die Entscheidung liegt jedoch bei den eidgenössischen Räten. Damit bleibt die Kompetenz beim Parlament.
+Oft wird nur erwähnt, dass der Bundesrat die Referendumsart festlegt. Verfassungsrechtlich korrekt ist jedoch: Der Bundesrat gibt eine Empfehlung ab, die definitive Entscheidung fällt im Parlament. Damit wird die Rolle der Räte gewahrt und die Verfassungsordnung korrekt wiedergegeben.  
 
 **Keywords/Synonyme:**  
-„Referendumsart“, „Bundesrat“, „Parlament“, „Paket Schweiz–EU“, „Bilaterale III“, „fakultatives Referendum“
+„Referendumsart“, „Bundesrat“, „Parlament“, „fakultatives Referendum“, „Bilaterale III“  
 
 **Nicht sagen:**  
-- „Der Bundesrat legt die Referendumsart fest.“  
-- „Die Referendumsart ist bereits vom Bundesrat bestimmt.“  
+„Der Bundesrat entscheidet alleine über die Referendumsart.“  
+„Die Referendumsart ist bereits durch den Bundesrat endgültig festgelegt.“  
 
 **FAQ-Varianten:**  
-- „Wer entscheidet über die Art des Referendums zu den Bilateralen III?“  
-- „Kann der Bundesrat die Referendumsart festlegen?“  
-- „Welche Rolle spielt das Parlament bei der Referendumsfrage?“  
+„Wer entscheidet über die Referendumsart zu den Bilateralen III?“  
+„Kann der Bundesrat die Referendumsart festlegen?“  
+„Welche Rolle spielt das Parlament bei der Referendumsfrage?“
 ---
 ## Claim: „Die Schweiz muss ihre nationale Spesenregelung im Rahmen der Bilateralen III aufgeben.“
 
