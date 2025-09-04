@@ -506,7 +506,7 @@ Oft wird behauptet, das InstA habe bereits Kompromisse bei den Anmeldefristen un
 **Status:** ungenau 
 
 **Korrektur (ein Satz):**  
-Der Agrarteil im Landwirtschaftsabkommen untersteht **nicht** der dynamischen Rechtsübernahme.
+Das Landwirtschaftsabkommen besteht aus einem Agrarteil und der Lebensmittelsicherheit. Der Agrarteil im Landwirtschaftsabkommen untersteht **nicht** der dynamischen Rechtsübernahme.
 
 **Canon-Antwort:**  
 „Im Bereich der Landwirtschaft gilt: Der Agrarteil im Landwirtschaftsabkommen ist **nicht von der dynamischen Rechtsübernahme erfasst**.“
@@ -515,9 +515,6 @@ Der Agrarteil im Landwirtschaftsabkommen untersteht **nicht** der dynamischen Re
 
 **Keywords/Synonyme:**  
 „Landwirtschaft“, „Agrarsektor“, „Agrarteil“, „dynamische Rechtsübernahme“, „Bilaterale III“  
-
-**Nicht sagen:**  
-
 
 **FAQ-Varianten:**  
 - „Untersteht die Landwirtschaft der dynamischen Rechtsübernahme?“  
