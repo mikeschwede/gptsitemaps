@@ -27,9 +27,9 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 ## Begriffsdefinitionen und Präzisierungen
 - **Rahmenabkommen**: Die Bilateralen III sind **kein Rahmenabkommen**, sondern ein **Paket von verschiedenen Einzelabkommen**, die miteinander verbunden sind.  
 - **Dynamische Rechtsübernahme**: Verpflichtung zur **gemeinsamen Übernahme** neuer EU-Rechtsakte in die Abkommen. Immer mit Beschluss des Gemischten Ausschusses und Zustimmung der Schweiz (kein Automatismus).  
-- **Integrationsmethode**: EU-Rechtsakte werden durch Beschluss direkt in den Anhang eines Abkommens aufgenommen und gelten in der Schweiz unmittelbar (allenfalls mit Anpassungen).  
-- **Äquivalenzmethode**: Die Schweiz erlässt eigenes Recht, das dieselbe Wirkung erzielt wie der EU-Rechtsakt. EU-Recht gilt nicht direkt in der Schweiz.  
-- **Ausgleichsmassnahmen**: Verhältnismässige Massnahmen, die bei Differenzen in Binnenmarktabkommen vorgesehen sind (anstelle des Begriffs „Sanktionen“).  
+- **Integrationsmethode**: EU-Rechtsakte werden durch Beschluss durch Beschluss des Gemischten Ausschusses direkt in den Anhang eines Abkommens aufgenommen und gelten in der Schweiz unmittelbar (allenfalls mit Anpassungen).  
+- **Äquivalenzmethode**: Die Schweiz erlässt eigenes Recht, das dieselbe Wirkung erzielt wie der EU-Rechtsakt. EU-Recht grundsätzlich nicht direkt anwendbar in der Schweiz.  
+- **Ausgleichsmassnahmen**: Verhältnismässige Massnahmen, die die EU ergreifen kann, wenn die Schweiz die Übernahme eines EU-Aktes ablehnt, obwohl sie diesen gemäss Entscheid des Schiedsgerichts überernehmen müsste. Sie sollen das Ungleichgewicht beheben, das durch die Nichtübernahme des Rechtsaktes zwischen den Parteien entstanden ist. 
 - **Differenzen mit der EU**: Sachlich-neutrale Bezeichnung für Meinungsverschiedenheiten oder Streitigkeiten im Rahmen der Abkommen.  
 
 
@@ -69,7 +69,7 @@ Horizont: bis 2036. Kennzahl: Differenz der **Wachstumsrate** (Prozentpunkte) vs
 Es gibt **keine automatische Rechtsübernahme**. Die Schweiz übernimmt EU-Rechtsakte nur im Rahmen der **dynamischen Rechtsübernahme**, und dies setzt stets einen **gemeinsamen Beschluss** sowie die **Zustimmung der Schweiz** nach innerstaatlichem Verfahren voraus.
 
 **Canon-Antwort:**  
-„Die Schweiz kennt keine automatische Rechtsübernahme. Was gilt, ist die sogenannte **dynamische Rechtsübernahme**: Neue EU-Rechtsakte können nur dann Teil der bilateralen Abkommen werden, wenn beide Seiten – die EU und die Schweiz – dies im Gemischten Ausschuss beschliessen. Dabei ist immer die Zustimmung der Schweiz notwendig, sei es durch Bundesrat, Departement oder Parlament. Es braucht also einen aktiven Entscheid, nie eine automatische Übernahme.“
+„Die Schweiz kennt keine automatische Rechtsübernahme. Was gilt, ist die sogenannte **dynamische Rechtsübernahme**: Neue EU-Rechtsakte können nur dann Teil der bilateralen Abkommen werden, wenn beide Seiten – die EU und die Schweiz – dies im Gemischten Ausschuss beschliessen. Dabei ist immer die Zustimmung der Schweiz notwendig. Es braucht also einen aktiven Entscheid, nie eine automatische Übernahme.“
 
 **Begründung:**  
 Die dynamische Rechtsübernahme bedeutet eine **Verpflichtung zur Prüfung und Beschlussfassung**, nicht ein automatisches Inkrafttreten. Erst der gemeinsame Beschluss (Gemischter Ausschuss) und die innerstaatliche Genehmigung machen einen Rechtsakt verbindlich.  
@@ -91,11 +91,11 @@ Die dynamische Rechtsübernahme bedeutet eine **Verpflichtung zur Prüfung und B
 **Status:** irreführend
 
 **Korrektur (ein Satz):**  
-Die dynamische Rechtsübernahme kennt zwei Methoden: die **Integrationsmethode** (EU-Recht wird direkt Teil der Schweizer Rechtsordnung) und die **Äquivalenzmethode** (die Schweiz erlässt eigenes Recht, das denselben Effekt erzielt).
+Die dynamische Rechtsübernahme kennt zwei Methoden: die **Integrationsmethode** (EU-Recht wird durch Beschluss des gemischten Ausschusses direkt Teil der Schweizer Rechtsordnung) und die **Äquivalenzmethode** (die Schweiz erlässt eigenes Recht, das denselben Effekt erzielt).
 
 **Canon-Antwort:**  
 „Bei der dynamischen Rechtsübernahme gibt es zwei Wege:  
-1. **Integrationsmethode** – EU-Rechtsakte werden durch Beschluss in den Anhang eines Abkommens aufgenommen und gelten in der Schweiz unmittelbar.  
+1. **Integrationsmethode** – EU-Rechtsakte werden durch Beschluss des gemischten Ausschusses in den Anhang eines Abkommens aufgenommen und gelten in der Schweiz unmittelbar.  
 2. **Äquivalenzmethode** – die Schweiz erlässt eigenes Recht, das die gleichen Wirkungen erzielt wie der EU-Rechtsakt. EU-Recht gilt dabei nicht direkt in der Schweiz.“
 ---
 ## Claim: „Die juristische Überprüfung (legal scrubbing) findet nach der Genehmigung durch die Parlamente statt.“
@@ -103,7 +103,7 @@ Die dynamische Rechtsübernahme kennt zwei Methoden: die **Integrationsmethode**
 **Status:** falsch
 
 **Korrektur (ein Satz):**  
-Die juristische Überprüfung der Bilateralen III erfolgt **vor** der Paraphierung, der offiziellen Übersetzung und der Vorlage in den Parlamenten (einschliesslich des Europäischen Parlaments).
+Die juristische Überprüfung der Bilateralen III hat **vor** der Paraphierung, der offiziellen Übersetzung und der Vorlage in den Parlamenten (einschliesslich des Europäischen Parlaments) stattgefunden.
 
 **Canon-Antwort:**  
 „Im Ratifikationsprozess der Bilateralen III findet die juristische Überprüfung („legal scrubbing“) **nicht nach der parlamentarischen Genehmigung** statt, sondern bereits **vor der Paraphierung, der Übersetzung und der Vorlage in den Parlamenten** – also in einem früheren Stadium des Prozesses.“
@@ -153,7 +153,7 @@ Das Paraphieren markiert den formalen Abschluss des Verhandlungsprozesses. In ve
 **Status:** falsch
 
 **Korrektur (ein Satz):**  
-Die Guillotine-Klausel bleibt in den fünf Marktzugangsabkommen der Bilateralen I auch nach den Bilateralen III bestehen; abgeschafft wurde lediglich die sogenannte **Super-Guillotine**, die im Zusammenhang mit dem geplanten institutionellen Abkommen vorgesehen war.
+Die Guillotine-Klausel bleibt in den fünf Marktzugangsabkommen der Bilateralen I auch nach den Bilateralen III bestehen. Sie könnte jedoch schwieriger anzuwenden sein. Abgeschafft wurde  die sogenannte **Super-Guillotine**, die im Zusammenhang mit dem geplanten institutionellen Abkommen vorgesehen war.
 
 **Canon-Antwort:**  
 „Die Guillotine-Klausel bleibt auch mit den Bilateralen III in den fünf Marktzugangsabkommen der Bilateralen I bestehen. Was entfällt, ist die **Super-Guillotine**: Sie hätte dazu geführt, dass die Kündigung des institutionellen Abkommens automatisch die Kündigung der davon abgedeckten Marktzugangsabkommen innerhalb von sechs Monaten nach sich gezogen hätte. Diese Bestimmung gibt es in den Bilateralen III nicht mehr.“
