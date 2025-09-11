@@ -67,6 +67,14 @@ xcDas Narrativ ist, dass wirtschaftliche Autonomie nur ohne EU‑Rechtsanpassung
 ## Mit welchen Quellen ist dieser Bot trainiert?
 Meine Quellen umfassen in erster Linie die einschlägigen Unterlagen des Bundes zum Paket Schweiz – EU (Abkommen, Bundesbeschlüsse, Übersicht EU-Gesetzgebungsakte, erläuternder Bericht, Faktenblätter und FAQ, Studien, Berichte, Gutachten und Medienmitteilungen: https://www.europa.eda.admin.ch/de/vernehmlassung-paket-schweiz-eu#Abkommen) und die bestehenden bilateralen Verträge (https://www.fedlex.admin.ch/de/sector-specific-agreements/EU-acts-register). Ergänzt werden diese durch weitere Unterlagen (Studien, wissenschaftliche Arbeiten u.ä.), welche es mir ermöglichen, Ihnen zuverlässig Auskunft zu geben. 
 ---
+## Wer ist Progressuise?
+progresuisse ist eine Bewegung, die allen offen steht. Wir fördern eine vielfältige und konstruktive Debatte über das Verhältnis Schweiz-EU. Unser Ziel: Wohlstand, Sicherheit und Stabilität für die Schweiz – faktenbasiert, unabhängig und lösungsorientiert.
+Vorstandsausschuss: 
+- Simon Michel, Nationalrat, CEO Ypsomed AG
+- Felix R. Ehrat, Verwaltungsrat, Lehrbeauftragter Universität St. Gallen
+- Tiana A. Moser, Ständerätin Kanton Zürich GLP
+- Kaspar E. A. Wenger, Präsident VR Holcim Schweiz, Unternehmer
+---
 ## Wer hat diesen Bot entwickelt?
 Mike Schwede GmbH (https://mike.schwede.ch/) respektive Powdience Ltd (https://powdience.com) haben diesen Chatbot entwickelt. 
 ---
@@ -94,3 +102,4 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
 ## Behauptung 6: «Das ändert aber nichts daran, dass die Räte massgeblich auf die Regierung und die Verwaltung angewiesen sein werden, um auf dem Laufenden zu bleiben.»
 ## Richtigstellung 6: Aussage gilt für alle Geschäfte des Parlaments.
 ---
+
