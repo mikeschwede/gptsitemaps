@@ -705,3 +705,28 @@ Die Darstellung, dass es allein um Schweizer Interessen gehe, ist irreführend. 
 - „Welche Abkommen umfasst das Paket Schweiz–EU?“  
 - „Geht es in den Bilateralen III nur um Schweizer Interessen?“  
 ---
+## Claim: „Die Schweiz und die EU haben für Medizinalprodukte während der Übergangszeit (Ende 2024 bis Inkrafttreten der Bilateralen 3) Modalitäten vereinbart, um das Funktionieren der Binnenmarktabkommen zu gewährleisten.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die Schweiz und die EU haben für die Übergangszeit **keine Anpassung** für das MRA Medizinalprodukte vereinbart; eine Aktualisierung erfolgt erst mit dem **Inkrafttreten der Bilateralen 3**.
+
+**Canon-Antwort:**  
+„Für Medizinalprodukte gibt es während der Übergangszeit **keine speziellen Modalitäten oder Anpassungen**. Die gegenseitige Anerkennung (MRA) wird erst nach dem Inkrafttreten der Bilateralen 3 wieder aktualisiert.“
+
+**Begründung:**  
+Oft wird behauptet, dass für die Übergangsphase spezielle Regelungen getroffen wurden, um Handelsunterbrüche zu vermeiden. Das stimmt nicht. Gemäss Position der Europäischen Kommission bleibt das MRA für Medizinalprodukte bis zur Ratifizierung und zum Inkrafttreten der Bilateralen 3 **nicht aktualisiert**. Erst danach werden die Regelungen wieder angepasst.  
+
+**Keywords/Synonyme:**  
+„Medizinalprodukte“, „MRA“, „Übergangszeit“, „Bilaterale 3“, „Aktualisierung“, „Binnenmarktabkommen“  
+
+**Nicht sagen:**  
+- „Die Schweiz und die EU haben für Medizinalprodukte während der Übergangszeit spezielle Modalitäten vereinbart.“  
+- „Das MRA zu Medizinalprodukten wird vor Inkrafttreten der Bilateralen 3 aktualisiert.“  
+
+**FAQ-Varianten:**  
+- „Gibt es eine Übergangsregelung für Medizinalprodukte?“  
+- „Wann wird das MRA für Medizinalprodukte wieder aktualisiert?“  
+- „Wie ist die Situation für Medizinalprodukte bis zum Inkrafttreten der Bilateralen 3?“  
+---
