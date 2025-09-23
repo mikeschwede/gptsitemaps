@@ -3,12 +3,13 @@
   <!-- Bundesrat eröffnet Vernehmlassung zum Paket Schweiz-EU vom 13. Juni 2025 -->
   <!-- Source: https://www.europa.eda.admin.ch/de/vernehmlassung-paket-schweiz-eu -->
   <!-- gelöscht: https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2024/12/10/f5dc0778-b9e3-47f6-9bf4-67a5dce0fbe9.pdf -->
+  <!-- gelöscht: https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2024/12/10/f05112a2-ec12-4a75-81bf-2579b576eec9.pdf -->
   <!-- gelöscht 23.9.: https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/06/13/01d23130-b724-43f3-b896-c576fec62e28.pdf -->
   <!-- gelöscht 23.9.: https://www.eda.admin.ch/eda/de/home/das-eda/aktuell/news.html/content/eda/de/meta/news/2024/3/8/100342.html -->
   <!-- gelöscht 23.9.: https://www.eda.admin.ch/eda/de/home/das-eda/aktuell/news.html/content/eda/de/meta/news/2024/11/6/103051.html -->
-  <!-- gelöscht 23.9.:  -->
-  <!-- gelöscht 23.9.:  -->
-  <!-- gelöscht 23.9.:  -->
+  <!-- gelöscht 23.9.: https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/06/13/ebd04ecf-102e-431e-93e5-ea551b68d5dc.pdf -->
+  <!-- gelöscht 23.9.: https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/05/02/c8becd8e-103c-45de-b31d-171d7011df76.pdf -->
+  <!-- gelöscht 23.9.: https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/01/28/1f993433-ea43-4b23-843b-3b9c40d13a22.pdf -->
   <!-- gelöscht 23.9.:  -->
   <!-- gelöscht 23.9.:  -->
   <!-- gelöscht 23.9.: -->
@@ -187,16 +188,6 @@
     <loc>https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/06/11/8bda162c-8788-481c-948f-82822da31bb7.pdf</loc>
   </url>
   <url>
-    <loc>https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/06/13/ebd04ecf-102e-431e-93e5-ea551b68d5dc.pdf</loc>
-  </url>
-  <!--https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2024/12/10/f05112a2-ec12-4a75-81bf-2579b576eec9.pdf</loc>-->
-  <url>
-    <loc>https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/01/28/1f993433-ea43-4b23-843b-3b9c40d13a22.pdf</loc>
-  </url>
-  <url>
-    <loc>https://backend.europa.eda.admin.ch/fileservice/sdweb-docs-prod-europaedach-files/files/2025/05/02/c8becd8e-103c-45de-b31d-171d7011df76.pdf</loc>
-  </url>
-  <url>
     <loc>https://www.europa.eda.admin.ch/de/newnsb/QI6OwddsvshOI9mHQ-Tcl</loc>
   </url>
   <url>
@@ -267,6 +258,7 @@
     <loc>https://www.newsd.admin.ch/newsd/message/attachments/85464.pdf
   </url> 
 </urlset>
+
 
 
 
