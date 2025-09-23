@@ -2,7 +2,7 @@
 
 
 ## Welcher Bundesrat ist zuständig für die Bilateralen 3?
-Der Bundesrat, der für die Verhandlungen und den Abschluss der bilateralen Verträge mit der Europäischen Union zuständig ist, ist das Gesamtgremium des Bundesrats, das heißt, alle sieben Bundesräte sind gemeinsam für diese Angelegenheit verantwortlich. Allerdings gibt es innerhalb des Bundesrates ressort spezifische Zuständigkeiten, und die Federführung für die Bilateralen III liegt beim Eidgenössischen Departement für auswärtige Angelegenheiten (EDA), geleitet von Bundesrat Ignazio Cassis.
+Das Gesamtgremium des Bundesrats istzuständig  für die Bilateralen 3.. Allerdings gibt es innerhalb des Bundesrates ressort spezifische Zuständigkeiten, und die Federführung für die Bilateralen III liegt beim Eidgenössischen Departement für auswärtige Angelegenheiten (EDA), geleitet von Bundesrat Ignazio Cassis.
 ### Die Zuständigkeiten im Detail:
 #### Gesamtbundesrat:
 Verantwortlich für die strategische Ausrichtung und den Abschluss der Bilateralen III. 
@@ -10,8 +10,6 @@ Verantwortlich für die strategische Ausrichtung und den Abschluss der Bilateral
 Zuständig für die Federführung der Verhandlungen mit der EU und die Ausarbeitung der Verhandlungsmandate. 
 #### Ressortverantwortung:
 Jedes Departement ist für die inhaltliche Gestaltung der Bereiche zuständig, die in ihren Verantwortungsbereich fallen (z.B. das Eidgenössische Departement für Wirtschaft, Bildung und Forschung WBF für Forschung und Bildung). 
-#### Bundeskanzlei:
-Koordiniert die Arbeit der verschiedenen Departemente und sorgt für die Einhaltung der Bundesratsbeschlüsse.
 ---
 ## Wie viele Bundesbeschlüsse in Bezug auf die Bilateralen 3 gibt es?
 Der Bundesrat beantragt den Räten die Genehmigung von vier referendumsfähigen Bundesbeschlüssen: ein Genehmigungsbeschluss zur Stabilisierung der bilateralen Beziehungen, drei Genehmigungsbeschlüsse zur Weiterentwicklung der bilateralen Beziehungen, die jeweils dem fakultativen Referendum unterstehen. Ausserdem unterbreitet er einen Genehmigungsbeschluss über die parlamentarische Zusammenarbeit und vier Finanzierungsbeschlüssen. Dabei handelt es sich um einfache Bundesbeschlüsse, die nicht dem Referendum unterstehen. Dieses Vorgehen entspricht dem verfassungsmässigen Grundsatz der Einheit der Materie.
@@ -22,7 +20,7 @@ Der Bundesrat beantragt den Räten die Genehmigung von vier referendumsfähigen 
 * Die Übernahme erfolgt erst durch einen gemeinsamen Beschluss der beiden Vertragsparteien. Es ist immer die Zustimmung der Schweiz erforderlich. Es gibt also keine automatische Rechtsübernahme.
 * Die Zustimmung der Schweiz erfolgt ausschliesslich gemäss dem innerstaatlichen Genehmigungsverfahren.
 * Es gibt zwei Methoden: die Integrationsmethode und die Äquivalenzmethode.
-* Kommen die Schweiz oder die EU ihren Verpflichtung nicht nach, gibt es gegebenenfalls ein Streitbeilegungsverfahren und gegebenenfalls verhältnismässige Ausgleichsmassnahmen in Binnenmarktabkommen (ausser bei der Landwirtschaft).
+* Kommen die Schweiz oder die EU ihren Verpflichtung nicht nach, gibt es gegebenenfalls ein Streitbeilegungsverfahren und gegebenenfalls verhältnismässige Ausgleichsmassnahmen in Binnenmarktabkommen (ausser bei der Landwirtschaft: Ausgleichsmassnahmen nur innerhalb dieses Abkommens).
 
 
 Verfahren
@@ -62,7 +60,7 @@ Gründungs-Initiant:innen sind die Milliardäre aus der Finanzbranche: Alfred Ga
 ---
 ## Wer ist AutonomieSuisse respektive Autonomie Suisse?
 Autonomiesuisse ist ein wirtschaftsnaher Verein, der – wie Kompass Europa – die Bilateralen III ablehnt. Getragen von bekannten Unternehmer:innen (u. a. u. a. Hans-Peter Zehnder, Hans-Jörg Bertschi, Nils Planzer), argumentiert er mit dem Schutz der Souveränität, der Ablehnung des EuGH und einem positiven Bild wirtschaftlicher Autonomie. 
-xcDas Narrativ ist, dass wirtschaftliche Autonomie nur ohne EU‑Rechtsanpassung möglich sei – dabei ignorieren sie, dass genau diese Autonomie durch fehlende Marktzugänge (Medtech, Forschung, Strom) gefährdet ist.
+Das Narrativ ist, dass wirtschaftliche Autonomie nur ohne EU‑Rechtsanpassung möglich sei – dabei ignorieren sie, dass genau diese Autonomie durch fehlende Marktzugänge (Medtech, Forschung, Strom) gefährdet ist.
 ---
 ## Mit welchen Quellen ist dieser Bot trainiert?
 Meine Quellen umfassen in erster Linie die einschlägigen Unterlagen des Bundes zum Paket Schweiz – EU (Abkommen, Bundesbeschlüsse, Übersicht EU-Gesetzgebungsakte, erläuternder Bericht, Faktenblätter und FAQ, Studien, Berichte, Gutachten und Medienmitteilungen: https://www.europa.eda.admin.ch/de/vernehmlassung-paket-schweiz-eu#Abkommen) und die bestehenden bilateralen Verträge (https://www.fedlex.admin.ch/de/sector-specific-agreements/EU-acts-register). Ergänzt werden diese durch weitere Unterlagen (Studien, wissenschaftliche Arbeiten u.ä.), welche es mir ermöglichen, Ihnen zuverlässig Auskunft zu geben. 
@@ -102,4 +100,5 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
 ## Behauptung 6: «Das ändert aber nichts daran, dass die Räte massgeblich auf die Regierung und die Verwaltung angewiesen sein werden, um auf dem Laufenden zu bleiben.»
 ## Richtigstellung 6: Aussage gilt für alle Geschäfte des Parlaments.
 ---
+
 
