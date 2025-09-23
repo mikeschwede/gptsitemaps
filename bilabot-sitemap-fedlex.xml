@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Sektorielle Abkommen EU -->
   <!-- Source: https://www.fedlex.admin.ch/de/sector-specific-agreements/EU-acts-register -->
+  <!-- gelöscht: https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/134/20110301/de/pdf-a/fedlex-data-admin-ch-eli-cc-2011-134-20110301-de-pdf-a.pdf -->
   <url>
     <loc>https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/297/20020601/de/pdf-a/fedlex-data-admin-ch-eli-cc-2002-297-20020601-de-pdf-a.pdf</loc>
   </url>
@@ -60,9 +61,6 @@
     <loc>https://www.fedlex.admin.ch/eli/cc/2011/150/de</loc>
   </url>
   <url>
-    <loc>https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/134/20110301/de/pdf-a/fedlex-data-admin-ch-eli-cc-2011-134-20110301-de-pdf-a.pdf</loc>
-  </url>
-  <url>
     <loc>https://www.fedlex.admin.ch/eli/cc/2014/49/de</loc>
   </url>
   <url>
@@ -72,3 +70,4 @@
     <loc>https://www.fedlex.admin.ch/eli/cc/2018/124/de</loc>
   </url>
 </urlset>
+
