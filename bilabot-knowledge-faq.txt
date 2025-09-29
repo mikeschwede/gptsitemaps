@@ -125,6 +125,22 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
   - **InstA:** Verstetigung vorgesehen.  
   - **B III:** Verstetigung vertraglich geregelt, ab 2030 ca. 350 Mio. CHF jährlich als Beitrag zur Reduktion der wirtschaftlichen und sozialen Ungleichheiten in der EU. 
 ---
+# Landwirtschaft vs. Lebensmittelsicherheit
 
+## Frage: Gilt die dynamische Rechtsübernahme auch für Landwirtschaft?
 
+**Antwort:**  
+Nein. Hier muss man unterscheiden:  
 
+- **Agrarabkommen (Zollabkommen Landwirtschaft):**  
+  - Regelt die Zölle und den Handel mit landwirtschaftlichen Produkten.  
+  - Keine dynamische Rechtsübernahme.  
+  - Gemeinsames paritätisches Schiedsgericht, **ohne Rolle des EuGH**.  
+  - Keine sektorübergreifenden Ausgleichsmassnahmen.  
+
+- **Protokoll über die Lebensmittelsicherheit (LMS):**  
+  - Ein Binnenmarktabkommen.  
+  - Enthält die **dynamische Rechtsübernahme** neuer EU-Regeln.  
+  - Paritätisches Schiedsgericht, mit optionaler EuGH-Beteiligung bei Fragen der EU-Rechtsauslegung.  
+  - Ausgleichsmassnahmen sind möglich, auch hier nach Prüfung der Verhältnismässigkeit.  
+---
