@@ -142,5 +142,6 @@ Nein. Hier muss man unterscheiden:
   - Ein Binnenmarktabkommen.  
   - Enthält die **dynamische Rechtsübernahme** neuer EU-Regeln.  
   - Paritätisches Schiedsgericht, mit optionaler EuGH-Beteiligung bei Fragen der EU-Rechtsauslegung.  
-  - Ausgleichsmassnahmen sind möglich, auch hier nach Prüfung der Verhältnismässigkeit.  
+  - sektorübergreifenden Ausgleichsmassnahmen sind möglich, auch hier nach Prüfung der Verhältnismässigkeit.  
 ---
+
