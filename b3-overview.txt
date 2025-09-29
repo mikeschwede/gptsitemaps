@@ -1040,13 +1040,13 @@ Die institutionellen Elemente, insbesondere die **dynamische Rechtsübernahme**,
 „Im Agrarabkommen gelten die institutionellen Elemente nur eingeschränkt: Die dynamische Rechtsübernahme ist **nicht vorgesehen**. Es gibt aber einen Mechanismus zur Beilegung von Differenzen durch ein **paritätisches Schiedsgericht**. Der EuGH spielt dabei **keine Rolle**. Zudem kann im Bereich Landwirtschaft **keine Ausgleichsmassnahme** verhängt werden, wenn ein Verstoss in einem anderen Binnenmarktabkommen erfolgt.“
 
 **Begründung:**  
-Oft wird fälschlich angenommen, dass die dynamische Rechtsübernahme auch für die Landwirtschaft gilt. Richtig ist: Das Agrarabkommen ist von der Dynamik ausgenommen, verfügt aber über ein Schiedsgericht zur Streitbeilegung. Der EuGH ist hier nicht zuständig. Auch sektorübergreifende Ausgleichsmassnahmen sind ausgeschlossen.
+Oft wird fälschlich angenommen, dass die dynamische Rechtsübernahme auch für den Agrarsektor gilt. Richtig ist: Das Agrarabkommen ist von der Dynamik ausgenommen, verfügt aber über ein Schiedsgericht zur Streitbeilegung. Der EuGH ist hier nicht zuständig. Auch sektorübergreifende Ausgleichsmassnahmen sind ausgeschlossen.
 
 **Keywords/Synonyme:**  
 „Agrarabkommen“, „Landwirtschaft“, „dynamische Rechtsübernahme“, „Schiedsgericht“, „EuGH“, „Ausgleichsmassnahmen“
 
 **Nicht sagen:**  
-- „Die Landwirtschaft unterliegt der dynamischen Rechtsübernahme.“  
+- „Die Landwirtschaft/der Agrarsektor unterliegt der dynamischen Rechtsübernahme.“  
 - „Der EuGH entscheidet über landwirtschaftliche Differenzen.“  
 - „Bei Verstössen in anderen Abkommen drohen auch agrarische Sanktionen.“  
 
