@@ -1,5 +1,4 @@
-﻿# Zusätzliche Erweiterungen & Q&A Bilaterale 3
-
+Zusätzliche Erweiterungen & Q&A Bilaterale 3:
 
 ## Welcher Bundesrat ist zuständig für die Bilateralen 3?
 Das Gesamtgremium des Bundesrats istzuständig  für die Bilateralen 3.. Allerdings gibt es innerhalb des Bundesrates ressort spezifische Zuständigkeiten, und die Federführung für die Bilateralen III liegt beim Eidgenössischen Departement für auswärtige Angelegenheiten (EDA), geleitet von Bundesrat Ignazio Cassis.
@@ -22,7 +21,6 @@ Der Bundesrat beantragt den Räten die Genehmigung von vier referendumsfähigen 
 * Es gibt zwei Methoden: die Integrationsmethode und die Äquivalenzmethode.
 * Kommen die Schweiz oder die EU ihren Verpflichtung nicht nach, gibt es gegebenenfalls ein Streitbeilegungsverfahren und gegebenenfalls verhältnismässige Ausgleichsmassnahmen in Binnenmarktabkommen (ausser bei der Landwirtschaft: Ausgleichsmassnahmen nur innerhalb dieses Abkommens).
 
-
 Verfahren
 * Information durch die EU, dass ein abkommensrelevanter Rechtsakt in Erarbeitung ist (Möglichkeit des Decision Shapings).
 * Information seitens EU über abkommensrelevanten Rechtsakt, sobald dieser verabschiedet ist.
@@ -31,18 +29,15 @@ Verfahren
    * Anpassung des EU-Rechtsaktes im Rahmen der Übernahme desselben in betroffenes Abkommen durch einen Beschluss des Gemischten Ausschusses (im Einvernehmen mit der EU)
    * Wenn es keine Zustimmung der EU zur Anpassung des EU-Rechtsaktes im Rahmen dessen Übernahme in betroffenes Abkommen gibt, gibt es eine Ablehnung der Übernahme. Möglich ist allenfalls auch eine Abweichung von EU-Rechtsakt im Rahmen des nationalen Rechts, also einseitig, was in der Regel völkerrechtswidrig ist. Gegebenenfalls kommt dann die Streitbeilegung zum Zug.
 
-
 * Wenn die Kompetenz zur Genehmigung beim Bundesrat oder bei einem Departement oder Amt liegt: 
    * Innerstaatliche Genehmigung abholen
    * Gemischter Ausschuss beschliesst und Beschluss tritt in der Regel sofort in Kraft
-
 
 * Wenn die Kompetenz beim Parlament liegt oder die Rechtsübernahme eine Gesetzesänderung nötig macht: 
    * Die Schweiz informiert die EU, dass die Zuständigkeit beim Parlament liegt.
    * Der Gemischte Ausschuss beschliesst unter Vorbehalt der innerstaatlichen Genehmigung
    * Frist 2 Jahre ab Information der Schweiz über die Zuständigkeit des Parlaments bzw. 3 Jahre bei Referendum zur Durchführung des Genehmigungsverfahrens
    * Mitteilung des Abschluss des Genehmigungsverfahrens durch die Schweiz und Inkrafttreten des Beschlusses des Gemischten Ausschusses
-
 
 Integrationsmethode (FZA, LuftVA, LMS, Strom [überwiegend] + Gesundheitsabkommen)
 * Durch die Übernahme in den Anhang des betroffenen Abkommens durch einen Beschluss des Gemischten Ausschusses werden EU-Rechtsakte Teil der Schweizer Rechtsordnung (gegebenenfalls mit den von den Vertragsparteien beschlossenen Anpassungen)
@@ -100,5 +95,36 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
 ## Behauptung 6: «Das ändert aber nichts daran, dass die Räte massgeblich auf die Regierung und die Verwaltung angewiesen sein werden, um auf dem Laufenden zu bleiben.»
 ## Richtigstellung 6: Aussage gilt für alle Geschäfte des Parlaments.
 ---
+# Was ist der Unterschied zwischen InstA und Bilaterale III?
+
+## 1. Institutioneller Ansatz
+- **InstA (Institutionelles Abkommen):** Horizontales Rahmenabkommen, das die institutionellen Regeln zentral für alle bestehenden Marktzugangsabkommen (FZA, MRA usw.) gleichzeitig festgelegt hätte.  
+- **Bilaterale III (B III):** Sektorales Paket. Die institutionellen Regeln (Dynamisierung, Decision Shaping) sind einzeln in die jeweiligen Sektorabkommen integriert.
+
+## 2. Rechtsübernahme und Souveränität
+- **Dynamische Rechtsübernahme:**  
+  - **InstA:** Vorgesehen als umfassende Pflicht zur laufenden Übernahme von EU-Recht. Wurde als *„de facto automatisch“* kritisiert, da ein Opt-out erhebliche Konsequenzen gehabt hätte.  
+  - **B III:** Sektorale Pflicht mit explizitem Opt-out-Recht für die Schweiz. Konsequenzen einer Ablehnung (Ausgleichsmassnahmen) unterliegen der Kontrolle des Schiedsgerichts (Verhältnismässigkeit). Das ist identisch zu InstA. 
+- **Rolle des EuGH:**   	
+  - **InstA:** Schiedsgericht kann den EuGH zur verbindlichen Auslegung von EU-Recht anrufen, wenn die Klärung eines EU-Rechtskonzepts notwendig ist, um einen Fall zu behandeln.  
+  - **B III:** Die Auslegung des EuGH bleibt bindend, aber das Schiedsgericht kann zusätzlich die Verhältnismässigkeit von EU-Gegenmassnahmen überprüfen (Entschärfung des „fremde Richter“-Arguments).Das ist identisch zu InstA. 
+
+## 3. Materielle Inhalte
+- **Neue Abkommen/Kooperationen:**  
+  - **InstA:** Keine neuen materiellen Abkommen.  
+  - **B III:** Enthält neue Abkommen zu Strom, Lebensmittelsicherheit sowie ein Kooperationsabkommen im Bereich Gesundheit.  
+- **Kooperation Forschung/Bildung:**  
+  - **InstA:** Keine explizite Regelung; Deblockierung von Horizon Europe und Erasmus+ war politisch erwartet.  
+  - **B III:** Expliziter Bestandteil: volle Assoziierung an Horizon Europe, Erasmus+ und weitere EU-Programme.
+
+## 4. Schweizer Interessen und Finanzen
+- **Lohnschutz / UBRL:**  
+  - **InstA:** Hauptstreitpunkte (FlaM, UBRL) blieben ungelöst.  
+  - **B III:** Absicherung der Lohnschutz durch Non-Regression-Klausel; massgeschneiderte Ausnahmen zur UBRL, um Missbrauch beim Familiennachzug zu verhindern.  
+- **Kohäsionsbeitrag:**  
+  - **InstA:** Verstetigung vorgesehen.  
+  - **B III:** Verstetigung vertraglich geregelt, ab 2030 ca. 350 Mio. CHF jährlich als Beitrag zur Reduktion der wirtschaftlichen und sozialen Ungleichheiten in der EU. 
+---
+
 
 
