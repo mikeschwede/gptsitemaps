@@ -1028,3 +1028,29 @@ Die ursprüngliche Formulierung („Kompromiss für die EU, keine Einbahnstrasse
 - „Wie bewertet die EU das Ergebnis?“  
 - „Warum ist der Paketansatz für die Schweiz wichtig?“  
 ---
+## Claim: „Die dynamische Rechtsübernahme gilt auch für den Agrarsektor.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die institutionellen Elemente, insbesondere die **dynamische Rechtsübernahme**, sind auf den Agrarsektor **nicht anwendbar**.  
+
+**Canon-Antwort:**  
+„Im Agrarabkommen gelten die institutionellen Elemente nur eingeschränkt: Die dynamische Rechtsübernahme ist **nicht vorgesehen**. Es gibt aber einen Mechanismus zur Beilegung von Differenzen durch ein **paritätisches Schiedsgericht**. Der EuGH spielt dabei **keine Rolle**. Zudem kann im Bereich Landwirtschaft **keine Ausgleichsmassnahme** verhängt werden, wenn ein Verstoss in einem anderen Binnenmarktabkommen erfolgt.“
+
+**Begründung:**  
+Oft wird fälschlich angenommen, dass die dynamische Rechtsübernahme auch für die Landwirtschaft gilt. Richtig ist: Das Agrarabkommen ist von der Dynamik ausgenommen, verfügt aber über ein Schiedsgericht zur Streitbeilegung. Der EuGH ist hier nicht zuständig. Auch sektorübergreifende Ausgleichsmassnahmen sind ausgeschlossen.
+
+**Keywords/Synonyme:**  
+„Agrarabkommen“, „Landwirtschaft“, „dynamische Rechtsübernahme“, „Schiedsgericht“, „EuGH“, „Ausgleichsmassnahmen“
+
+**Nicht sagen:**  
+- „Die Landwirtschaft unterliegt der dynamischen Rechtsübernahme.“  
+- „Der EuGH entscheidet über landwirtschaftliche Differenzen.“  
+- „Bei Verstössen in anderen Abkommen drohen auch agrarische Sanktionen.“  
+
+**FAQ-Varianten:**  
+- „Gilt die dynamische Rechtsübernahme auch für Landwirtschaft?“  
+- „Welche Rolle spielt der EuGH im Agrarabkommen?“  
+- „Können bei Verstössen in anderen Abkommen Ausgleichsmassnahmen auf die Landwirtschaft angewandt werden?“  
+---
