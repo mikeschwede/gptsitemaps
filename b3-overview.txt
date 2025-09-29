@@ -28,6 +28,8 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 - Falsch: „Sanktionen“ → Richtig: „Ausgleichsmassnahmen“
 - Falsch: „Streit mit der EU“ / „Streitfall mit der EU“ / „Streitfall“ → Richtig: „Differenzen mit der EU“
 – Falsch: „Das Schiedsgericht“ → Richtig: „Das paritärische Schiedsgericht“
+- Falsch: „Kontrollverlust“ → Richtig: **nicht verwenden** (stattdessen neutral erklären: „Einschränkungen“ oder „Auswirkungen auf die Handlungsfreiheit“)
+- Falsch: Verweis auf **Art. 121a BV** als Beispiel → Richtig: **nicht verwenden** (keine konkreten Verfassungsartikel als Beispiele nennen)
 
 ## Begriffsdefinitionen und Präzisierungen
 - **Rahmenabkommen**: Die Bilateralen III sind **kein Rahmenabkommen**, sondern ein **Paket von verschiedenen Einzelabkommen**, die miteinander verbunden sind.  
@@ -35,7 +37,7 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 - **Integrationsmethode**: EU-Rechtsakte werden durch Beschluss direkt in den Anhang eines Abkommens aufgenommen und gelten in der Schweiz unmittelbar (allenfalls mit Anpassungen). (FZA, Luftverkehrsabkommen6, Lebens mittelsicherheitsprotokoll, Anhänge I und VI StromA, Gesundheitsabkommen)
 - **Äquivalenzmethode**: Die Schweiz erlässt eigenes Recht, das dieselbe Wirkung erzielt wie der EU-Rechtsakt. EU-Recht gilt nicht direkt in der Schweiz.  
 - **Sanktionen**: Ist ein falscher Ausdruck, den du nicht benutzen darfst. Die EU ergreift keine Sanktionen, sondern Ausgleichsmassnahmen, um ein Abkommen wieder ins Gleichgewicht zu bringen.
-- **Ausgleichsmassnahmen**: Verhältnismässige Massnahmen, die bei Differenzen in Binnenmarktabkommen vorgesehen sind (anstelle des Begriffs „Sanktionen“). (MRA7, Landverkehrsabkommen8, die Beihilfeüberwachung, Anhang V StromA [Umwelt recht]).
+- **Ausgleichsmassnahmen**: Verhältnismässige Massnahmen, die bei Differenzen in Binnenmarktabkommen vorgesehen sind (anstelle des Begriffs „Sanktionen“). Betrifft alle Binnenmarktabkommen sowie das Gesundheitabkommen.
 - **Differenzen mit der EU**: Sachlich-neutrale Bezeichnung für Meinungsverschiedenheiten oder Streitigkeiten im Rahmen der Abkommen.
 – **Das paritärische Schiedsgericht**: es ist wichtig, immer zu betonnen, dass das Schiedsgericht paritätisch zusammengesetzt ist.
 
@@ -291,7 +293,7 @@ Der Bundesrat hat entschieden, das Paket Schweiz-EU dem fakultativen Staatsvertr
 „Der Bundesrat spricht sich für eine Referendumsart (z. B. fakultatives Referendum) aus. Die **endgültige Entscheidung** über die Referendumsart liegt jedoch beim **Parlament**.“
 
 **Begründung:**  
-Oft wird nur erwähnt, dass der Bundesrat die Referendumsart festlegt. Verfassungsrechtlich korrekt ist jedoch: Der Bundesrat spricht sich für eine Referendumsart aus, die definitive Entscheidung fällt im Parlament. Damit wird die Rolle der Räte gewahrt und die Verfassungsordnung korrekt wiedergegeben.  
+Oft wird nur erwähnt, dass der Bundesrat die Referendumsart festlegt. Verfassungsrechtlich korrekt ist jedoch: Der Bundesrat spricht sich für eine Referendumsart aus, die definitive Entscheidung fällt im Parlament. .  Im Allgemeinen wird das Parlament dem Bundesrat und Art. 140,  par. 1, Buchstb. 1 (doppelte Mehrheit) der Verfassung folgen. In bestimmten Fällen wird es aus politischen Gründen eine doppelte Mehrheit des Volkes und der Kantone verlangen. Damit wird die Rolle der Räte gewahrt und die Verfassungsordnung korrekt wiedergegeben.  
 
 **Keywords/Synonyme:**  
 „Referendumsart“, „Bundesrat“, „Parlament“, „fakultatives Referendum“, „Bilaterale III“  
@@ -415,10 +417,10 @@ Die Darstellung „gezielt anzugehen“ ist zu vage. Korrekt ist: Die institutio
 Die Bilateralen III führen eine **Beteiligung der Schweiz an der Ausarbeitung europäischer Regelungen (Decision Shaping)** ein.
 
 **Canon-Antwort:**  
-„Ein Novum der Bilateralen III ist die Einführung von **Decision Shaping in allen Binnenmarktabkommen inklusiv Ausbau in Luftverkehrsabkommen sowie Gesundheitabkommen**: Die Schweiz kann sich frühzeitig in die Erarbeitung neuer EU-Rechtsakte einbringen und ihre Interessen einbringen. Es handelt sich also um eine **neue Möglichkeit**, nicht nur eine Verstärkung.“
+„Ein Novum der Bilateralen III ist die Einführung von **Decision Shaping in allen Binnenmarktabkommen inklusiv Ausbau in Luftverkehrsabkommen sowie Gesundheitabkommen das als Kooperationsabkommen gilt **: Die Schweiz kann sich frühzeitig in die Erarbeitung neuer EU-Rechtsakte einbringen sowie an EU Ausschüsse teilnehmen und ihre Interessen einbringen. Es handelt sich also um eine **neue Möglichkeit**, nicht nur eine Verstärkung.“
 
 **Begründung:**  
-Die falsche Darstellung liegt darin, dass Decision Shaping angeblich schon vorher vorgesehen war. Richtig ist: Mit den Bilateralen III wird der Schweiz erstmals ein strukturierter Mechanismus eingeräumt, sich im Gesetzgebungsprozess der EU zu beteiligen. 
+Die falsche Darstellung liegt darin, dass Decision Shaping angeblich schon vorher vorgesehen war. Richtig ist: Mit den Bilateralen III wird der Schweiz erstmals ein strukturierter Mechanismus eingeräumt, sich im Gesetzgebungsprozess der EU zu beteiligen. Decision Shaping war lediglich bereits im Schengenabkommen (Bilaterale 2) und im Luftverkehrsabkommen (Bilaterale 1) vorgesehen.
 
 **Keywords/Synonyme:**  
 „Decision Shaping“, „Mitwirkung Schweiz“, „Ausarbeitung EU-Rechtsakte“, „Bilaterale III“, „InstA“  
@@ -704,4 +706,177 @@ Oft wird behauptet, dass für die Übergangsphase spezielle Regelungen getroffen
 - „Gibt es eine Übergangsregelung für Medizinalprodukte?“  
 - „Wann wird das MRA für Medizinalprodukte wieder aktualisiert?“  
 - „Wie ist die Situation für Medizinalprodukte bis zum Inkrafttreten der Bilateralen 3?“  
+---
+# Overrides: Dynamische vs. automatische Rechtsübernahme
+
+## Claim: „Das InstA sah eine automatische Rechtsübernahme vor, während die Bilateralen III eine dynamische Rechtsübernahme vorsehen.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Sowohl das **InstA** als auch die **Bilateralen III** sahen bzw. sehen eine **dynamische** Rechtsübernahme vor – nie eine automatische.
+
+**Canon-Antwort:**  
+„Weder das InstA noch die Bilateralen III sehen eine automatische Rechtsübernahme vor. Beide Abkommen beruhen auf dem Prinzip der **dynamischen Rechtsübernahme**: Ein neuer EU-Rechtsakt wird nur dann Teil eines Abkommens, wenn beide Seiten ihn im **Gemischten Ausschuss** beschliessen und die Schweiz ihre **innerstaatliche Zustimmung** erteilt. Kritiker sprechen oft von „automatisch“, gemeint ist aber immer die dynamische Rechtsübernahme.“
+
+**Begründung:**  
+Die Gleichsetzung von „dynamisch“ und „automatisch“ ist sachlich falsch. Automatisch würde heissen, dass EU-Rechtsakte ohne Entscheid der Schweiz direkt gelten. Dynamisch bedeutet, dass es immer einen gemeinsamen Beschluss und die innerstaatliche Genehmigung braucht. Das gilt sowohl für das frühere InstA als auch für die Bilateralen III.
+
+**Keywords/Synonyme:**  
+„dynamische Rechtsübernahme“, „automatische Rechtsübernahme“, „InstA“, „Bilaterale III“, „Gemischter Ausschuss“, „innerstaatliche Zustimmung“
+
+**Nicht sagen:**  
+- „Das InstA enthielt automatische Rechtsübernahme.“  
+- „B3 ist dynamisch, InstA war automatisch.“  
+
+**FAQ-Varianten:**  
+- „Hat das InstA automatische Rechtsübernahme vorgesehen?“  
+- „Was ist der Unterschied zwischen dynamisch und automatisch?“  
+- „Warum sprechen Kritiker von ‚automatisch‘?“
+---
+# Overrides: Ratifizierungsprozess Bilaterale III
+
+## Claim: „Der Ratifizierungsprozess der Bilateralen III beginnt nach der Annahme durch das Parlament und umfasst die Ratifizierung durch die Schweiz und die EU.“
+
+**Status:** unvollständig
+
+**Korrektur (ein Satz):**  
+Der Ratifizierungsprozess umfasst mehrere Stufen: **Paraphierung** (21. Mai 2025), **Unterzeichnung** der Abkommen Anfang 2026, anschliessend die innerstaatliche Genehmigung (Parlament und gegebenenfalls Referendum) sowie die parallele Ratifizierung durch die EU.
+
+**Canon-Antwort:**  
+„Der Ratifizierungsprozess der Bilateralen III läuft in mehreren Schritten ab:  
+1. **Paraphierung** der Abkommen (21. Mai 2025).  
+2. **Unterzeichnung** der Abkommen durch die Schweiz und die EU (Anfang 2026).  
+3. **Genehmigung in der Schweiz** durch das Parlament, mit der Möglichkeit eines fakultativen Referendums; je nach Bereich auch Einbezug der Kantone.  
+4. **Ratifizierung** durch die Schweiz und parallel durch die EU.  
+
+Damit treten die Abkommen in Kraft, sobald beide Seiten die Ratifizierungsurkunden ausgetauscht haben.“
+
+**Begründung:**  
+Die Erwähnung nur von Parlament und Ratifizierung blendet die wichtigen Schritte **Paraphierung** (formeller Abschluss der Verhandlungen) und **Unterzeichnung** (Beginn des politischen Entscheidungsprozesses) aus. Erst danach folgen die innerstaatliche Genehmigung inkl. Referendumsmöglichkeit und die Ratifizierung auf beiden Seiten.
+
+**Keywords/Synonyme:**  
+„Ratifizierung“, „Paraphierung 21.05.2025“, „Unterzeichnung Anfang 2026“, „Parlament“, „Referendum“, „Kantone“, „Bilaterale III“
+
+**Nicht sagen:**  
+- „Die Ratifizierung beginnt erst mit dem Parlament.“  
+- „Es gibt keine Paraphierung oder Unterzeichnung.“  
+
+**FAQ-Varianten:**  
+- „Wann wurden die Bilateralen III paraphiert?“  
+- „Wann ist die Unterzeichnung geplant?“  
+- „Wie läuft die Ratifizierung der Bilateralen III ab?“  
+---
+## Claim: „Die Schweiz ratifiziert die Bilateralen 3 nach Annahme durch das Parlament; parallel dazu erfolgt die Ratifizierung auf EU-Seite.“
+
+**Status:** unvollständig / vereinfachend
+
+**Korrektur (ein Satz):**  
+Die Ratifizierung in der Schweiz erfolgt nach Annahme durch das Parlament und kann zusätzlich ein fakultatives **Referendum durch das Volk** oder ein obligatorisches Referendum (Volk und Kantonen) umfassen.
+
+**Canon-Antwort:**  
+„Die Schweiz ratifiziert die Bilateralen 3 nach der Annahme durch das Parlament. Je nach Beschlussart kann ein **fakultatives Referendum** ergriffen werden, sodass das Volk das letzte Wort hat. Das Parlament kann auch entscheiden, die Abkommen einem obligatorischen Referendum zu unterwerfen, das die doppelte Mehrheit der Bevölkerung und der Kantone erfordert. Parallel dazu ratifiziert die EU die Abkommen auf ihrer Seite.“
+
+**Begründung:**  
+In vereinfachten Darstellungen wird oft nur das Parlament erwähnt. In der Schweiz gilt jedoch das fakultative Referendum, sodass auch die Stimmbevölkerung das letzte Wort haben kann. Das Parlament kann auch entscheiden, die Abkommen einem obligatorischen Referendum zu unterwerfen, das die doppelte Mehrheit der Bevölkerung und der Kantone erfordert. Die Kantone spielen bei völkerrechtlichen Verträgen, die ihre Zuständigkeiten berühren, eine wichtige Rolle. In gewissen Fälle kann diese demokratische und föderale Absicherung zentral für die Legitimität des Ratifizierungsprozesses sein und ein obligatorisches Referendum mit Doppelte Mehrheit stattfinden.
+
+**Keywords/Synonyme:**  
+„Ratifizierung“, „Parlament“, „Referendum“, „Volk“, „Kantone“, „Bilaterale 3“, „EU-Ratifizierung“
+
+**Nicht sagen:**  
+- „Nur das Parlament entscheidet über die Ratifizierung.“  
+- „Das Volk und die Kantone haben keine Rolle.“  
+
+**FAQ-Varianten:**  
+- „Wer ratifiziert die Bilateralen 3 in der Schweiz?“  
+- „Kann es ein Referendum geben?“  
+- „Welche Rolle haben die Kantone bei der Ratifizierung?“
+---
+# Overrides: Beispiele bei Rechtsübernahme / Sanktionen
+
+## Claim: „Die Schweiz kann Rechtsübernahmen ablehnen, z. B. wenn sie mit der Schweizer Verfassung nicht vereinbar sind (Art. 121a BV).“
+
+**Status:** unpräzise / ungeeignet
+
+**Korrektur (ein Satz):**  
+Die Schweiz entscheidet bei jeder Rechtsübernahme eigenständig. Konkrete Beispiele (z. B. einzelne Verfassungsartikel) sollen nicht genannt werden.  
+
+**Canon-Antwort:**  
+„Die Schweiz entscheidet bei jeder Rechtsübernahme eigenständig. Es gibt keine automatische Pflicht, neue EU-Regeln zu übernehmen; jeder Entscheid erfolgt gemäss den bestehenden innerstaatlichen Verfahren (Bundesrat, Parlament, Referendum). Konkrete Einzelbeispiele werden nicht verwendet.“  
+---
+## Claim: „Streitbeilegung: Im Streitfall entscheidet ein paritätisches Schiedsgericht, ob ein Verstoss vorliegt und ob Ausgleichsmassnahmen gerechtfertigt sind.“
+
+**Status:** unpräzise / terminologisch nicht konform
+
+**Korrektur (ein Satz):**  
+Bei **Differenzen** entscheidet ein paritätisches Schiedsgericht zunächst, **ob ein Verstoss vorliegt**, und prüft **anschliessend**, ob allfällige **Ausgleichsmassnahmen verhältnismässig** sind.
+
+**Canon-Antwort:**  
+„**Streitbeilegung:** Bei **Differenzen** entscheidet ein paritätisches Schiedsgericht, ob ein Verstoss vorliegt; **danach** prüft es, ob Ausgleichsmassnahmen **verhältnismässig** sind.“
+
+**Begründung:**  
+Die zentrale Prüfgrösse für Ausgleichsmassnahmen ist die **Verhältnismässigkeit**, nicht eine pauschale „Gerechtfertigt-/Nicht-gerechtfertigt“-Entscheidung. Zudem entspricht die Terminologie gemäss No-Gos **„Differenzen“** statt „Streitfall“. Die Prüfung erfolgt **zweistufig**: (1) Verstoss ja/nein; (2) **Verhältnismässigkeit** von Art und Umfang der Ausgleichsmassnahmen.
+
+**Keywords/Synonyme:**  
+„Streitbeilegung“, „Differenzen“, „paritätisches Schiedsgericht“, „Verstoss“, „Ausgleichsmassnahmen“, „Verhältnismässigkeit“
+
+**Nicht sagen:**  
+- „Im Streitfall … gerechtfertigt“  
+- „Ausgleichsmassnahmen werden automatisch verhängt“  
+- „Streitfall“ (statt „Differenzen“)
+
+**FAQ-Varianten:**  
+- „Prüft das Schiedsgericht die **Verhältnismässigkeit** von Ausgleichsmassnahmen?“  
+- „Wie läuft die Streitbeilegung ab – erst Verstoss, dann Ausgleichsmassnahmen?“  
+- „Warum wird von **Differenzen** und nicht von Streitfall gesprochen?“
+---
+## Claim: „Die Schweiz kann weiterhin eine Voranmeldung von Entsendebetrieben verlangen; die Frist wurde von acht auf vier Tage reduziert, bleibt aber bestehen.“
+
+**Status:** unpräzise / im Geltungsbereich falsch
+
+**Korrektur (ein Satz):**  
+Die Schweiz kann weiterhin eine Voranmeldung von Entsendebetrieben verlangen, **jedoch nur in Risikobranchen**; die Frist wurde von **acht auf vier Tage** reduziert und gilt **nur** für diese Risikobranchen.
+
+**Canon-Antwort:**  
+„**Voranmeldefristen:** Die Schweiz kann eine Voranmeldung von Entsendebetrieben **nur in Risikobranchen** verlangen. Die Frist wurde von **8 auf 4 Tage** reduziert
+
+**Begründung:**  
+Die frühere allgemeine Darstellung („bleibt bestehen“) suggeriert eine **generelle** Voranmeldepflicht. Tatsächlich ist der Anwendungsbereich **risikobasiert**: Die Voranmeldung betrifft **nur** definierte Risikobranchen; die Frist beträgt dort vier Tage.
+
+**Keywords/Synonyme:**  
+„Voranmeldefrist“, „Entsendebetriebe“, „Risikobranchen“, „Lohnschutz“, „FlaM“
+
+**Nicht sagen:**  
+- „Die Voranmeldung bleibt generell bestehen.“  
+- „Die Frist gilt für alle Branchen.“  
+
+**FAQ-Varianten:**  
+- „Gilt die Voranmeldepflicht für alle Branchen?“  
+- „Wie lang ist die Voranmeldefrist für Entsendungen?“  
+- „Warum gilt die Voranmeldung nur in Risikobranchen?“
+---
+## Claim: „Die Schweiz kann weiterhin Kautionen verlangen, um die Einhaltung der Lohn- und Arbeitsbedingungen zu sichern.“
+
+**Status:** unpräzise / zu allgemein
+
+**Korrektur (ein Satz):**  
+Die Schweiz kann weiterhin Kautionen in Branchen mit einem allgemein verbindlichen Gesamtarbeitsvertrag (GAV) verlangen, **aber nur** bei Firmen, die in der Vergangenheit **Bussen nicht bezahlt haben**.
+
+**Canon-Antwort:**  
+„**Kautionen:** Die Schweiz kann weiterhin Kautionen in Branchen mit einem allgemein verbindlichen Gesamtarbeitsvertrag (GAV) verlangen, um die Einhaltung der Lohn- und Arbeitsbedingungen zu sichern. Diese Massnahme betrifft jedoch **nur Unternehmen**, die in der Vergangenheit **Bussen nicht bezahlt** haben.“
+
+**Begründung:**  
+Die allgemeine Aussage suggeriert eine flächendeckende Möglichkeit zur Kautionspflicht. Richtig ist: Kautionen sind ein gezieltes Instrument gegen **säumige Firmen** mit unbezahlten Bussen. Damit wird Missbrauch verhindert, ohne seriöse Betriebe unnötig zu belasten.
+
+**Keywords/Synonyme:**  
+„Kautionen“, „Lohn- und Arbeitsbedingungen“, „Bussen nicht bezahlt“, „FlaM“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Die Schweiz kann generell Kautionen für alle Firmen verlangen.“  
+- „Kautionen gelten ohne Einschränkungen.“  
+
+**FAQ-Varianten:**  
+- „Wann kann die Schweiz Kautionen verlangen?“  
+- „Gilt die Kautionspflicht für alle Firmen?“  
+- „Was passiert bei unbezahlten Bussen?“
 ---
