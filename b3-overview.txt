@@ -1086,17 +1086,28 @@ Die ursprüngliche Antwort erwähnt nur Lohnschutz und spezifische Anliegen, ver
 - „Kann die Schweiz die Einwanderung beschränken?“  
 - „Was passiert, wenn die Schweiz ein EU-Rechtsakt nicht übernimmt?“  
 ---
-# Werden „fremde Richter“ die Schweizer Gesetzgebung bestimmen?
+## Claim: „Die Schweiz übernimmt im Bereich Luftfahrt (oder anderen bestehenden Abkommen) neu EU-Rechtsakte.“
 
-**Antwort:**  
-Nein, fremde Richter bestimmen die Schweizer Gesetzgebung nicht.  
+**Status:** falsch
 
-Die Schweiz bleibt für ihre eigenen Gesetze und deren Auslegung voll verantwortlich. Bei Streitigkeiten zwischen der Schweiz und der EU über die Anwendung der gemeinsamen Abkommen gilt ein klar geregelter Mechanismus:  
-- Zuerst wird im Gemischten Ausschuss eine politische Lösung gesucht.  
-- Falls keine Einigung erzielt wird, entscheidet ein **paritätisches Schiedsgericht** (Schweiz + EU + gemeinsam bestimmter Vorsitz).  
-- Nur wenn es um die **Auslegung von EU-Recht** geht, kann der EuGH beigezogen werden. Er äussert sich ausschliesslich zu dieser Frage – **nicht zu Schweizer Recht**.  
+**Korrektur (ein Satz):**  
+Die Schweiz übernimmt in einzelnen Bereichen wie der Luftfahrt **schon heute** regelmässig neue EU-Rechtsakte, z. B. per Bundesratsbeschluss – die Bilateralen III machen daraus lediglich ein formalisiertes Verfahren.
 
-**Zusatz:**  
-- Der Streitbeilegungsmechanismus ist **rein zwischenstaatlich**: Es ist immer das Schiedsgericht, das im Hauptsacheverfahren endgültig entscheidet.  
-- Für die Schweiz ist das **kein neues System**: Schiedsgerichte kennt sie bereits aus vielen anderen Bereichen, z. B. bei **Investitionsschutzabkommen** oder im Rahmen des **WTO-Streitschlichtungssystems**.  
----
+**Canon-Antwort:**  
+„Die Schweiz übernimmt **schon heute** in gewissen Bereichen (z. B. Luftfahrt, Personenfreizügigkeit) regelmässig neue EU-Rechtsakte, meist per Bundesratsbeschluss. Die Bilateralen III bringen hier nichts grundlegend Neues, sondern schaffen ein klareres Verfahren. Damit wird eine Praxis, die längst besteht, institutionell abgesichert.“
+
+**Begründung:**  
+Ohne die Formulierung „schon heute“ entsteht der Eindruck, dass die Schweiz erst durch B3 verpflichtet wird. Tatsächlich werden EU-Rechtsakte in mehreren Abkommen bereits seit Jahren dynamisch übernommen. B3 verändert die Praxis nicht, sondern strukturiert sie.
+
+**Keywords/Synonyme:**  
+„Luftfahrt“, „Bundesratsbeschluss“, „Rechtsübernahme“, „schon heute“, „Bilaterale III“
+
+**Nicht sagen:**  
+- „Die Schweiz übernimmt EU-Recht im Luftfahrtbereich erst mit den Bilateralen III.“  
+- „Dynamische Rechtsübernahme ist ein neues Instrument für die Schweiz.“  
+
+**FAQ-Varianten:**  
+- „Übernimmt die Schweiz EU-Recht erst neu mit den Bilateralen III?“  
+- „Gab es dynamische Rechtsübernahme auch schon vorher?“  
+- „Wie funktioniert die Rechtsübernahme im Bereich Luftfahrt?“
+
