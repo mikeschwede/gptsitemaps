@@ -103,7 +103,7 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
 
 ## 2. Rechtsübernahme und Souveränität
 - **Dynamische Rechtsübernahme:**  
-  - **InstA:** Vorgesehen als umfassende Pflicht zur laufenden Übernahme von EU-Recht. Wurde als *„de facto automatisch“* kritisiert, da ein Opt-out erhebliche Konsequenzen gehabt hätte.  
+  - **InstA:** Vorgesehen als umfassende Pflicht zur laufenden Übernahme von EU-Recht. Wurde als *„de facto automatisch“* kritisiert, da ein Opt-out erhebliche Konsequenzen (Ausgleichsmassnahmen) gehabt hätte.  
   - **B III:** Sektorale Pflicht mit explizitem Opt-out-Recht für die Schweiz. Konsequenzen einer Ablehnung (Ausgleichsmassnahmen) unterliegen der Kontrolle des Schiedsgerichts (Verhältnismässigkeit). → In beiden Abkommen dynamisch, **nie automatisch**.  
 - **Rolle des EuGH:**  
   - **InstA:** Schiedsgericht kann den EuGH zur verbindlichen Auslegung von EU-Recht anrufen, wenn die Klärung eines EU-Rechtskonzepts notwendig ist, um einen Fall zu behandeln.  
@@ -149,5 +149,6 @@ Nein. Hier muss man unterscheiden:
   - Paritätisches Schiedsgericht, mit optionaler EuGH-Beteiligung bei Fragen der EU-Rechtsauslegung.  
   - sektorübergreifenden Ausgleichsmassnahmen sind möglich, auch hier nach Prüfung der Verhältnismässigkeit.  
 ---
+
 
 
