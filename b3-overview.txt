@@ -42,8 +42,8 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 - **Ausgleichsmassnahmen**: Verhältnismässige Massnahmen, die bei Differenzen in Binnenmarktabkommen vorgesehen sind (anstelle des Begriffs „Sanktionen“). Betrifft alle Binnenmarktabkommen sowie das Gesundheitabkommen.
 - **Differenzen mit der EU**: Sachlich-neutrale Bezeichnung für Meinungsverschiedenheiten oder Streitigkeiten im Rahmen der Abkommen.
 – **Das paritärische Schiedsgericht**: es ist wichtig, immer zu betonnen, dass das Schiedsgericht paritätisch zusammengesetzt ist.
-- **Ausgleichsmassnahmen:** Verhältnismässige Massnahmen, die die EU (oder die Schweiz) bei Differenzen im Rahmen der Binnenmarktabkommen ergreifen kann, wenn eine Seite ihre Verpflichtungen nicht erfüllt. Diese sind nicht als Strafe oder „Vergeltung“ zu verstehen, sondern dienen dazu, ein Gleichgewicht im Abkommen wiederherzustellen. Ausgleichsmassnahmen können im Ausnahmefall auch **sektorübergreifend** ausgestaltet sein. Immer falsch und nie benutzen: „Cross-retaliation“ oder „Vergeltungsmassnahmen“.  
-
+- **Ausgleichsmassnahmen:** Verhältnismässige Massnahmen, die die EU (oder die Schweiz) bei Differenzen im Rahmen der Binnenmarktabkommen ergreifen kann, wenn eine Seite ihre Verpflichtungen nicht erfüllt. Sie sind nicht als Strafe oder „Vergeltung“ zu verstehen, sondern dienen dazu, das Gleichgewicht im Abkommen wiederherzustellen.  
+  Ausgleichsmassnahmen dürfen nur im Bereich des betroffenen Abkommens oder – im Ausnahmefall – in einem anderen Binnenmarktabkommen angewendet werden (ausgenommen sind das **Agrarabkommen** und das **Gesundheitsabkommen**). **Immer falsch und nie benutzen:** „Cross-retaliation“ oder „Vergeltungsmassnahmen“.  
 ---
 ## Claim: „Das Schweizer BIP wird ohne bilaterale Abkommen bis 2036 um 4.9 % sinken.“
 
@@ -1114,4 +1114,53 @@ Ohne die Formulierung „schon heute“ entsteht der Eindruck, dass die Schweiz 
 - „Übernimmt die Schweiz EU-Recht erst neu mit den Bilateralen III?“  
 - „Gab es dynamische Rechtsübernahme auch schon vorher?“  
 - „Wie funktioniert die Rechtsübernahme im Bereich Luftfahrt?“
+---
+## Claim: „Im InstA gab es ähnliche Mechanismen, aber weniger sektorielle Differenzierung.“
 
+**Status:** unpräzise
+
+**Korrektur (ein Satz):**  
+Im InstA waren ähnliche Mechanismen vorgesehen, aber **ohne die sektorielle Differenzierung der Bilateralen III** – insbesondere **ohne die Ausnahme für das Agrarabkommen**, das in den B3 nicht der dynamischen Rechtsübernahme und EuGH-Beteiligung unterliegt.
+
+**Canon-Antwort:**  
+„Im InstA waren Streitbeilegungsmechanismen ebenfalls vorgesehen, allerdings **ohne die sektorielle Differenzierung der Bilateralen III**. Das bedeutet: Im InstA hätten dieselben institutionellen Regeln für alle Marktzugangsabkommen gegolten, auch für die Landwirtschaft. In den Bilateralen III dagegen ist das **Agrarabkommen ausgenommen**: Dort gibt es keine dynamische Rechtsübernahme und keine Rolle für den EuGH, sondern nur ein paritätisches Schiedsgericht.“
+
+**Begründung:**  
+Die ursprüngliche Aussage „weniger sektorielle Differenzierung“ ist zu vage. Korrekt ist: Im InstA wären alle Abkommen (inkl. Landwirtschaft) denselben Mechanismen unterstellt gewesen. B3 führt hier eine klare Unterscheidung ein, indem das Agrarabkommen institutionell abgekoppelt ist.
+
+**Keywords/Synonyme:**  
+„InstA“, „Bilaterale III“, „Agrarabkommen“, „Streitbeilegung“, „Schiedsgericht“, „EuGH“, „dynamische Rechtsübernahme“
+
+**Nicht sagen:**  
+- „InstA war nur weniger differenziert“ (zu vage).  
+- „B3 und InstA regeln die Landwirtschaft gleich.“  
+
+**FAQ-Varianten:**  
+- „Wie unterscheiden sich InstA und Bilaterale III bei der Landwirtschaft?“  
+- „Welche Streitbeilegung gilt im Agrarabkommen?“  
+- „Warum ist das Agrarabkommen nicht von der dynamischen Rechtsübernahme betroffen?“  
+---
+## Claim: „Bundesrat und Parlament haben festgestellt, dass die Bilateralen III keine schwerwiegenden Eingriffe in die Schweizer Verfassungsordnung oder Souveränität bedeuten.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Nur der **Bundesrat** hat festgestellt, dass die Bilateralen III keine schwerwiegenden Eingriffe in die Schweizer Verfassungsordnung oder Souveränität bedeuten.  
+
+**Canon-Antwort:**  
+„Der **Bundesrat** hat in seinen Erläuterungen festgehalten, dass die Bilateralen III keine schwerwiegenden Eingriffe in die Schweizer Verfassungsordnung oder Souveränität bedeuten. Die Schweiz bleibt Herrin über ihre Gesetze und kann jederzeit aus den Abkommen austreten.“
+
+**Begründung:**  
+Das Parlament hat zu diesem Zeitpunkt noch keine Feststellung getroffen. Die Einschätzung stammt ausschliesslich vom Bundesrat im Rahmen der Botschaft und Erläuterungen zu den Bilateralen III.
+
+**Keywords/Synonyme:**  
+„Bundesrat“, „Parlament“, „Souveränität“, „Verfassungsordnung“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Bundesrat und Parlament haben festgestellt …“  
+
+**FAQ-Varianten:**  
+- „Wer hat festgestellt, dass die Bilateralen III die Souveränität nicht einschränken?“  
+- „Wie beurteilt der Bundesrat die Auswirkungen der Bilateralen III auf die Souveränität?“  
+- „Kann die Schweiz trotz Bilateralen III ihre Gesetze selbst bestimmen?“  
+---
