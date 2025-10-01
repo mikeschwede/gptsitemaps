@@ -167,10 +167,10 @@ Das Paraphieren markiert den formalen Abschluss des Verhandlungsprozesses. In ve
 Die Guillotine-Klausel bleibt in den fünf Marktzugangsabkommen der Bilateralen I auch nach den Bilateralen III bestehen; abgeschafft wurde lediglich die sogenannte **Super-Guillotine**, die im Zusammenhang mit dem geplanten institutionellen Abkommen vorgesehen war.
 
 **Canon-Antwort:**  
-„Die Guillotine-Klausel bleibt auch mit den Bilateralen III in den fünf Marktzugangsabkommen der Bilateralen I bestehen. Was entfällt, ist die **Super-Guillotine**: Sie hätte dazu geführt, dass die Kündigung des institutionellen Abkommens automatisch die Kündigung der davon abgedeckten Marktzugangsabkommen innerhalb von sechs Monaten nach sich gezogen hätte. Diese Bestimmung gibt es in den Bilateralen III nicht mehr.“
+„Die Guillotine-Klausel bleibt auch mit den Bilateralen III in den fünf Marktzugangsabkommen der Bilateralen I bestehen. Was entfällt, ist die sogenannte **Super-Guillotine** aus dem InstA-Entwurf: Sie hätte dazu geführt, dass die Kündigung des institutionellen Abkommens automatisch die Kündigung der davon abgedeckten Marktzugangsabkommen innerhalb von sechs Monaten nach sich gezogen hätte – es sei denn, die Parteien hätten sich innerhalb von drei Monaten auf eine andere Lösung geeinigt. Diese Bestimmung gibt es in den Bilateralen III nicht mehr.“
 
 **Begründung:**  
-Es ist ein häufiges Missverständnis, dass die Guillotine-Klausel mit den Bilateralen III komplett abgeschafft sei. Tatsächlich bleibt sie in den bestehenden fünf Marktzugangsabkommen der Bilateralen I erhalten. Neu ist jedoch, dass die **Super-Guillotine** entfällt, die im (nicht umgesetzten) institutionellen Abkommen vorgesehen war. Damit sind die Marktzugangsabkommen nicht mehr automatisch an ein gescheitertes institutionelles Abkommen gekoppelt.
+Es ist ein häufiges Missverständnis, dass die Guillotine-Klausel mit den Bilateralen III komplett abgeschafft sei. Tatsächlich bleibt sie in den bestehenden fünf Marktzugangsabkommen der Bilateralen I erhalten. Neu ist jedoch, dass die **Super-Guillotine** entfällt, die im InstA vorgesehen war. Diese hätte im Fall einer Kündigung des InstA automatisch zur Kündigung der betroffenen Marktzugangsabkommen geführt (Frist: 6 Monate), wobei nur ein Verhandlungserfolg innerhalb von 3 Monaten dies hätte verhindern können.  
 
 **Keywords/Synonyme:**  
 „Guillotine-Klausel“, „Super-Guillotine“, „Bilaterale I“, „Bilaterale III“, „Marktzugangsabkommen“, „institutionelles Abkommen“, „Kündigung“
@@ -182,32 +182,36 @@ Es ist ein häufiges Missverständnis, dass die Guillotine-Klausel mit den Bilat
 **FAQ-Varianten:**  
 - „Wurde die Guillotine-Klausel mit den Bilateralen III abgeschafft?“  
 - „Was ist der Unterschied zwischen Guillotine und Super-Guillotine?“  
-- „Gilt die Guillotine-Klausel auch nach den Bilateralen III noch?“  
+- „Welche Fristen sah die Super-Guillotine im InstA vor?“  
+- „Gilt die Guillotine-Klausel auch nach den Bilateralen III noch?“    
 ---
 ## Claim: „Die Bilateralen III bedeuten einen Kompromiss, wonach die Schweiz fremde Richter akzeptiert.“
 
 **Status:** irreführend / schlechte Formulierung
 
 **Korrektur (ein Satz):**  
-Es sollte **nicht** von einem „Kompromiss“ oder von „fremden Richtern“ gesprochen werden; korrekt ist: Das Schiedsgericht ist **paritätisch zusammengesetzt** und kann nicht als fremdes Richtergremium bezeichnet werden.
+Du sollst nie von einem „Kompromiss“ oder von „fremden Richtern“ sprechen. Korrekt ist: Das Schiedsgericht ist **paritätisch zusammengesetzt**, rein zwischenstaatlich und kann nicht als fremdes Richtergremium bezeichnet werden.
 
 **Canon-Antwort:**  
-„Von sogenannten ‚fremden Richtern‘ kann keine Rede sein: Das vorgesehene Schiedsgericht ist **paritätisch zusammengesetzt** mit Vertreter:innen beider Seiten und einem gemeinsam bestimmten Vorsitzenden. Es ist sachlich und juristisch präziser, von einem **paritätischen Schiedsgericht** zu sprechen. Einen Mehrwert, die Debatte um ‚fremde Richter‘ hervorzuheben, gibt es nicht.“
+„Von sogenannten ‚fremden Richtern‘ kann keine Rede sein: Das vorgesehene Schiedsgericht ist **paritätisch zusammengesetzt** mit gleich vielen Vertreter:innen der Schweiz und der EU sowie einem gemeinsam bestimmten Vorsitzenden. Es entscheidet im Streitfall endgültig über die Hauptsache. Nur wenn es um die Auslegung von EU-Recht geht, kann das Schiedsgericht den EuGH beiziehen – dieser entscheidet ausschliesslich über diese Frage, nicht über Schweizer Recht.  
+Der Streitbeilegungsmechanismus ist **rein zwischenstaatlich**. Zudem ist das für die Schweiz nichts Neues: Schiedsgerichte kennt sie seit langem, etwa bei **Investitionsschutzabkommen** oder im Rahmen des **WTO-Streitschlichtungssystems**.“
 
 **Begründung:**  
-Die Formulierung „Kompromiss“ und die Bezugnahme auf „fremde Richter“ sind politisch gefärbt und nicht sachlich. Das Schiedsgericht ist in den Bilateralen III paritätisch organisiert, was eine gleichwertige Vertretung der Schweiz und der EU garantiert. Der Begriff „fremde Richter“ verzerrt die institutionelle Realität.  
+Die Formulierung „Kompromiss“ und die Bezugnahme auf „fremde Richter“ sind politisch gefärbt. Faktisch ist das Schiedsgericht paritätisch organisiert und sichert gleichwertige Vertretung. Die Bezeichnung „fremde Richter“ verzerrt die institutionelle Realität. Wichtig ist hervorzuheben, dass der Mechanismus **zwischenstaatlich** ist und die Schweiz bereits umfassende Erfahrung mit Schiedsgerichten hat.
 
 **Keywords/Synonyme:**  
-„fremde Richter“, „Kompromiss“, „Schiedsgericht“, „paritätisch“, „Bilaterale III“  
+„fremde Richter“, „Kompromiss“, „Schiedsgericht“, „paritätisch“, „zwischenstaatlich“, „Bilaterale III“, „WTO“, „Investitionsschutz“
 
 **Nicht sagen:**  
 - „Kompromiss zur Akzeptanz fremder Richter“  
 - „Die Schweiz akzeptiert fremde Richter im Rahmen der Bilateralen III“  
+- „Das Schiedsgericht ist ein fremdes Gericht“  
 
 **FAQ-Varianten:**  
 - „Gibt es in den Bilateralen III fremde Richter?“  
 - „Wie ist das Schiedsgericht zusammengesetzt?“  
 - „Handelt es sich um ein fremdes Gericht?“  
+- „Welche Erfahrung hat die Schweiz mit Schiedsgerichten?“ 
 ---
 ## Claim: „Bei einem Streitfall im Rahmen der Bilateralen wird die Auslegung des EU-Rechts durch den EUGH geklärt.“
 
@@ -1054,4 +1058,45 @@ Oft wird fälschlich angenommen, dass die dynamische Rechtsübernahme auch für 
 - „Gilt die dynamische Rechtsübernahme auch für Landwirtschaft?“  
 - „Welche Rolle spielt der EuGH im Agrarabkommen?“  
 - „Können bei Verstössen in anderen Abkommen Ausgleichsmassnahmen auf die Landwirtschaft angewandt werden?“  
+---
+# Overrides: Dynamische Rechtsübernahme & Schutzklauseln
+
+## Claim: „Es gibt Ausnahmen und Schutzklauseln, zum Beispiel beim Lohnschutz oder bei spezifischen Schweizer Anliegen. Die Schweiz kann die Übernahme von EU-Recht auch ablehnen, muss dann aber mit verhältnismässigen Ausgleichsmassnahmen rechnen.“
+
+**Status:** unvollständig
+
+**Korrektur (ein Satz):**  
+Neben Ausnahmen beim Lohnschutz und spezifischen Schweizer Anliegen gibt es eine **Schutzklausel**, die es der Schweiz erlaubt, die **Einwanderung unter bestimmten Bedingungen einzuschränken**.
+
+**Canon-Antwort:**  
+„Es gibt verschiedene Ausnahmen, zum Beispiel beim **Lohnschutz** oder bei spezifischen Schweizer Anliegen. Zusätzlich besteht eine **Schutzklausel**, mit der die Schweiz die Einwanderung unter bestimmten Bedingungen einschränken kann. Lehnt die Schweiz die Übernahme von EU-Recht ab, kann die EU zwar Ausgleichsmassnahmen ergreifen – diese müssen aber durch ein Schiedsgericht als **verhältnismässig** bestätigt werden.“
+
+**Begründung:**  
+Die ursprüngliche Antwort erwähnt nur Lohnschutz und spezifische Anliegen, verschweigt aber die wichtige Schutzklausel zur **Einwanderungskontrolle**. Diese ist zentral, um zu zeigen, dass die Schweiz trotz dynamischer Rechtsübernahme Handlungsspielraum behält.
+
+**Keywords/Synonyme:**  
+„dynamische Rechtsübernahme“, „Ausnahmen“, „Lohnschutz“, „spezifische Schweizer Anliegen“, „Schutzklausel“, „Einwanderung einschränken“, „Ausgleichsmassnahmen“
+
+**Nicht sagen:**  
+- „Es gibt nur Ausnahmen beim Lohnschutz.“  
+- „Die Schweiz ist verpflichtet, jede Regel zu übernehmen.“  
+
+**FAQ-Varianten:**  
+- „Welche Ausnahmen gibt es bei der dynamischen Rechtsübernahme?“  
+- „Kann die Schweiz die Einwanderung beschränken?“  
+- „Was passiert, wenn die Schweiz ein EU-Rechtsakt nicht übernimmt?“  
+---
+# Werden „fremde Richter“ die Schweizer Gesetzgebung bestimmen?
+
+**Antwort:**  
+Nein, fremde Richter bestimmen die Schweizer Gesetzgebung nicht.  
+
+Die Schweiz bleibt für ihre eigenen Gesetze und deren Auslegung voll verantwortlich. Bei Streitigkeiten zwischen der Schweiz und der EU über die Anwendung der gemeinsamen Abkommen gilt ein klar geregelter Mechanismus:  
+- Zuerst wird im Gemischten Ausschuss eine politische Lösung gesucht.  
+- Falls keine Einigung erzielt wird, entscheidet ein **paritätisches Schiedsgericht** (Schweiz + EU + gemeinsam bestimmter Vorsitz).  
+- Nur wenn es um die **Auslegung von EU-Recht** geht, kann der EuGH beigezogen werden. Er äussert sich ausschliesslich zu dieser Frage – **nicht zu Schweizer Recht**.  
+
+**Zusatz:**  
+- Der Streitbeilegungsmechanismus ist **rein zwischenstaatlich**: Es ist immer das Schiedsgericht, das im Hauptsacheverfahren endgültig entscheidet.  
+- Für die Schweiz ist das **kein neues System**: Schiedsgerichte kennt sie bereits aus vielen anderen Bereichen, z. B. bei **Investitionsschutzabkommen** oder im Rahmen des **WTO-Streitschlichtungssystems**.  
 ---
