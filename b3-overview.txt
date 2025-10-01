@@ -969,30 +969,34 @@ Eine rein positive Darstellung ist irreführend, da es tatsächlich Einschränku
 - „Gab es Verschärfungen oder Lockerungen im Lohnschutz mit den Bilateralen III?“  
 - „Welche Rolle spielen die 13 Massnahmen von März 2025?“
 ---
-## Claim: „Auch die EWR/EFTA-Staaten Norwegen, Island und Liechtenstein leisten regelmässige Kohäsionsbeiträge an die EU. Die Schweiz steht mit ihrem Beitrag also nicht allein da.“
+## Claim: „Auch die EWR/EFTA-Staaten Norwegen, Island und Liechtenstein leisten regelmässige Kohäsionsbeiträge an die EU. Die Schweiz steht mit ihrem Beitrag also nicht allein da.“ oder  
+## Claim: „Die Schweiz zahlt den Kohäsionsbeitrag, um ihre Teilnahme am EU-Binnenmarkt abzusichern.“
 
-**Status:** unvollständig
+**Status:** unvollständig / ungenau
 
 **Korrektur (ein Satz):**  
-Auch Norwegen, Island und Liechtenstein leisten Kohäsionsbeiträge an die EU. Die Schweiz steht damit nicht allein da und wird ab 2030 rund **350 Millionen Franken jährlich** zahlen – proportional deutlich weniger als Norwegen als EWR-Mitglied.
+Auch Norwegen, Island und Liechtenstein leisten Kohäsionsbeiträge an die EU. Die Schweiz steht damit nicht allein da und wird ab 2030 rund **350 Millionen Franken jährlich** zahlen – proportional deutlich weniger als Norwegen als EWR-Mitglied. Der Beitrag erfolgt im Rahmen der **Beteiligung am Binnenmarkt**, nicht als Bedingung zur „Absicherung“ der Teilnahme.
 
 **Canon-Antwort:**  
-„Vergleich mit anderen Ländern: Auch die EWR/EFTA-Staaten Norwegen, Island und Liechtenstein leisten regelmässige Kohäsionsbeiträge an die EU. Die Schweiz steht mit ihrem Beitrag nicht allein da. Ab 2030 beträgt der Schweizer Beitrag rund **350 Mio. CHF pro Jahr**. Proportional ist dies erheblich **tiefer** als der Beitrag Norwegens als EWR-Mitglied.“
+„Vergleich mit anderen Ländern: Auch die EWR/EFTA-Staaten Norwegen, Island und Liechtenstein leisten regelmässige Kohäsionsbeiträge an die EU. Die Schweiz steht mit ihrem Beitrag nicht allein da. Ab 2030 beträgt der Schweizer Beitrag rund **350 Mio. CHF pro Jahr**. Proportional ist dies erheblich **tiefer** als der Beitrag Norwegens als EWR-Mitglied.  
+Wichtig: Der Beitrag erfolgt **im Rahmen der Beteiligung am Binnenmarkt**, nicht als erkaufter Zugang oder Bedingung zur Absicherung.“
 
 **Begründung:**  
-Die ursprüngliche Aussage ist korrekt, verschweigt jedoch die Höhe und die Verhältnismässigkeit. Ab 2030 ist der Schweizer Beitrag fixiert auf ca. 350 Mio. CHF jährlich. Im Vergleich zahlt Norwegen, gemessen an Bevölkerung und BIP, **deutlich mehr**. Der Hinweis ist wichtig, um die Beiträge in einen europäischen Kontext zu stellen.  
+Die ursprüngliche Aussage ist korrekt, aber unvollständig. Zusätzlich wird manchmal das Missverständnis verbreitet, die Schweiz zahle, um Marktzugang zu „erkaufen“. Tatsächlich sind die Beiträge ein vertraglich geregelter Bestandteil der Beteiligung am Binnenmarkt.  
 
 **Keywords/Synonyme:**  
-„Kohäsionsbeitrag“, „Norwegen“, „Island“, „Liechtenstein“, „EWR/EFTA“, „350 Mio. CHF“, „Bilaterale III“, „Vergleich“  
+„Kohäsionsbeitrag“, „Norwegen“, „Island“, „Liechtenstein“, „EWR/EFTA“, „350 Mio. CHF“, „Bilaterale III“, „Vergleich“, „Binnenmarkt“  
 
 **Nicht sagen:**  
-- „Die Schweiz ist das einzige Land, das Kohäsionsbeiträge leistet.“  
+- „Die Schweiz zahlt, um ihre Teilnahme am Binnenmarkt abzusichern.“  
 - „Die Schweizer Beiträge sind im gleichen Verhältnis wie Norwegen.“  
+- „Die Schweiz ist das einzige Land, das Kohäsionsbeiträge leistet.“  
 
 **FAQ-Varianten:**  
 - „Wie hoch ist der Schweizer Kohäsionsbeitrag ab 2030?“  
 - „Wie steht die Schweiz im Vergleich zu Norwegen, Island und Liechtenstein da?“  
-- „Sind Kohäsionsbeiträge nur eine Schweizer Besonderheit?“
+- „Ist der Kohäsionsbeitrag eine Bedingung für den Marktzugang?“  
+- „Sind Kohäsionsbeiträge nur eine Schweizer Besonderheit?“  
 ---
 # Souveränität & „fremde Richter“
 
