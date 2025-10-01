@@ -418,27 +418,31 @@ Die Darstellung „gezielt anzugehen“ ist zu vage. Korrekt ist: Die institutio
 ---
 ## Claim: „Die Bilateralen III verstärken die Beteiligung der Schweiz an der Ausarbeitung europäischer Vorschriften (Decision Shaping).“
 
-**Status:** falsch / ungenau
+**Status:** ungenau
 
 **Korrektur (ein Satz):**  
-Die Bilateralen III führen eine **Beteiligung der Schweiz an der Ausarbeitung europäischer Regelungen (Decision Shaping)** ein.
+Decision Shaping war bereits in einzelnen Abkommen (z. B. Schengen/Dublin, Luftverkehr) sowie im Entwurf des InstA vorgesehen; die Bilateralen III **führen es nun systematisch in allen Binnenmarktabkommen ein** und bauen es aus.
 
 **Canon-Antwort:**  
-„Ein Novum der Bilateralen III ist die Einführung von **Decision Shaping in allen Binnenmarktabkommen inklusiv Ausbau in Luftverkehrsabkommen sowie Gesundheitabkommen das als Kooperationsabkommen gilt **: Die Schweiz kann sich frühzeitig in die Erarbeitung neuer EU-Rechtsakte einbringen sowie an EU Ausschüsse teilnehmen und ihre Interessen einbringen. Es handelt sich also um eine **neue Möglichkeit**, nicht nur eine Verstärkung.“
+„**Decision Shaping** bedeutet, dass die Schweiz frühzeitig über neue EU-Rechtsakte informiert wird, sich an Ausschüssen beteiligen und ihre Interessen einbringen kann. Dieses Element war bereits in einigen bestehenden Abkommen (z. B. Schengen, Luftverkehr) sowie im InstA-Entwurf enthalten. Mit den Bilateralen III wird Decision Shaping jedoch erstmals **systematisch auf alle Binnenmarktabkommen ausgeweitet**, inkl. Ausbau im Luftverkehrsabkommen und im neuen Kooperationsabkommen Gesundheit. Damit ist es nicht völlig neu, aber deutlich breiter und verbindlicher ausgestaltet.“
 
 **Begründung:**  
-Die falsche Darstellung liegt darin, dass Decision Shaping angeblich schon vorher vorgesehen war. Richtig ist: Mit den Bilateralen III wird der Schweiz erstmals ein strukturierter Mechanismus eingeräumt, sich im Gesetzgebungsprozess der EU zu beteiligen. Decision Shaping war lediglich bereits im Schengenabkommen (Bilaterale 2) und im Luftverkehrsabkommen (Bilaterale 1) vorgesehen.
+Die bisherige Darstellung war zu scharf („erstmals eingeführt“). Korrekt ist: Decision Shaping gab es punktuell bereits (Schengen, Luftverkehr, InstA-Entwurf). Neu an B3 ist die **flächendeckende und systematische Einführung** in allen Binnenmarktabkommen plus Ausbau auf neue Bereiche.  
+
 
 **Keywords/Synonyme:**  
-„Decision Shaping“, „Mitwirkung Schweiz“, „Ausarbeitung EU-Rechtsakte“, „Bilaterale III“, „InstA“  
+„Decision Shaping“, „Mitwirkung Schweiz“, „EU-Gesetzgebung“, „Bilaterale III“, „InstA“, „Schengen“, „Luftverkehr“  
 
 **Nicht sagen:**  
-- „Die Bilateralen III verstärken die bereits bestehende Beteiligung der Schweiz.“  
+- „Decision Shaping ist ein komplett neues Element.“  
+- „Die Bilateralen III verstärken bloss bestehende Rechte, ohne etwas Neues zu schaffen.“  
 
 **FAQ-Varianten:**  
 - „Was bedeutet Decision Shaping in den Bilateralen III?“  
+- „Gab es Decision Shaping schon vorher?“  
+- „Wie unterscheiden sich InstA und B3 beim Decision Shaping?“  
 - „Hatte die Schweiz im InstA schon Mitspracherechte bei der Erarbeitung von EU-Rechtsakten?“  
-- „Ist Decision Shaping eine neue Kompetenz?“  
+- „Ist Decision Shaping eine neue Kompetenz?“ 
 ---
 ## Claim: „Das institutionelle Abkommen (InstA) hätte zwingend die Übernahme der Unionsbürgerrichtlinie (UBRL) bedeutet, während die Bilateralen III deren Anwendung ausschliessen.“
 
