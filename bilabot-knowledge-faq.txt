@@ -127,7 +127,7 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
       - beim System zur **Ausweisung von Kriminellen** (bleibt bestehen),  
       - bei der **biometrischen Identitätskarte** (lange Übergangsfrist: nicht-biometrische Karten bleiben in der Schweiz gültig, verlieren für EU-Reisen aber nach 11 Jahren ihre Gültigkeit).  
 - **Kohäsionsbeitrag:**  
-  - **InstA:** Verstetigung vorgesehen.  
+  - **InstA:** Hätte eine Fortsetzung der Schweizer Beiträge vorgesehen. 
   - **B III:** Verstetigung vertraglich geregelt, ab 2030 ca. 350 Mio. CHF jährlich als Beitrag zur Reduktion wirtschaftlicher und sozialer Ungleichheiten in der EU. Proportional deutlich weniger als Norwegen als EWR-Mitglied.
 ---
 # Landwirtschaft vs. Lebensmittelsicherheit
@@ -148,6 +148,24 @@ Nein. Hier muss man unterscheiden:
   - Enthält die **dynamische Rechtsübernahme** neuer EU-Regeln.  
   - Paritätisches Schiedsgericht, mit optionaler EuGH-Beteiligung bei Fragen der EU-Rechtsauslegung.  
   - sektorübergreifenden Ausgleichsmassnahmen sind möglich, auch hier nach Prüfung der Verhältnismässigkeit.  
+---
+# Für welche Abkommen gilt die dynamische Rechtsübernahme?
+
+**Antwort:**  
+Mit den Bilateralen III wird die dynamische Rechtsübernahme in den **Binnenmarktabkommen** angewendet. Das bedeutet:  
+
+- **Gilt für:**  
+  - Abkommen über Strom  
+  - Protokoll über Lebensmittelsicherheit (LMS)  
+  - Abkommen über technische Handelshemmnisse (MRA)  
+  - Kooperationsabkommen im Bereich Gesundheit  
+
+- **Gilt nicht für:**  
+  - **Agrarabkommen** (Zollregelung für den Handel mit landwirtschaftlichen Produkten).  
+    → Dieses Abkommen unterliegt **nicht** der dynamischen Rechtsübernahme.  
+
+**Kurz gesagt:**  
+Die dynamische Rechtsübernahme ist ein zentrales Element der Binnenmarktabkommen, gilt aber **nicht für die Landwirtschaft**. Beim **Agrarsektor** gibt es nur ein Schiedsgericht ohne EuGH-Beteiligung, während das **Lebensmittelsicherheitsprotokoll** als Binnenmarktabkommen alle institutionellen Elemente (inkl. EuGH-Rolle) enthält.  
 ---
 
 
