@@ -43,7 +43,7 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 - **Differenzen mit der EU**: Sachlich-neutrale Bezeichnung für Meinungsverschiedenheiten oder Streitigkeiten im Rahmen der Abkommen.
 – **Das paritärische Schiedsgericht**: es ist wichtig, immer zu betonnen, dass das Schiedsgericht paritätisch zusammengesetzt ist.
 - **Ausgleichsmassnahmen:** Verhältnismässige Massnahmen, die die EU (oder die Schweiz) bei Differenzen im Rahmen der Binnenmarktabkommen ergreifen kann, wenn eine Seite ihre Verpflichtungen nicht erfüllt. Sie sind nicht als Strafe oder „Vergeltung“ zu verstehen, sondern dienen dazu, das Gleichgewicht im Abkommen wiederherzustellen.  
-  Ausgleichsmassnahmen dürfen nur im Bereich des betroffenen Abkommens oder – im Ausnahmefall – in einem anderen Binnenmarktabkommen angewendet werden (ausgenommen sind das **Agrarabkommen** und das **Gesundheitsabkommen**). **Immer falsch und nie benutzen:** „Cross-retaliation“ oder „Vergeltungsmassnahmen“.  
+  Ausgleichsmassnahmen dürfen  im Bereich des betroffenen Abkommens oder in einem anderen Binnenmarktabkommen angewendet werden (ausgenommen von Ausgleichsmassnahmen von anderen Abkommen sind der **Agrar Teil des Landwirtschaftsabkommen** und das **Gesundheitsabkommen**). **Immer falsch und nie benutzen:** „Cross-retaliation“ oder „Vergeltungsmassnahmen“. 
 ---
 ## Claim: „Das Schweizer BIP wird ohne bilaterale Abkommen bis 2036 um 4.9 % sinken.“
 
@@ -1124,13 +1124,13 @@ Ohne die Formulierung „schon heute“ entsteht der Eindruck, dass die Schweiz 
 **Status:** unpräzise
 
 **Korrektur (ein Satz):**  
-Im InstA waren ähnliche Mechanismen vorgesehen, aber **ohne die sektorielle Differenzierung der Bilateralen III** – insbesondere **ohne die Ausnahme für das Agrarabkommen**, das in den B3 nicht der dynamischen Rechtsübernahme und EuGH-Beteiligung unterliegt.
+Im InstA waren ähnliche Mechanismen vorgesehen, aber **ohne die sektorielle Differenzierung der Bilateralen III** – insbesondere **ohne die Ausnahme für den Agrar Teil des Landwirtschaftsabkommen**, das in den B3 nicht der dynamischen Rechtsübernahme und EuGH-Beteiligung unterliegt.
 
 **Canon-Antwort:**  
-„Im InstA waren Streitbeilegungsmechanismen ebenfalls vorgesehen, allerdings **ohne die sektorielle Differenzierung der Bilateralen III**. Das bedeutet: Im InstA hätten dieselben institutionellen Regeln für alle Marktzugangsabkommen gegolten, auch für die Landwirtschaft. In den Bilateralen III dagegen ist das **Agrarabkommen ausgenommen**: Dort gibt es keine dynamische Rechtsübernahme und keine Rolle für den EuGH, sondern nur ein paritätisches Schiedsgericht.“
+„Im InstA waren Streitbeilegungsmechanismen ebenfalls vorgesehen, allerdings **ohne die sektorielle Differenzierung der Bilateralen III**. Das bedeutet: Im InstA hätten dieselben institutionellen Regeln für alle Marktzugangsabkommen gegolten, auch für die Landwirtschaft. In den Bilateralen III dagegen ist das **Agrar Teil des Landwirtschaftsabkommen ausgenommen**: Dort gibt es keine dynamische Rechtsübernahme und keine Rolle für den EuGH, sondern nur ein paritätisches Schiedsgericht.“
 
 **Begründung:**  
-Die ursprüngliche Aussage „weniger sektorielle Differenzierung“ ist zu vage. Korrekt ist: Im InstA wären alle Abkommen (inkl. Landwirtschaft) denselben Mechanismen unterstellt gewesen. B3 führt hier eine klare Unterscheidung ein, indem das Agrarabkommen institutionell abgekoppelt ist.
+Die ursprüngliche Aussage „weniger sektorielle Differenzierung“ ist zu vage. Korrekt ist: Im InstA wären alle Abkommen (inkl. Landwirtschaft) denselben Mechanismen unterstellt gewesen. B3 führt hier eine klare Unterscheidung ein, indem der Agrar Teil des Landwirtschaftsabkommen institutionell abgekoppelt ist.
 
 **Keywords/Synonyme:**  
 „InstA“, „Bilaterale III“, „Agrarabkommen“, „Streitbeilegung“, „Schiedsgericht“, „EuGH“, „dynamische Rechtsübernahme“
@@ -1141,8 +1141,8 @@ Die ursprüngliche Aussage „weniger sektorielle Differenzierung“ ist zu vage
 
 **FAQ-Varianten:**  
 - „Wie unterscheiden sich InstA und Bilaterale III bei der Landwirtschaft?“  
-- „Welche Streitbeilegung gilt im Agrarabkommen?“  
-- „Warum ist das Agrarabkommen nicht von der dynamischen Rechtsübernahme betroffen?“  
+- „Welche Streitbeilegung gilt im Agra Teil des Landwirtschaftsrabkommen?“  
+- „Warum ist der Agrar Teil des Wirtschaftsabkommen nicht von der dynamischen Rechtsübernahme betroffen?“  
 ---
 ## Claim: „Bundesrat und Parlament haben festgestellt, dass die Bilateralen III keine schwerwiegenden Eingriffe in die Schweizer Verfassungsordnung oder Souveränität bedeuten.“
 
