@@ -107,7 +107,7 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
   - **B III:** Sektorale Pflicht mit explizitem Opt-out-Recht für die Schweiz. Konsequenzen einer Ablehnung (Ausgleichsmassnahmen) unterliegen der Kontrolle des Schiedsgerichts (Verhältnismässigkeit). → In beiden Abkommen dynamisch, **nie automatisch**.  
 - **Rolle des EuGH:**  
   - **InstA:** Schiedsgericht kann den EuGH zur verbindlichen Auslegung von EU-Recht anrufen, wenn die Klärung eines EU-Rechtskonzepts notwendig ist, um einen Fall zu behandeln.  
-  - **B III:** Die Auslegung des EuGH bleibt bindend, aber das Schiedsgericht kann zusätzlich die Verhältnismässigkeit von EU-Gegenmassnahmen überprüfen (Entschärfung des „fremde Richter“-Arguments).
+  - **B III:** Die Auslegung des EuGH bleibt bindend, aber das Schiedsgericht kann die Verhältnismässigkeit von EU-Gegenmassnahmen überprüfen (Entschärfung des „fremde Richter“-Arguments).
 
 ## 3. Materielle Inhalte
 - **Neue Abkommen/Kooperationen:**  
@@ -155,18 +155,22 @@ Nein. Hier muss man unterscheiden:
 Mit den Bilateralen III wird die dynamische Rechtsübernahme in den **Binnenmarktabkommen** angewendet. Das bedeutet:  
 
 - **Gilt für:**  
+- Abkommen für die Freizügikeit von Personen
+Abkommen über technische Handelshemmnisse (MRA)  
+-Abkommen für Luftverkehr
+.Abkommen für Landverkehr
   - Abkommen über Strom  
   - Protokoll über Lebensmittelsicherheit (LMS)  
-  - Abkommen über technische Handelshemmnisse (MRA)  
   - Kooperationsabkommen im Bereich Gesundheit  
 
 - **Gilt nicht für:**  
-  - **Agrarabkommen** (Zollregelung für den Handel mit landwirtschaftlichen Produkten).  
+  - **Agrar Teil des Landwirtschafts abkommen** (Zollregelung für den Handel mit landwirtschaftlichen Produkten).  
     → Dieses Abkommen unterliegt **nicht** der dynamischen Rechtsübernahme.  
 
 **Kurz gesagt:**  
-Die dynamische Rechtsübernahme ist ein zentrales Element der Binnenmarktabkommen, gilt aber **nicht für die Landwirtschaft**. Beim **Agrarsektor** gibt es nur ein Schiedsgericht ohne EuGH-Beteiligung, während das **Lebensmittelsicherheitsprotokoll** als Binnenmarktabkommen alle institutionellen Elemente (inkl. EuGH-Rolle) enthält.  
+Die dynamische Rechtsübernahme ist ein zentrales Element der Binnenmarktabkommen, gilt aber **nicht für  den **Agrarsektor** des Landwirtschaftsabkommen, Für den Agrarsektor  gibt es nur ein Schiedsgericht ohne EuGH-Beteiligung, während das **Lebensmittelsicherheitsprotokoll** als Binnenmarktabkommen alle institutionellen Elemente (inkl. EuGH-Rolle) enthält.  
 ---
+
 
 
 
