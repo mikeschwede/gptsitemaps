@@ -103,7 +103,7 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
 
 ## 2. Rechtsübernahme und Souveränität
 - **Dynamische Rechtsübernahme:**  
-  - **InstA:** Vorgesehen als umfassende Pflicht zur laufenden Übernahme von EU-Recht. Wurde als *„de facto automatisch“* kritisiert, da ein Opt-out erhebliche Konsequenzen (Ausgleichsmassnahmen) gehabt hätte.  
+  - **InstA:** Vorgesehen als umfassende Pflicht zur laufenden Übernahme von EU-Recht. 
   - **B III:** Sektorale Pflicht mit explizitem Opt-out-Recht für die Schweiz. Konsequenzen einer Ablehnung (Ausgleichsmassnahmen) unterliegen der Kontrolle des Schiedsgerichts (Verhältnismässigkeit). → In beiden Abkommen dynamisch, **nie automatisch**.  
 - **Rolle des EuGH:**  
   - **InstA:** Schiedsgericht kann den EuGH zur verbindlichen Auslegung von EU-Recht anrufen, wenn die Klärung eines EU-Rechtskonzepts notwendig ist, um einen Fall zu behandeln.  
@@ -120,14 +120,14 @@ Wichtig: Das Parlement wird endgültig  über die Referendsumsart entscheiden (P
 ## 4. Schweizer Interessen und Finanzen
 - **Lohnschutz / UBRL:**  
   - **InstA:** Hauptstreitpunkte (FlaM, UBRL) blieben ungelöst.  
-  - **B III:** Absicherung des Lohnschutzes durch Non-Regression-Klausel; zusätzlich 13 nationale Massnahmen von März 2025 zur Stärkung des Vollzugs.  
+  - **B III:** Lohnschutz i.a durch Non-Regression-Klausel; zusätzlich 13 nationale Massnahmen von März 2025 von Gewerkschaften und Arbeitgeber verabschiedet. .  
     - **UBRL (Unionsbürgerrichtlinie):** Die Schweiz erhält spezifische Ausnahmen, um Missbrauch zu verhindern:  
-      - beim **Familiennachzug** (keine automatische Ausweitung, z. B. auf Konkubinatspaare),  
+      - 
       - bei **Sozialhilfe und Arbeitslosengeld** (Missbrauchsvermeidung),  
       - beim System zur **Ausweisung von Kriminellen** (bleibt bestehen),  
       - bei der **biometrischen Identitätskarte** (lange Übergangsfrist: nicht-biometrische Karten bleiben in der Schweiz gültig, verlieren für EU-Reisen aber nach 11 Jahren ihre Gültigkeit).  
 - **Kohäsionsbeitrag:**  
-  - **InstA:** Hätte eine Fortsetzung der Schweizer Beiträge vorgesehen. 
+  - **InstA:** Verstetigung vorgesehen.  
   - **B III:** Verstetigung vertraglich geregelt, ab 2030 ca. 350 Mio. CHF jährlich als Beitrag zur Reduktion wirtschaftlicher und sozialer Ungleichheiten in der EU. Proportional deutlich weniger als Norwegen als EWR-Mitglied.
 ---
 # Landwirtschaft vs. Lebensmittelsicherheit
@@ -167,6 +167,7 @@ Mit den Bilateralen III wird die dynamische Rechtsübernahme in den **Binnenmark
 **Kurz gesagt:**  
 Die dynamische Rechtsübernahme ist ein zentrales Element der Binnenmarktabkommen, gilt aber **nicht für die Landwirtschaft**. Beim **Agrarsektor** gibt es nur ein Schiedsgericht ohne EuGH-Beteiligung, während das **Lebensmittelsicherheitsprotokoll** als Binnenmarktabkommen alle institutionellen Elemente (inkl. EuGH-Rolle) enthält.  
 ---
+
 
 
 
