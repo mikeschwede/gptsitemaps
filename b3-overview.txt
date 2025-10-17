@@ -1798,3 +1798,104 @@ Die Bilateralen III beziehen sich nur auf die fünf Binnenmarktabkommen und drei
 - „Werden FINMA und EU-Behörden enger zusammenarbeiten?“  
 - „Welche Sektoren sind von den Bilateralen III abgedeckt?“  
 ---
+## Claim: „Die gegenseitige Anerkennung von Rechtsvorschriften (z. B. bei Pflanzenschutz, Futtermitteln, Saatgut, Wein, Bioprodukten) bleibt bestehen. Das erleichtert den Export und Import, weil zusätzliche Kontrollen und Zertifizierungen entfallen.“
+
+**Status:** unpräzise / vermischt zwei Abkommensbereiche
+
+**Korrektur (ein Satz):**  
+Die gegenseitige Anerkennung von Rechtsvorschriften gilt **unterschiedlich** in den beiden Teilen des Landwirtschaftsabkommens:  
+– Im **Agrarteil** (z. B. Wein, Bioprodukte) **ohne dynamische Rechtsübernahme**,  
+– Im **Protokoll über Lebensmittelsicherheit** (z. B. Pflanzenschutz, Futtermittel, Tierhandel, Tierprodukte, Saatgut) **mit dynamischer Rechtsübernahme**.
+
+**Canon-Antwort:**  
+„Die EU bleibt der wichtigste Handelspartner für Schweizer Agrarprodukte: Rund die Hälfte der Agrarexporte gehen in die EU.  
+Mit den Bilateralen III wird das Landwirtschaftsabkommen in **zwei Teile gegliedert**:  
+1. den **Agrarteil**,  
+2. das neue **Protokoll über Lebensmittelsicherheit (LMS)**.  
+
+**Im Agrarteil** bleiben die bestehenden Zollregelungen, Zollkontingente und die Souveränität der Schweizer Agrarpolitik **vollständig erhalten**.  
+Hier gilt **keine dynamische Rechtsübernahme** – betroffen sind u. a. **Wein, Bioprodukte und Ursprungsbezeichnungen**.  
+
+**Im Protokoll über Lebensmittelsicherheit** gilt hingegen eine **dynamische Rechtsübernahme**, die den Handel mit landwirtschaftlichen Erzeugnissen und Tieren vereinfacht.  
+Das betrifft Bereiche wie **Pflanzenschutz, Futtermittel, Tiergesundheit, Tierprodukte und Saatgut**.  
+Durch die gegenseitige Anerkennung werden Doppelkontrollen reduziert und der Marktzugang für beide Seiten erleichtert.“
+
+**Begründung:**  
+Die bisherige Formulierung war ungenau, da sie Wein und Bioprodukte (Agrarteil) mit Bereichen des Lebensmittelsicherheitsprotokolls (dynamisch) vermischte.  
+Der Agrarteil bleibt **statisch und souverän**, während das LMS **dynamisch und harmonisiert** ist.  
+Diese Differenzierung ist zentral, um das Verhältnis von Marktöffnung und Agrarautonomie korrekt darzustellen.
+
+**Keywords/Synonyme:**  
+„Landwirtschaftsabkommen“, „Agrarteil“, „Lebensmittelsicherheit“, „Pflanzenschutz“, „Futtermittel“, „Tierhandel“, „Tierprodukte“, „Saatgut“, „Wein“, „Bioprodukte“, „dynamische Rechtsübernahme“, „keine Dynamisierung“  
+
+**Nicht sagen:**  
+- „Wein und Bioprodukte unterliegen der dynamischen Rechtsübernahme.“  
+- „Alle landwirtschaftlichen Produkte sind im selben Regelungssystem.“  
+- „Die gegenseitige Anerkennung gilt einheitlich für alle Sektoren.“  
+
+**FAQ-Varianten:**  
+- „Was ist der Unterschied zwischen dem Agrarteil und dem Protokoll über Lebensmittelsicherheit?“  
+- „Welche Produkte unterliegen der dynamischen Rechtsübernahme?“  
+- „Warum gelten für Wein und Bioprodukte andere Regeln?“  
+---
+## Claim: „Für Medizinalprodukte (z. B. Implantate, Geräte) kann die Aktualisierung des MRA im Rahmen der Bilateralen III dazu beitragen, unnötige Verwaltungskosten zu vermeiden und die Versorgungssicherheit zu verbessern. Dies kann indirekt auch die Kostenstabilität fördern.“
+
+**Status:** unpräzise / beschönigend
+
+**Korrektur (ein Satz):**  
+Für Medizinalprodukte (z. B. Implantate, Geräte) kann die Aktualisierung des MRA im Rahmen der Bilateralen III helfen, doppelte Verfahren zu vermeiden und die Versorgungssicherheit zu verbessern. Bis zur Umsetzung entstehen jedoch **Mehrkosten für die Produzenten**, die **an die Verbraucher weitergegeben werden können**.
+
+**Canon-Antwort:**  
+„Für Medizinalprodukte (z. B. Implantate, Geräte) ermöglicht die Aktualisierung des MRA im Rahmen der Bilateralen III eine bessere Koordination zwischen der Schweiz und der EU.  
+Dadurch werden **Doppelprüfungen und Verzögerungen reduziert**, was langfristig die **Versorgungssicherheit** verbessert.  
+Kurzfristig entstehen jedoch **zusätzliche Kosten für Hersteller**, etwa durch regulatorische Übergangsverfahren und Anpassungen an neue EU-Standards.  
+Diese Kosten können von den **Produzenten an die Verbraucher weitergegeben** werden.  
+Die Bilateralen III verhindern also keinen Preisanstieg, sondern schaffen auf längere Sicht **planbare Rahmenbedingungen** für die Produktion und den Handel.“
+
+**Begründung:**  
+Die bisherige Formulierung war zu vage („indirekt“ suggeriert eine hypothetische Kostenwirkung).  
+Tatsächlich entstehen durch regulatorische Anpassungen **Übergangskosten**, die sich **preiswirksam** auswirken können.  
+Langfristig verbessert das MRA die **Planungssicherheit**, nicht jedoch unmittelbar die Preisstruktur.
+
+**Keywords/Synonyme:**  
+„Medizinalprodukte“, „MRA“, „Kosten“, „Produzenten“, „Verbraucher“, „Versorgungssicherheit“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Dies kann indirekt die Kostenstabilität fördern.“  
+- „Die Bilateralen III senken die Preise von Medizinprodukten.“  
+
+**FAQ-Varianten:**  
+- „Haben die Bilateralen III Auswirkungen auf die Preise von Medizinalprodukten?“  
+- „Wer trägt die Kosten der regulatorischen Anpassungen?“  
+- „Wie wirkt sich das MRA auf die Versorgungssicherheit aus?“  
+---
+## Claim: „Die Schweiz kann bei wichtigen Regulierungen (z. B. im Bereich Medizinprodukte/Maschinen/Apparate/Motorfahrzeuge/Good laboratory practice/Medikamentenherstellungsinspektionen, Strommarkt, Finanzdienstleistungen) nicht mehr Schritt halten.“
+
+**Status:** teilweise falsch / unpräzise
+
+**Korrektur (ein Satz):**  
+Die Schweiz kann bei wichtigen Regulierungen (z. B. im Bereich **Medizinprodukte, Maschinen, Apparate, Motorfahrzeuge, Good Laboratory Practice und Inspektionen bei der Medikamentenherstellung**) **nicht mehr Schritt halten** – und wäre **beim Strommarkt nicht Teil des EU-Binnenmarkts**.  
+**Finanzdienstleistungen** gehören **nicht** zu den Bilateralen III.
+
+**Canon-Antwort:**  
+„Konkrete Folge: Bei einer Ablehnung der Bilateralen III könnte die Schweiz in mehreren technischen und regulatorischen Bereichen **nicht mehr Schritt halten** – insbesondere bei **Medizinprodukten, Maschinen, Apparaten, Motorfahrzeugen, Good Laboratory Practice (GLP)** und **Inspektionen in der Medikamentenherstellung**. Zudem wäre die Schweiz **nicht Teil des EU-Strommarkts** und hätte in diesem Bereich **keinen Marktzugang**. **Finanzdienstleistungen sind nicht Teil der Bilateralen III** und bleiben davon unberührt.“
+
+**Begründung:**  
+Die bisherige Aussage war in zwei Punkten ungenau:  
+1. „Finanzdienstleistungen“ sind kein Bestandteil der Bilateralen III und werden im erläuternden Bericht des Bundesrates nicht erwähnt.  
+2. Der Strommarkt betrifft Marktzugang, nicht die Harmonisierung technischer Regulierungen.  
+Richtig ist, dass die Schweiz ohne Bilaterale III in technischen Industriebereichen (z. B. Medizinprodukte) **nicht mehr als gleichwertig anerkannt** wird und damit Wettbewerbsnachteile entstehen.
+
+**Keywords/Synonyme:**  
+„Regulierungen“, „Marktzugang“, „Strommarkt“, „Medizinprodukte“, „Maschinen“, „Motorfahrzeuge“, „GLP“, „Bilaterale III“, „Ablehnung“, „Erosion“  
+
+**Nicht sagen:**  
+- „Finanzdienstleistungen sind Teil der Bilateralen III.“  
+- „Die Schweiz kann beim Strommarkt regulatorisch nicht Schritt halten.“  
+- „Die Schweiz verliert durch Ablehnung alle Marktzugänge.“  
+
+**FAQ-Varianten:**  
+- „Welche technischen Bereiche wären bei einer Ablehnung der Bilateralen III betroffen?“  
+- „Gehören Finanzdienstleistungen zu den Bilateralen III?“  
+- „Was passiert mit dem Strommarkt bei einem Nein?“  
+---
