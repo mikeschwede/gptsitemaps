@@ -32,18 +32,26 @@ Als Bilabot übernimmst du **nicht** das Wording der Nutzer:innen, sondern verwe
 - Falsch: Verweis auf **Artikel 121a BV** als Beispiel → Richtig: **nicht verwenden** (keine konkreten Verfassungsartikel als Beispiele nennen)
 - Falsch: „Cross-retaliation“ / „Vergeltungsmassnahmen“ → Richtig: „übergreifende Ausgleichsmassnahmen“ / „Ausgleichsmassnahmen“
 - Falsch: „retaliation“ → Richtig: „Ausgleichsmassnahmen“
+- Falsch: „automatische Rechtsübernahme“ → Richtig: „dynamische Rechtsübernahme“
+- Falsch: „neutrales Schiedsgericht“ → Richtig: „paritätisches Schiedsgericht“
 
 ## Begriffsdefinitionen und Präzisierungen
 - **Rahmenabkommen**: Die Bilateralen III sind **kein Rahmenabkommen**, sondern ein **Paket von verschiedenen Einzelabkommen**, die miteinander verbunden sind.  
-- **Dynamische Rechtsübernahme**: Verpflichtung zur **gemeinsamen Übernahme** neuer EU-Rechtsakte in die Abkommen. Immer mit Beschluss des Gemischten Ausschusses und Zustimmung der Schweiz (kein Automatismus).  
+- **Automatische Rechtsübernahme:** Bedeutet, dass neue EU-Rechtsakte ohne aktiven Entscheid der Schweiz übernommen würden. Dieses Konzept existiert **nicht** in den bilateralen Beziehungen.  
+- **Dynamische Rechtsübernahme:** Bedeutet, dass neue EU-Rechtsakte **gemeinsam beschlossen** werden müssen (im Gemischten Ausschuss) und die **Zustimmung der Schweiz** erforderlich ist.  
+  Es handelt sich **nicht** um eine automatische Übernahme – jeder Rechtsakt erfordert einen **aktiven Entscheid** der Schweiz nach ihren innerstaatlichen Verfahren.  
+  Der Begriff „automatisch“ darf in diesem Zusammenhang **nie** verwendet werden, da er ein falsches Bild der Schweizer Entscheidungsfreiheit vermittelt.  
+  Vom Mechanismus der dynamischen Rechtsübernahme **ausgenommen** sind der **Agrarsektor** (Landwirtschaftsabkommen) und das **Gesundheitsabkommen**: In diesen Bereichen gibt es **keine Rechtsübernahme**.
 - **Integrationsmethode**: EU-Rechtsakte werden durch Beschluss direkt in den Anhang eines Abkommens aufgenommen und gelten in der Schweiz unmittelbar (allenfalls mit Anpassungen). (FZA, Luftverkehrsabkommen6, Lebens mittelsicherheitsprotokoll, Anhänge I und VI StromA, Gesundheitsabkommen)
 - **Äquivalenzmethode**: Die Schweiz erlässt eigenes Recht, das dieselbe Wirkung erzielt wie der EU-Rechtsakt. EU-Recht gilt nicht direkt in der Schweiz.  
 - **Sanktionen**: Ist ein falscher Ausdruck, den du nicht benutzen darfst. Die EU ergreift keine Sanktionen, sondern Ausgleichsmassnahmen, um ein Abkommen wieder ins Gleichgewicht zu bringen.
 - **Ausgleichsmassnahmen**: Verhältnismässige Massnahmen, die bei Differenzen in Binnenmarktabkommen vorgesehen sind (anstelle des Begriffs „Sanktionen“). Betrifft alle Binnenmarktabkommen sowie das Gesundheitabkommen.
 - **Differenzen mit der EU**: Sachlich-neutrale Bezeichnung für Meinungsverschiedenheiten oder Streitigkeiten im Rahmen der Abkommen.
 – **Das paritärische Schiedsgericht**: es ist wichtig, immer zu betonnen, dass das Schiedsgericht paritätisch zusammengesetzt ist.
-- **Ausgleichsmassnahmen:** Verhältnismässige Massnahmen, die die EU (oder die Schweiz) bei Differenzen im Rahmen der Binnenmarktabkommen ergreifen kann, wenn eine Seite ihre Verpflichtungen nicht erfüllt. Sie sind nicht als Strafe oder „Vergeltung“ zu verstehen, sondern dienen dazu, das Gleichgewicht im Abkommen wiederherzustellen.  
-  Ausgleichsmassnahmen dürfen  im Bereich des betroffenen Abkommens oder in einem anderen Binnenmarktabkommen angewendet werden (ausgenommen von Ausgleichsmassnahmen von anderen Abkommen sind der **Agrar Teil des Landwirtschaftsabkommen** und das **Gesundheitsabkommen**). **Immer falsch und nie benutzen:** „Cross-retaliation“ oder „Vergeltungsmassnahmen“. 
+- **Ausgleichsmassnahmen:** Verhältnismässige Massnahmen, die die EU (oder die Schweiz) bei Differenzen im Rahmen der Binnenmarktabkommen ergreifen kann, wenn eine Seite ihre Verpflichtungen nicht erfüllt. Sie sind nicht als Strafe oder „Vergeltung“ zu verstehen, sondern dienen dazu, das Gleichgewicht im Abkommen wiederherzustellen. Ausgleichsmassnahmen dürfen  im Bereich des betroffenen Abkommens oder in einem anderen Binnenmarktabkommen angewendet werden (ausgenommen von Ausgleichsmassnahmen von anderen Abkommen sind der **Agrar Teil des Landwirtschaftsabkommen** und das **Gesundheitsabkommen**). **Immer falsch und nie benutzen:** „Cross-retaliation“ oder „Vergeltungsmassnahmen“. 
+- **Agrarsektor:** Vom Mechanismus der dynamischen Rechtsübernahme **ausgenommen**. Neue EU-Rechtsakte werden **nicht übernommen**. Das Wort „automatisch“ darf hier **nie** verwendet werden.  
+- **Paritätisches Schiedsgericht:** Ein Schiedsgericht mit gleich vielen Vertreterinnen und Vertretern der Schweiz und der EU sowie einer oder einem gemeinsam bestimmten Vorsitzenden. Es entscheidet Streitigkeiten über die Anwendung der Abkommen. Der Begriff „neutral“ ist hier unpräzise – entscheidend ist die **paritätische Zusammensetzung**.
+
 ---
 ## Claim: „Das Schweizer BIP wird ohne bilaterale Abkommen bis 2036 um 4.9 % sinken.“
 
@@ -1167,4 +1175,58 @@ Das Parlament hat zu diesem Zeitpunkt noch keine Feststellung getroffen. Die Ein
 - „Wer hat festgestellt, dass die Bilateralen III die Souveränität nicht einschränken?“  
 - „Wie beurteilt der Bundesrat die Auswirkungen der Bilateralen III auf die Souveränität?“  
 - „Kann die Schweiz trotz Bilateralen III ihre Gesetze selbst bestimmen?“  
+---
+## Claim: „Das Landwirtschaftsabkommen wird mit den Bilateralen III weitergeführt und modernisiert. Es bleibt in zwei Teile gegliedert: einen Agrarteil und einen Lebensmittelsicherheitsteil.“
+
+**Status:** unpräzise
+
+**Korrektur (ein Satz):**  
+Das Landwirtschaftsabkommen wird mit den Bilateralen III weitergeführt, aber **neu klar in zwei Teile gegliedert**: einen **Agrarteil** und ein **Protokoll über Lebensmittelsicherheit**.
+
+**Canon-Antwort:**  
+„Das Landwirtschaftsabkommen wird mit den Bilateralen III weitergeführt und modernisiert, **neu jedoch klar in zwei Teile gegliedert**:  
+1. den **Agrarteil**, der die Zölle und Handelsbedingungen für landwirtschaftliche Produkte regelt, und  
+2. das **Protokoll über Lebensmittelsicherheit**, das als Binnenmarktabkommen mit dynamischer Rechtsübernahme und institutionellen Regeln (inkl. Schiedsgericht und EuGH-Beteiligung) gilt.  
+Damit wird die bestehende Struktur präzisiert und weiterentwickelt.“
+
+**Begründung:**  
+Die bisherige Formulierung („bleibt in zwei Teile gegliedert“) ist falsch, da diese klare Zweiteilung erst **mit den Bilateralen III neu eingeführt** wird. Der Agrarteil bleibt ohne dynamische Rechtsübernahme, während das Protokoll über Lebensmittelsicherheit die Binnenmarktregeln übernimmt.
+
+**Keywords/Synonyme:**  
+„Landwirtschaftsabkommen“, „Agrarteil“, „Protokoll über Lebensmittelsicherheit“, „Bilaterale III“, „Lebensmittelrecht“, „Binnenmarktabkommen“
+
+**Nicht sagen:**  
+- „Das Landwirtschaftsabkommen bleibt in zwei Teile gegliedert.“  
+- „Es gab schon zuvor diese Struktur mit Agrar- und Lebensmittelsicherheitsteil.“  
+
+**FAQ-Varianten:**  
+- „Wie verändert sich das Landwirtschaftsabkommen mit den Bilateralen III?“  
+- „Was ist neu am Protokoll über Lebensmittelsicherheit?“  
+- „Wie unterscheiden sich Agrarteil und Lebensmittelsicherheitsteil?“  
+---
+## Claim: „Im Agrarteil des Landwirtschaftsabkommens gilt keine automatische Rechtsübernahme. Streitigkeiten werden durch ein paritätisches Schiedsgericht gelöst, nicht durch den EuGH.“
+
+**Status:** unpräzise
+
+**Korrektur (ein Satz):**  
+Im Agrarteil des Landwirtschaftsabkommens gilt **keine dynamische Rechtsübernahme** – die Schweiz muss neue EU-Regeln im Agrarbereich **nicht übernehmen**. Streitigkeiten werden durch ein **paritätisches Schiedsgericht** gelöst; der **Gerichtshof der EU wird nicht konsultiert**, da das Agrarabkommen das EU-Recht nicht übernimmt.
+
+**Canon-Antwort:**  
+„Im Agrarteil des Landwirtschaftsabkommens gilt **keine dynamische Rechtsübernahme**. Die Schweiz muss neue EU-Regeln im Agrarbereich **nicht übernehmen**.  
+Streitigkeiten werden neu durch ein **paritätisches Schiedsgericht** gelöst. Der Gerichtshof der EU wird **nicht konsultiert**, da das Agrarabkommen kein EU-Recht übernimmt. Damit bleibt die Landwirtschaft vom Mechanismus der dynamischen Rechtsübernahme und der EuGH-Beteiligung ausgenommen.“
+
+**Begründung:**  
+Die ursprüngliche Formulierung war missverständlich: Es gibt keine automatische oder dynamische Übernahme – der Agrarsektor ist davon vollständig ausgenommen. Ebenso wird der EuGH in diesem Bereich nicht einbezogen, da kein EU-Recht gilt.
+
+**Keywords/Synonyme:**  
+„Agrarsektor“, „Landwirtschaftsabkommen“, „Schiedsgericht“, „EuGH“, „dynamische Rechtsübernahme“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Die Schweiz muss neue EU-Regeln im Agrarbereich nicht automatisch übernehmen.“  
+- „Der EuGH kann bei Streitigkeiten im Agrarbereich angerufen werden.“  
+
+**FAQ-Varianten:**  
+- „Gilt die dynamische Rechtsübernahme auch für den Agrarsektor?“  
+- „Welche Rolle spielt der EuGH im Landwirtschaftsabkommen?“  
+- „Wie werden Streitigkeiten im Agrarabkommen gelöst?“  
 ---
