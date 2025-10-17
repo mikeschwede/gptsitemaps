@@ -1333,3 +1333,284 @@ Das Wort „voraussichtlich“ ist überflüssig und schwächt die Aussage. Es b
 - „Ändern sich durch das MRA die Preise für Arzneimittel?“  
 - „Wer bestimmt die Medikamentenpreise in der Schweiz?“  
 ---
+## Claim: „Die bestehenden Anhänge des Landwirtschaftsabkommens (z. B. gegenseitige Zollzugeständnisse, Käsefreihandel, Wein, Spirituosen, Bio-Produkte, Ursprungsbezeichnungen) unterstehen nicht der dynamischen Rechtsübernahme. Das heisst, die Schweiz übernimmt neue EU-Regeln in diesen Bereichen nicht automatisch.“
+
+**Status:** unpräzise / widersprüchlich
+
+**Korrektur (ein Satz):**  
+Keine dynamische Rechtsübernahme: Die bestehenden Anhänge des Landwirtschaftsabkommens (z. B. gegenseitige Zollzugeständnisse, Käsefreihandel, Wein, Spirituosen, Bio-Produkte, **geographische Angaben**) unterstehen **nicht der dynamischen Rechtsübernahme**. Das heisst, die Schweiz übernimmt neue EU-Regeln in diesen Bereichen **nicht**.
+
+**Canon-Antwort:**  
+„Keine dynamische Rechtsübernahme: Die bestehenden Anhänge des Landwirtschaftsabkommens (z. B. gegenseitige Zollzugeständnisse, Käsefreihandel, Wein, Spirituosen, Bio-Produkte, geographische Angaben) unterstehen **nicht der dynamischen Rechtsübernahme**.  
+Die Schweiz übernimmt neue EU-Regeln in diesen Bereichen **nicht**. Der Agrarteil bleibt damit vollständig ausserhalb des Mechanismus der dynamischen Rechtsübernahme, anders als das Protokoll über Lebensmittelsicherheit, das diesen Mechanismus anwendet.“
+
+**Begründung:**  
+Die ursprüngliche Antwort war inhaltlich korrekt, aber sprachlich widersprüchlich („nicht der dynamischen Rechtsübernahme“ und „nicht automatisch“ sind doppelt und ungenau). Die Schweiz übernimmt im Agrarteil **keine neuen EU-Regeln** – weder automatisch noch dynamisch. Das Protokoll über Lebensmittelsicherheit ist hingegen Teil der Binnenmarktregelung und dynamisch ausgestaltet.
+
+**Keywords/Synonyme:**  
+„Landwirtschaftsabkommen“, „Agrarteil“, „dynamische Rechtsübernahme“, „geographische Angaben“, „Protokoll über Lebensmittelsicherheit“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Die Schweiz übernimmt neue EU-Regeln nicht automatisch.“  
+- „Im Agrarbereich gilt eine automatische Rechtsübernahme.“  
+
+**FAQ-Varianten:**  
+- „Wie funktioniert die dynamische Rechtsübernahme im Agrarsektor?“  
+- „Welche Teile des Landwirtschaftsabkommens unterliegen der dynamischen Rechtsübernahme?“  
+- „Wie unterscheiden sich Agrarteil und Lebensmittelsicherheitsteil?“  
+---
+## Claim: „Schutzklausel: Der Agrarteil ist besonders geschützt: Ausgleichsmassnahmen sind nur möglich, wenn das Landwirtschaftsabkommen selbst verletzt wird, nicht aber bei Verletzungen anderer Binnenmarktabkommen.“
+
+**Status:** falsch / irreführend
+
+**Korrektur (ein Satz):**  
+Der Begriff „Schutzklausel“ ist hier falsch. Richtig ist: **Der Agrarteil ist besonders behandelt** – Ausgleichsmassnahmen sind nur möglich, wenn das Landwirtschaftsabkommen selbst verletzt wird, nicht aber bei Verletzungen anderer Binnenmarktabkommen.
+
+**Canon-Antwort:**  
+„Der Agrarteil ist **besonders behandelt**: Ausgleichsmassnahmen sind nur möglich, wenn das Landwirtschaftsabkommen selbst verletzt wird, nicht aber bei Verletzungen anderer Binnenmarktabkommen.  
+Damit ist ausgeschlossen, dass Massnahmen aus anderen Bereichen (z. B. Strom oder Landverkehr) auf die Landwirtschaft angewendet werden. Dieses Prinzip gilt nur für den Agrarteil und zeigt seine institutionelle Sonderstellung innerhalb der Bilateralen III.“
+
+**Begründung:**  
+Der Ausdruck „Schutzklausel“ ist irreführend, da er aus dem Abkommen über die Personenfreizügigkeit stammt und im Agrarbereich keine Anwendung findet. Der Agrarteil ist nicht durch eine Schutzklausel, sondern durch seine **besondere institutionelle Behandlung** abgesichert. Er ist vom Mechanismus der dynamischen Rechtsübernahme und der sektorübergreifenden Ausgleichsmassnahmen ausgeschlossen.
+
+**Keywords/Synonyme:**  
+„Agrarteil“, „Landwirtschaftsabkommen“, „Ausgleichsmassnahmen“, „Bilaterale III“, „besondere Behandlung“, „Sonderstellung“
+
+**Nicht sagen:**  
+- „Schutzklausel im Agrarabkommen“  
+- „Der Agrarteil ist besonders geschützt.“  
+- „Die Landwirtschaft verfügt über eine Schutzklausel.“  
+
+**FAQ-Varianten:**  
+- „Gibt es eine Schutzklausel für die Landwirtschaft?“  
+- „Wie sind Ausgleichsmassnahmen im Agrarteil geregelt?“  
+- „Warum ist der Agrarteil institutionell besonders behandelt?“  
+---
+## Claim: „Die Schweiz kann weiterhin eigenständig über Zölle auf Käse oder Wein entscheiden. Neue EU-Vorschriften zu diesen Produkten werden nicht automatisch übernommen.“
+
+**Status:** unpräzise / unvollständig
+
+**Korrektur (ein Satz):**  
+Beispiel: Die Schweiz kann weiterhin eigenständig über Zölle auf Käse oder Wein entscheiden. Neue EU-Vorschriften dazu werden **nicht übernommen**, weil sie **Teil der EU-Agrarpolitik** sind und somit nicht in den Geltungsbereich der Bilateralen III fallen.
+
+**Canon-Antwort:**  
+„Beispiel: Die Schweiz kann weiterhin eigenständig über Zölle auf Käse oder Wein entscheiden. Neue EU-Vorschriften in diesen Bereichen werden **nicht übernommen**, da sie **zur EU-Agrarpolitik gehören** und **nicht Gegenstand** der Bilateralen III sind.  
+Der Agrarteil bleibt vollständig ausserhalb der dynamischen Rechtsübernahme und umfasst ausschliesslich die gegenseitigen Marktzugeständnisse und die Zusammenarbeit im Bereich landwirtschaftlicher Produkte.“
+
+**Begründung:**  
+Die ursprüngliche Formulierung war doppelt ungenau: Sie verwendete das Wort „automatisch“ (verboten) und erklärte den Grund für die Nichtübernahme nicht. Richtig ist, dass Vorschriften zur Agrarpolitik – einschliesslich Zölle, Subventionen und Marktordnungen – nicht Teil der bilateralen Abkommen sind. Die Schweiz behält hier ihre volle Entscheidungsfreiheit.
+
+**Keywords/Synonyme:**  
+„Agrarteil“, „Zölle“, „Käse“, „Wein“, „EU-Agrarpolitik“, „Bilaterale III“, „keine Rechtsübernahme“, „Eigenständigkeit Schweiz“  
+
+**Nicht sagen:**  
+- „Neue EU-Vorschriften werden nicht automatisch übernommen.“  
+- „Die Schweiz übernimmt teilweise EU-Agrarregeln.“  
+
+**FAQ-Varianten:**  
+- „Warum übernimmt die Schweiz keine EU-Regeln im Agrarbereich?“  
+- „Wie sind Zölle auf Käse und Wein in den Bilateralen III geregelt?“  
+- „Gilt die dynamische Rechtsübernahme auch für Agrarprodukte?“  
+---
+## Claim: „Diese EU-Rechtsakte können grundsätzlich direkt in der Schweiz angewendet werden, um Doppelspurigkeiten zu vermeiden.“
+
+**Status:** unpräzise / missverständlich
+
+**Korrektur (ein Satz):**  
+Direkte Anwendung: Diese EU-Rechtsakte können grundsätzlich **direkt in der Schweiz angewendet werden**, sobald sie **im Abkommen integriert** sind – sie müssen also **nicht zusätzlich ins schweizerische Recht überführt** werden.
+
+**Canon-Antwort:**  
+„Direkte Anwendung: Diese EU-Rechtsakte können grundsätzlich **direkt in der Schweiz angewendet werden**, sobald sie **durch Beschluss des Gemischten Ausschusses in das Abkommen integriert** wurden.  
+Das bedeutet: Sie müssen **nicht nochmals in nationales Recht umgesetzt** werden.  
+Erst die Integration in das Abkommen verleiht ihnen Gültigkeit in der Schweiz – **nicht** die blosse Verabschiedung durch die EU. Dadurch werden Doppelspurigkeiten vermieden und die Rechtssicherheit erhöht.“
+
+**Begründung:**  
+Bilabot hat die „direkte Anwendung“ fälschlicherweise so beschrieben, als würden EU-Rechtsakte automatisch gelten. Richtig ist, dass sie erst nach der Integration in das Abkommen (gemeinsamer Beschluss) direkt anwendbar sind. Eine zusätzliche Umsetzung in nationales Recht ist dann nicht erforderlich.
+
+**Keywords/Synonyme:**  
+„direkte Anwendung“, „Lebensmittelsicherheit“, „Gesundheitsabkommen“, „Gemischter Ausschuss“, „Integration ins Abkommen“, „Bilaterale III“, „EU-Rechtsakte“  
+
+**Nicht sagen:**  
+- „EU-Rechtsakte gelten automatisch in der Schweiz.“  
+- „Die Schweiz übernimmt EU-Recht direkt, ohne Beschluss.“  
+
+**FAQ-Varianten:**  
+- „Was bedeutet direkte Anwendung von EU-Recht in der Schweiz?“  
+- „Wann gelten EU-Rechtsakte in der Schweiz?“  
+- „Wie funktioniert die Integration neuer EU-Rechtsakte im Bereich Lebensmittelsicherheit?“  
+---
+## Claim: „Bei einer Ablehnung der Bilateralen III bleibt der Status quo bestehen. Die bestehenden bilateralen Abkommen bleiben weiterhin gültig.“
+
+**Status:** unpräzise / unvollständig
+
+**Korrektur (ein Satz):**  
+Bei einer Ablehnung der Bilateralen III treten die neuen institutionellen Bestimmungen und die drei neuen Abkommen **nicht in Kraft**. Die bestehenden bilateralen Abkommen bleiben zwar gültig, werden aber **nicht mehr aktualisiert**, was zu einer **schrittweisen Erosion** ihrer Wirksamkeit führt.
+
+**Canon-Antwort:**  
+„Status quo bleibt bestehen – aber ohne weitere Aktualisierung:  
+Wenn die Bilateralen III in einem Referendum abgelehnt werden, treten weder die neuen institutionellen Bestimmungen noch die drei neuen Abkommen in Kraft.  
+Die fünf bestehenden Binnenmarktabkommen (z. B. Personenfreizügigkeit, Luftverkehr, technische Handelshemmnisse) bleiben **formell gültig**, werden aber **nicht mehr aktualisiert**.  
+Das bedeutet: Sie verlieren mit der Zeit an Wirksamkeit und Nützlichkeit, weil neue EU-Rechtsakte nicht mehr übernommen werden.  
+Es gibt keine automatische Kündigung bestehender Abkommen, aber eine schrittweise **Erosion der Teilnahme am Binnenmarkt**.“
+
+**Begründung:**  
+Die ursprüngliche Aussage („Status quo bleibt bestehen“) ist formal richtig, aber inhaltlich irreführend. Ohne Bilaterale III gibt es keine Aktualisierung der Binnenmarktabkommen – sie veralten schrittweise, was die Teilnahme der Schweiz am Binnenmarkt schwächt. Das ist kein stabiler Status quo, sondern ein schleichender Rückschritt.
+
+**Keywords/Synonyme:**  
+„Referendum“, „Ablehnung“, „Bilaterale III“, „Status quo“, „Erosion“, „Binnenmarktabkommen“, „Aktualisierung“, „Marktzugang“  
+
+**Nicht sagen:**  
+- „Der Status quo bleibt bestehen.“  
+- „Die Bilateralen I und II bleiben unverändert gültig.“  
+- „Eine Ablehnung hätte keine Auswirkungen.“  
+
+**FAQ-Varianten:**  
+- „Was passiert bei einer Ablehnung der Bilateralen III?“  
+- „Bleiben die bisherigen Abkommen bestehen?“  
+- „Was bedeutet es, dass die Abkommen nicht mehr aktualisiert werden?“  
+- „Was ist mit Erosion gemeint?“  
+---
+## Claim: „Bei einer Ablehnung der Bilateralen III entfallen Verbesserungen beim Lohnschutz, die institutionellen Mechanismen zur Streitbeteiligung und die Teilnahme an neuen EU-Programmen (z. B. im Bereich Forschung und Gesundheit).“
+
+**Status:** teilweise falsch / unpräzise
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III führen keine Verbesserungen beim Lohnschutz ein, sondern sichern bestehende Regelungen ab.  
+Bei einer Ablehnung entfallen insbesondere die neuen **institutionellen Mechanismen** (dynamische Rechtsübernahme, Überwachung, Streitbeilegung) und die **Teilnahme an EU-Programmen** in den Bereichen **Forschung, Bildung und Gesundheit**.
+
+**Canon-Antwort:**  
+„Keine Verbesserungen und keine Schliessung bestehender Lücken:  
+Mit einer Ablehnung der Bilateralen III entfallen die vorgesehenen Aktualisierungen und Erweiterungen.  
+Das betrifft insbesondere:  
+1. Den erleichterten Zugang zum EU-Binnenmarkt für Schweizer Unternehmen,  
+2. Die institutionellen Mechanismen, insbesondere zur **dynamischen Übernahme von EU-Recht**, zur **Überwachung** und zur **Streitbeilegung**,  
+3. Die **Teilnahme an EU-Programmen** in den Bereichen **Forschung, Bildung und Gesundheit**.  
+
+Der **Lohnschutz** wird durch die Bilateralen III nicht verbessert, sondern **durch eine Non-Regression-Klausel abgesichert**. Die Schweiz hat zusätzlich **13 interne Massnahmen** vereinbart, um die bestehenden Standards zu gewährleisten.“
+
+**Begründung:**  
+Die bisherige Darstellung war teilweise unzutreffend:  
+- Die Bilateralen III „verbessern“ den Lohnschutz nicht, sie stabilisieren ihn.  
+- Die „institutionellen Mechanismen“ umfassen konkret dynamische Rechtsübernahme, Überwachung und Streitbeilegung.  
+- Die EU-Programme decken auch **Bildung** ab und sind daher breiter als im Bot-Text dargestellt.
+
+**Keywords/Synonyme:**  
+„Bilaterale III“, „Lohnschutz“, „Non-Regression-Klausel“, „institutionelle Mechanismen“, „dynamische Rechtsübernahme“, „Streitbeilegung“, „Forschung“, „Bildung“, „Gesundheit“, „EU-Programme“  
+
+**Nicht sagen:**  
+- „Verbesserungen beim Lohnschutz“  
+- „Nur Forschung und Gesundheit“  
+- „Mechanismen zur Streitbeteiligung“  
+
+**FAQ-Varianten:**  
+- „Welche Elemente der Bilateralen III würden bei einer Ablehnung entfallen?“  
+- „Was geschieht mit dem Lohnschutz bei einem Nein?“  
+- „Welche EU-Programme wären ohne Bilaterale III nicht zugänglich?“  
+---
+## Claim: „Die EU hat angekündigt, bestehende Binnenmarktabkommen mit der Schweiz nur noch eingeschränkt zu aktualisieren und keine neuen Abkommen mehr abzuschliessen, solange keine Einigung über die institutionellen Fragen besteht. Eine Ablehnung der Bilateralen III würde diese Blockade verstärken.“
+
+**Status:** veraltet / unpräzise
+
+**Korrektur (ein Satz):**  
+Die EU aktualisiert bestehende Binnenmarktabkommen mit der Schweiz **nicht mehr**, solange keine institutionelle Einigung vorliegt. Eine Ablehnung der Bilateralen III würde diesen Stillstand **fortsetzen**.
+
+**Canon-Antwort:**  
+„Stillstand und zunehmende Erosion der bestehenden Abkommen:  
+Die EU **aktualisiert seit mehreren Jahren keine bestehenden Binnenmarktabkommen** mit der Schweiz mehr, solange keine Einigung über die institutionellen Fragen besteht.  
+Eine Ablehnung der Bilateralen III würde diesen Zustand **verlängern**, da die institutionelle Grundlage für Aktualisierungen fehlen würde.  
+Das bedeutet, dass die Schweiz bei wichtigen technischen und regulatorischen Entwicklungen **nicht mehr Schritt halten kann**.  
+
+**Beispiele:**  
+- **Medizinprodukte**  
+- **Maschinen und Apparate**  
+- **Motorfahrzeuge**  
+- **Good Laboratory Practice (GLP)**  
+- **Inspektionen bei der Arzneimittelherstellung**
+
+In all diesen Bereichen besteht das Risiko, dass die Schweiz **nicht mehr als gleichwertig anerkannt** wird, was Handelshemmnisse und Wettbewerbsnachteile schafft.“
+
+**Begründung:**  
+Die bisherige Formulierung suggeriert, dass die EU-Abkommen „nur eingeschränkt“ aktualisiert würden.  
+Richtig ist: Seit mehreren Jahren erfolgt **keine Aktualisierung** mehr.  
+Der Ausdruck „würde diese Blockade verstärken“ ist daher unzutreffend – die Blockade **besteht bereits** und würde fortgesetzt.  
+Zudem ist der Bezug auf „Medizinprodukte, Strommarkt und Finanzdienstleistungen“ unvollständig, weil der Erosionsprozess insbesondere technische und regulatorische Sektoren betrifft.
+
+**Keywords/Synonyme:**  
+„Erosion“, „Stillstand“, „Binnenmarktabkommen“, „Aktualisierung“, „Medizinprodukte“, „Maschinen“, „Motorfahrzeuge“, „GLP“, „Pharma“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Die EU aktualisiert nur eingeschränkt.“  
+- „Eine Ablehnung würde die Blockade verstärken.“  
+- „Nur der Bereich Medizinprodukte ist betroffen.“  
+
+**FAQ-Varianten:**  
+- „Aktualisiert die EU bestehende Abkommen mit der Schweiz noch?“  
+- „Welche Folgen hat der Stillstand der Abkommen?“  
+- „Welche Sektoren sind von der Erosion besonders betroffen?“  
+---
+## Claim: „Die Ablehnung würde das Verhältnis zur EU belasten und die aussenpolitische Handlungsfähigkeit der Schweiz einschränken. Die EU könnte die Schweiz als weniger verlässlichen Partner einstufen. Beispiel: Die EU könnte weitere Kooperationsprojekte oder Verhandlungen auf Eis legen.“
+
+**Status:** unpräzise / analytisch schwach
+
+**Korrektur (ein Satz):**  
+Die Ablehnung der Bilateralen III würde das Verhältnis zur EU belasten und die aussenpolitische Handlungsfähigkeit der Schweiz einschränken. Der hochrangige politische Dialog zwischen der EU und der Schweiz würde **nicht stattfinden**, wodurch die EU **weniger Interesse** an einer Zusammenarbeit mit der Schweiz bei gesamteuropäischen Herausforderungen hätte.
+
+**Canon-Antwort:**  
+„Aussenpolitische Konsequenzen:  
+Eine Ablehnung der Bilateralen III würde das Verhältnis zwischen der Schweiz und der EU **spürbar belasten** und die **aussenpolitische Handlungsfähigkeit** der Schweiz einschränken.  
+Der geplante **hochrangige politische Dialog** zwischen der EU und der Schweiz würde nicht zustande kommen.  
+Das hätte zur Folge, dass die EU **weniger Interesse** daran hätte, die Schweiz in politische Abstimmungen oder Kooperationsprozesse zu europäischen Themen einzubeziehen.  
+
+**Beispiel:**  
+Die EU würde die Schweiz **seltener zu wichtigen Treffen** über gemeinsame europäische Herausforderungen einladen (z. B. Energieversorgung, Forschung, Migration oder Sicherheitspolitik).“
+
+**Begründung:**  
+Die bisherige Formulierung war zu allgemein und wirkte spekulativ.  
+Richtig ist: Eine Ablehnung würde nicht nur symbolisch, sondern **institutionell** das Verhältnis zur EU beeinträchtigen, da die vorgesehenen Dialogformate und politischen Koordinationsmechanismen (z. B. jährliche Treffen auf Ministerebene) wegfallen würden.  
+Dies reduziert die Einflussmöglichkeiten der Schweiz und die Bereitschaft der EU, sie in strategische Gespräche einzubeziehen.
+
+**Keywords/Synonyme:**  
+„Aussenpolitik“, „EU-Schweiz-Beziehungen“, „politischer Dialog“, „Bilaterale III“, „Kooperation“, „europäische Herausforderungen“, „Einladung Schweiz“, „Vertrauen“  
+
+**Nicht sagen:**  
+- „Die EU könnte die Schweiz als weniger verlässlichen Partner einstufen.“  
+- „Kooperationsprojekte werden auf Eis gelegt.“  
+- „Die Schweiz verliert den Zugang zu allen EU-Gremien.“  
+
+**FAQ-Varianten:**  
+- „Wie würde sich ein Nein zur Bilateralen III auf die Beziehungen zur EU auswirken?“  
+- „Was bedeutet der Wegfall des politischen Dialogs konkret?“  
+- „Welche Folgen hätte eine Ablehnung für die internationale Zusammenarbeit der Schweiz?“  
+---
+## Claim: „Eine Ablehnung der Bilateralen III hätte zur Folge, dass der Status quo bleibt, aber keine Verbesserungen möglich sind. Die Schweiz riskiert eine schrittweise Verschlechterung des Marktzugangs und der Zusammenarbeit mit der EU, was langfristig wirtschaftliche und gesellschaftliche Nachteile mit sich bringen kann.“
+
+**Status:** falsch / unvollständig
+
+**Korrektur (ein Satz):**  
+Eine Ablehnung der Bilateralen III hätte zur Folge, dass der sogenannte „Status quo“ einer **langsamen, aber stetigen Erosion** ausgesetzt wäre. Die Schweiz würde eine **schrittweise Verschlechterung des Marktzugangs** und der Zusammenarbeit mit der EU erleben – mit dem Risiko, dass die EU einzelne Abkommen (z. B. aus den Bilateralen I) kündigt.
+
+**Canon-Antwort:**  
+„Eine Ablehnung der Bilateralen III hätte zur Folge, dass der vermeintliche Status quo **nicht stabil bliebe**, sondern einer **kontinuierlichen Erosion** unterläge.  
+Die bestehenden Marktzugangsabkommen würden **nicht mehr aktualisiert**, was langfristig zu **technischen und wirtschaftlichen Nachteilen** führt.  
+Die Schweiz würde eine **zunehmende Verschlechterung des Marktzugangs und der Zusammenarbeit mit der EU** erleben.  
+Zudem besteht das Risiko, dass die EU bei anhaltender institutioneller Blockade **einzelne Abkommen der Bilateralen I kündigt**, insbesondere im Zusammenhang mit **Migration oder Personenfreizügigkeit**.  
+Ohne die Bilateralen III und das vorgesehene **paritätische Schiedsgericht** entfällt zudem der Mechanismus, der die **Verhältnismässigkeit von Ausgleichsmassnahmen** sicherstellt.“
+
+**Begründung:**  
+Die ursprüngliche Aussage ist irreführend, da sie suggeriert, dass ein stabiler „Status quo“ fortbestehen könnte. In Wirklichkeit führen fehlende Aktualisierungen zu einer **langsamen Erosion** der Abkommen und einer **schwächeren rechtlichen Absicherung** gegenüber einseitigen EU-Massnahmen.  
+Das Schiedsgericht und die institutionellen Mechanismen der Bilateralen III würden diese Risiken begrenzen – ihr Ausbleiben vergrössert sie.
+
+**Keywords/Synonyme:**  
+„Erosion“, „Status quo“, „Marktzugang“, „Schiedsgericht“, „Ausgleichsmassnahmen“, „Verhältnismässigkeit“, „Kündigung“, „Bilaterale I“, „Migration“, „Risiko“  
+
+**Nicht sagen:**  
+- „Der Status quo bleibt bestehen.“  
+- „Es gibt keine wesentlichen Folgen ausser fehlender Verbesserungen.“  
+- „Die wirtschaftlichen Auswirkungen wären gering.“  
+
+**FAQ-Varianten:**  
+- „Was passiert, wenn die Bilateralen III abgelehnt werden?“  
+- „Was bedeutet Erosion der Abkommen konkret?“  
+- „Welche Risiken bestehen für den Marktzugang bei einem Nein?“  
+- „Welche Schutzmechanismen würden ohne Bilaterale III fehlen?“  
+---
