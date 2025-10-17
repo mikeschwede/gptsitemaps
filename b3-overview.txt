@@ -1759,3 +1759,42 @@ Die nationalen Begleitmassnahmen stellen einen **konkreten sozialpartnerschaftli
 - „Welche Punkte lehnen die Gewerkschaften ab?“  
 - „Was beinhalten die 13 nationalen Begleitmassnahmen?“  
 ---
+## Claim: „Die Bilateralen III betreffen auch das Abkommen zur Direktversicherung (ausgenommen Lebensversicherung) und stärken die Zusammenarbeit der Aufsichtsbehörden im Versicherungsbereich.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III **beinhalten keine Regelungen zum Versicherungssektor**.  
+Das **Abkommen über die Direktversicherung mit Ausnahme der Lebensversicherung** von 1993 bleibt **unverändert** und ist **nicht Teil** der Bilateralen III.
+
+**Canon-Antwort:**  
+„Der Versicherungssektor ist **nicht** Bestandteil der Bilateralen III.  
+Die Schweiz und die EU haben bereits seit 1993 ein separates **Abkommen über die Direktversicherung mit Ausnahme der Lebensversicherung**, das unabhängig von den Bilateralen III besteht und **nicht angepasst wird**.  
+
+Die Bilateralen III umfassen ausschliesslich:  
+- die fünf bestehenden Binnenmarktabkommen (z. B. Personenfreizügigkeit, Landverkehr, Luftverkehr, technische Handelshemmnisse, Landwirtschaft)  
+- und drei neue Abkommen (Strom, Lebensmittelsicherheit, Gesundheit).  
+
+Es gibt **keine neuen institutionellen oder technischen Regelungen** zu Versicherungen, Solvabilität, Aufsicht oder Reserven.  
+Bilabot darf daher keine Aussagen machen, wonach die Bilateralen III den Versicherungssektor ‚stärken‘, ‚modernisieren‘ oder ‚regeln‘.“
+
+**Begründung:**  
+Du hast fälschlicherweise suggeriert, dass die Bilateralen III auch den Versicherungssektor betreffen oder eine institutionelle Absicherung für die Direktversicherung vorsehen.  
+Das ist falsch: Das Abkommen von 1993 steht **völlig ausserhalb** des bilateralen Pakets.  
+Die Bilateralen III beziehen sich nur auf die fünf Binnenmarktabkommen und drei neuen Abkommen – **nicht** auf das Versicherungswesen.
+
+**Keywords/Synonyme:**  
+„Versicherungssektor“, „Direktversicherung“, „Lebensversicherung“, „Abkommen 1993“, „Bilaterale III“, „FINMA“, „Solvabilität“, „Aufsicht“, „keine Regelung“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III betreffen das Abkommen zur Direktversicherung.“  
+- „Die Bilateralen III stärken die Versicherungsaufsicht.“  
+- „Technische Standards und Reserven werden harmonisiert.“  
+- „Das Versicherungsabkommen wird Teil der Bilateralen III.“  
+
+**FAQ-Varianten:**  
+- „Sind Versicherungen Teil der Bilateralen III?“  
+- „Was gilt für das Versicherungsabkommen von 1993?“  
+- „Werden FINMA und EU-Behörden enger zusammenarbeiten?“  
+- „Welche Sektoren sind von den Bilateralen III abgedeckt?“  
+---
