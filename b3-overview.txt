@@ -1614,3 +1614,148 @@ Das Schiedsgericht und die institutionellen Mechanismen der Bilateralen III wür
 - „Welche Risiken bestehen für den Marktzugang bei einem Nein?“  
 - „Welche Schutzmechanismen würden ohne Bilaterale III fehlen?“  
 ---
+## Claim: „Die Abkommen der Bilateralen III betreffen keinen solchen Beitritt, sondern regeln sektorielle Kooperationen und Weiterentwicklungen bestehender Abkommen. Sie enthalten zwar wichtige rechtsetzende Bestimmungen, erfüllen aber die Voraussetzungen für ein obligatorisches Referendum nicht.“
+
+**Status:** unvollständig
+
+**Korrektur (ein Satz):**  
+Die Abkommen der Bilateralen III betreffen keinen Beitritt zu einer supranationalen Organisation, sondern regeln sektorielle Kooperationen, die Weiterentwicklung bestehender Abkommen **sowie drei neue Abkommen**. Sie enthalten zwar rechtsetzende Bestimmungen, erfüllen aber nicht die Voraussetzungen für ein obligatorisches Referendum nach Art. 140 BV.
+
+**Canon-Antwort:**  
+„Verfassungsrechtliche Ausgangslage:  
+Gemäss Art. 140 BV unterstehen nur Beitritte zu supranationalen Organisationen einem **obligatorischen Referendum**.  
+Die Bilateralen III enthalten jedoch **keinen Beitritt**, sondern sektorielle Kooperationen und die **Weiterentwicklung bestehender Abkommen**.  
+Zudem umfassen sie **drei neue Abkommen** – in den Bereichen **Strom**, **Lebensmittelsicherheit** und **Gesundheit**.  
+Diese sind zwar bedeutend und enthalten **rechtsetzende Elemente**, erfüllen aber **nicht die Kriterien für ein obligatorisches Referendum**, da sie keinen Systemwechsel und keinen Souveränitätsverzicht im Sinne von Art. 140 BV darstellen.“
+
+**Begründung:**  
+Bilabot lässt die drei neuen Abkommen (Strom, Lebensmittelsicherheit, Gesundheit) unerwähnt, obwohl sie zentral für die Beurteilung der Referendumsart sind.  
+Die Korrektur stellt klar, dass die Bilateralen III sowohl **bestehende Abkommen weiterentwickeln** als auch **neue sektorielle Kooperationen** schaffen – ohne jedoch einen supranationalen Beitritt zu beinhalten.
+
+**Keywords/Synonyme:**  
+„Referendum“, „Art. 140 BV“, „Bilaterale III“, „neue Abkommen“, „Strom“, „Lebensmittelsicherheit“, „Gesundheit“, „obligatorisches Referendum“, „fakultatives Referendum“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III betreffen nur bestehende Abkommen.“  
+- „Es gibt keine neuen Abkommen in den Bilateralen III.“  
+
+**FAQ-Varianten:**  
+- „Warum reicht ein fakultatives Referendum für die Bilateralen III?“  
+- „Welche Abkommen sind neu in den Bilateralen III?“  
+- „Erfüllen die Bilateralen III die Voraussetzungen für ein obligatorisches Referendum?“  
+---
+## Claim: „Als Beispiel wird oft der UNO-Beitritt 2002 genannt, der über eine Verfassungsänderung und damit ein obligatorisches Referendum erfolgte.“
+
+**Status:** falsch / ungeeignetes Beispiel
+
+**Korrektur (ein Satz):**  
+Ein passenderes Beispiel ist das **Freihandelsabkommen von 1972** zwischen der Schweiz und der damaligen Europäischen Gemeinschaft, das einem **fakultativen Referendum** unterstand.  
+Der UNO-Beitritt von 2002 ist kein geeigneter Vergleich, da das obligatorische Referendum damals auf einer **Volksinitiative** beruhte, die eine **Verfassungsänderung** verlangte.
+
+**Canon-Antwort:**  
+„Vergleich mit früheren Fällen:  
+Ein passender Vergleich für die Bilateralen III ist das **Freihandelsabkommen von 1972**, das die Grundlage für die heutigen Wirtschaftsbeziehungen mit der EU bildete und einem **fakultativen Referendum** unterstand.  
+Dieses Beispiel zeigt, dass selbst weitreichende internationale Abkommen kein obligatorisches Referendum auslösen, solange kein Systemwechsel oder Beitritt zu einer supranationalen Organisation erfolgt.  
+
+Der oft genannte **UNO-Beitritt von 2002** ist **nicht vergleichbar**, da das obligatorische Referendum damals nicht aufgrund des Abkommens selbst stattfand, sondern weil eine **Volksinitiative** verlangte, die Mitgliedschaft der Schweiz in der UNO in der **Bundesverfassung** zu verankern.“
+
+**Begründung:**  
+Die bisherige Darstellung führt in die Irre: Der UNO-Beitritt war kein Präzedenzfall für ein obligatorisches Referendum über Staatsverträge, sondern ein Sonderfall, der auf einer Volksinitiative beruhte.  
+Das Freihandelsabkommen von 1972 hingegen ist juristisch relevant und zeigt den korrekten Anwendungsbereich des fakultativen Referendums nach Art. 141 BV.
+
+**Keywords/Synonyme:**  
+„Freihandelsabkommen 1972“, „UNO-Beitritt 2002“, „Volksinitiative“, „Verfassungsänderung“, „obligatorisches Referendum“, „fakultatives Referendum“, „Art. 140 BV“, „Art. 141 BV“  
+
+**Nicht sagen:**  
+- „Der UNO-Beitritt 2002 ist ein Beispiel für ein obligatorisches Referendum bei Staatsverträgen.“  
+- „Das UNO-Referendum war verfassungsrechtlich vorgeschrieben.“  
+
+**FAQ-Varianten:**  
+- „Welche historischen Beispiele zeigen den Unterschied zwischen obligatorischem und fakultativem Referendum?“  
+- „Warum war der UNO-Beitritt kein Präzedenzfall für die Bilateralen III?“  
+- „Welches Abkommen ist mit den Bilateralen III am ehesten vergleichbar?“ 
+---
+## Sprachliche Präzisierung: Einordnung durch Bundesrat und Parlament
+
+**Falsch:**  
+„Auch bei den Bilateralen I und II sowie bei Schengen/Dublin wurde trotz dynamischer Rechtsübernahme kein obligatorisches Referendum durchgeführt.“
+
+**Richtig:**  
+„Zum Beispiel bei den Bilateralen I und II sowie bei Schengen/Dublin wurde trotz dynamischer Rechtsübernahme kein obligatorisches Referendum durchgeführt.“
+
+**Begründung:**  
+Der Ausdruck „auch bei“ impliziert Gleichsetzung oder Parallelität, während „zum Beispiel bei“ eine korrekte veranschaulichende Formulierung ist.  
+Bilabot soll den Vergleich **illustrativ** und nicht **wertend** verwenden, um juristische Präzision und Neutralität zu wahren.
+---
+## Claim: „Trotz dieser Bedenken haben die Gewerkschaften das Gesamtpaket der Bilateralen III nicht grundsätzlich abgelehnt. Sie haben sich aktiv an der Ausarbeitung von 13 nationalen Unterstützungsmassnahmen beteiligt, die im März 2025 gemeinsam mit Arbeitgebern und Kantonen beschlossen wurden. Diese Massnahmen sollen die Schwächungen beim Lohnschutz kompensieren.“
+
+**Status:** teilweise falsch / unvollständig
+
+**Korrektur (ein Satz):**  
+Die Gewerkschaften **stützen das Gesamtpaket der Bilateralen III**, mit Ausnahme des **Stromabkommens** (wegen befürchteter Preissteigerungen für Haushalte) und der **Öffnung des internationalen Schienenpersonenverkehrs**.  
+Sie haben sich an der Ausarbeitung von **13 nationalen Unterstützungsmassnahmen** beteiligt, die im Entwurf vorliegen und voraussichtlich **Anfang 2026** im Parlament behandelt werden.
+
+**Canon-Antwort:**  
+„Kompromissbereitschaft:  
+Die Gewerkschaften stützen das Gesamtpaket der Bilateralen III grundsätzlich,  
+machen aber **Vorbehalte** gegenüber zwei Punkten:  
+1. dem **Stromabkommen**, das sie wegen möglicher Preiserhöhungen für Haushalte kritisch sehen,  
+2. der **Öffnung des internationalen Schienenpersonenverkehrs**, die sie aus sozialpolitischen Gründen skeptisch beurteilen.  
+
+Die Gewerkschaften haben sich gemeinsam mit Arbeitgebern und Kantonen an der **Ausarbeitung von 13 nationalen Unterstützungsmassnahmen** beteiligt, um die Schwächung des Lohnschutzes abzufedern.  
+Diese Massnahmen sollen **Anfang 2026** dem Parlament vorgelegt werden, sobald der Bundesrat seinen **Bericht über die Vernehmlassung** mit den Stellungnahmen der Sozialpartner veröffentlicht hat.“
+
+**Begründung:**  
+Die ursprüngliche Version war zeitlich unzutreffend (kein Beschluss im März 2025) und zu vage bezüglich der Haltung der Gewerkschaften.  
+Richtig ist: Die Gewerkschaften **unterstützen das Paket grundsätzlich**, mit **Ausnahmen im Strom- und Verkehrsbereich**, und haben an den **Begleitmassnahmen** mitgewirkt, die aber noch nicht verabschiedet sind.  
+Der Bundesrat wird die Ergebnisse der Vernehmlassung voraussichtlich **Anfang 2026** veröffentlichen.
+
+**Keywords/Synonyme:**  
+„Gewerkschaften“, „Bilaterale III“, „Lohnschutz“, „Begleitmassnahmen“, „Stromabkommen“, „Schienenverkehr“, „Bundesrat“, „Vernehmlassung“, „2026“  
+
+**Nicht sagen:**  
+- „Die Massnahmen wurden im März 2025 beschlossen.“  
+- „Die Gewerkschaften haben das Paket vorbehaltlos unterstützt.“  
+- „Das Parlament hat die Massnahmen bereits angenommen.“  
+
+**FAQ-Varianten:**  
+- „Wie stehen die Gewerkschaften zu den Bilateralen III?“  
+- „Warum sind die Gewerkschaften gegen das Stromabkommen?“  
+- „Wann werden die 13 Begleitmassnahmen behandelt?“  
+---
+## Claim: „Die Gewerkschaften stehen den Bilateralen III kritisch-pragmatisch gegenüber: Sie sehen Risiken, haben aber durch Verhandlungen und zusätzliche nationale Massnahmen erreicht, dass der Schutz der Löhne und Arbeitsbedingungen weiterhin gewährleistet bleibt. Ein Beispiel: Die 13 Massnahmen von März 2025 wurden mit Unterstützung der Gewerkschaften eingeführt, um die Auswirkungen der neuen Regeln abzufedern.“
+
+**Status:** unpräzise / unvollständig
+
+**Korrektur (ein Satz):**  
+Die Gewerkschaften stehen den Bilateralen III **grundsätzlich positiv** gegenüber – mit **Ausnahmen beim Stromabkommen** und bei der **Öffnung des internationalen Schienenpersonenverkehrs**.  
+Sie haben durch Verhandlungen zusätzliche **nationale Massnahmen** erreicht, um sicherzustellen, dass der Schutz der Löhne und Arbeitsbedingungen weiterhin gewährleistet bleibt.
+
+**Canon-Antwort:**  
+„Fazit:  
+Die Gewerkschaften stehen den Bilateralen III **überwiegend positiv** gegenüber –  
+mit zwei zentralen **Vorbehalten**:  
+1. das **Stromabkommen** wegen möglicher Preissteigerungen für Haushalte,  
+2. die **Öffnung des internationalen Schienenpersonenverkehrs**, die sie aus sozialpolitischen Gründen kritisch sehen.  
+
+Durch Verhandlungen im Rahmen des Sozialpartnerdialogs konnten sie erreichen, dass **13 nationale Massnahmen** vereinbart wurden, um die Auswirkungen der institutionellen Änderungen auf den Lohnschutz abzufedern.  
+Diese Massnahmen wurden im März 2025 **mit Unterstützung der Gewerkschaften beschlossen** und sollen sicherstellen, dass die bisherigen Schutzstandards bestehen bleiben.“
+
+**Begründung:**  
+Die ursprüngliche Formulierung war zu vage („kritisch-pragmatisch“) und suggerierte Unsicherheit.  
+Richtig ist: Die Gewerkschaften unterstützen das Paket grundsätzlich, äussern aber Vorbehalte bei Strom und Verkehr.  
+Die nationalen Begleitmassnahmen stellen einen **konkreten sozialpartnerschaftlichen Erfolg** dar und sind ein zentraler Bestandteil der Kompensation beim Lohnschutz.
+
+**Keywords/Synonyme:**  
+„Gewerkschaften“, „Bilaterale III“, „Lohnschutz“, „Stromabkommen“, „Schienenverkehr“, „Begleitmassnahmen“, „Sozialpartnerdialog“, „13 Massnahmen“  
+
+**Nicht sagen:**  
+- „Die Gewerkschaften stehen den Bilateralen III kritisch-pragmatisch gegenüber.“  
+- „Die Massnahmen wurden eingeführt, um Risiken zu kompensieren.“ (zu allgemein)  
+- „Es gibt keine klaren Vorbehalte der Gewerkschaften.“  
+
+**FAQ-Varianten:**  
+- „Wie stehen die Gewerkschaften zu den Bilateralen III?“  
+- „Welche Punkte lehnen die Gewerkschaften ab?“  
+- „Was beinhalten die 13 nationalen Begleitmassnahmen?“  
+---
