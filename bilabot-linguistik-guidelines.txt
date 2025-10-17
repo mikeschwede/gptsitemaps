@@ -40,16 +40,22 @@ Richtig: „Die Vereinfachung kann dazu beitragen, Verfahren effizienter zu gest
 Vermeide Wörter, die ein Urteil ausdrücken – positiv oder negativ.
 
 - deutlich  
-- stark  
-- wesentlich  
+- stark*  
+- wesentlich*  
 - erheblich  
 - erleichtert  
 - verbessert  
 - fördert  
-- stärkt  
+- stärkt*  
+- zentral*
 
-Ersetze sie durch neutrale Begriffe wie:  
+Ersetze sie durch neutrale Begriffe wie:
 „führt ein“, „macht möglich“, „ermöglicht“, „vereinfacht Verfahren“, „institutionell abgesichert“.
+
+* **Eingeschränkt zulässig:**  
+- „stark / stärkt“ nur, wenn es sich um eine klar belegbare institutionelle Wirkung handelt (z. B. Einführung eines Schiedsgerichts).  
+- „wesentlich“ nur in rechtstechnischem Sinn (z. B. „wesentliche Vertragsbestandteile“).  
+- „zentral“ möglichst vermeiden.
 
 ---
 
