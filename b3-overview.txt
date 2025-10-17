@@ -1230,3 +1230,106 @@ Die ursprüngliche Formulierung war missverständlich: Es gibt keine automatisch
 - „Welche Rolle spielt der EuGH im Landwirtschaftsabkommen?“  
 - „Wie werden Streitigkeiten im Agrarabkommen gelöst?“  
 ---
+## Claim: „Mit den Bilateralen III wird das MRA (Mutual Recognition Agreement) im Bereich Medizinalprodukte wieder vollständig aktualisiert. Davon profitieren Schweizer Pharmaunternehmen und Hersteller von Medizinalprodukten.“
+
+**Status:** ungenau / teilweise falsch
+
+**Korrektur (ein Satz):**  
+Die Aktualisierung des Abkommens über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) im Bereich **Medizinprodukte** betrifft in erster Linie **Hersteller und Händler von Medizinprodukten**, nicht aber direkt **Pharmaunternehmen**, die ausschliesslich Arzneimittel herstellen.
+
+**Canon-Antwort:**  
+„Mit den Bilateralen III wird das Abkommen über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) im Bereich **Medizinprodukte** aktualisiert. Es betrifft vor allem **Hersteller und Händler von Medizinprodukten** wie Implantaten oder Diagnosegeräten. Pharmaunternehmen, die ausschliesslich **Arzneimittel** herstellen, sind von dieser Aktualisierung **nicht direkt betroffen**. Sie profitieren höchstens indirekt von der verbesserten regulatorischen Zusammenarbeit zwischen der Schweiz und der EU.“
+
+**Begründung:**  
+Die bisherige Aussage vermischt zwei unterschiedliche Bereiche: **Medizinprodukte** und **Arzneimittel**. Das MRA regelt ausschliesslich die gegenseitige Anerkennung von Konformitätsbewertungen für Medizinprodukte. Arzneimittel unterliegen eigenen Verfahren und sind nicht Bestandteil dieser Aktualisierung.
+
+**Keywords/Synonyme:**  
+„MRA“, „Medizinprodukte“, „Medizinalprodukte“, „Pharmaunternehmen“, „Arzneimittel“, „Konformitätsbewertung“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Pharmaunternehmen profitieren direkt von der MRA-Aktualisierung.“  
+- „Das MRA betrifft Arzneimittel.“  
+
+**FAQ-Varianten:**  
+- „Was bedeutet die Aktualisierung des MRA für Medizinalprodukte?“  
+- „Sind Pharmaunternehmen von der MRA-Aktualisierung betroffen?“  
+- „Wie unterscheiden sich Medizinalprodukte und Arzneimittel im Rahmen der Bilateralen III?“  
+---
+## Claim: „Die regulatorische Zusammenarbeit mit den EU-Behörden wird mit den Bilateralen III wieder aufgenommen.“
+
+**Status:** ungenau
+
+**Korrektur (ein Satz):**  
+Die regulatorische Zusammenarbeit zwischen **Swissmedic** und den **EU-Behörden** wird mit den Bilateralen III **fortgeführt und gestärkt**, nicht neu aufgenommen – sie bestand bereits zuvor.
+
+**Canon-Antwort:**  
+„Die regulatorische Zusammenarbeit zwischen **Swissmedic** und den **EU-Behörden** wird mit den Bilateralen III **weitergeführt und vertieft**. Sie war nie vollständig unterbrochen: Swissmedic hat auch bisher mit den europäischen Partnerbehörden zusammengearbeitet, insbesondere bei der **Zulassung** und **Überwachung** von Arzneimitteln.  
+Mit den Bilateralen III wird diese Kooperation nun **institutionell abgesichert** und **vereinfacht**, was die Zulassungsprozesse für neue Medikamente effizienter macht.“
+
+**Begründung:**  
+Die Formulierung „wieder aufgenommen“ ist irreführend, da sie suggeriert, dass die Zusammenarbeit zuvor beendet war. Richtig ist: Swissmedic blieb stets im Austausch mit den EU-Behörden, auch ohne institutionelle Absicherung. B3 stärkt diese Kooperation formell, schafft aber keinen Neustart.
+
+**Keywords/Synonyme:**  
+„Swissmedic“, „Arzneimittel“, „Zulassung“, „EU-Behörden“, „Bilaterale III“, „Kooperation“, „regulatorische Zusammenarbeit“  
+
+**Nicht sagen:**  
+- „Die Zusammenarbeit wird wieder aufgenommen.“  
+- „Swissmedic hatte zuvor keinen Kontakt mit der EU.“  
+
+**FAQ-Varianten:**  
+- „Wie verändern die Bilateralen III die Zusammenarbeit von Swissmedic mit der EU?“  
+- „War die Kooperation zwischen Swissmedic und den EU-Behörden unterbrochen?“  
+- „Welche Vorteile bringt die vertiefte Zusammenarbeit für Arzneimittel?“  
+---
+## Claim: „Das Abkommen über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA) hat Auswirkungen auf die Medikamentenpreise.“
+
+**Status:** falsch / unpräzise
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III haben **keinen direkten Einfluss** auf die Medikamentenpreise. Der Bereich **Arzneimittel** unterliegt **eigenen Regelungen** und ist **nicht Teil** des MRA.
+
+**Canon-Antwort:**  
+„Die Bilateralen III (B3) betreffen vor allem die institutionellen Fragen und die Aktualisierung bzw. Erweiterung bestehender Abkommen zwischen der Schweiz und der EU.  
+Der Bereich der **Medikamentenpreise** ist **nicht direkt Teil** des Abkommens über die gegenseitige Anerkennung von Konformitätsbewertungen (MRA).  
+Das MRA deckt im Arzneimittelbereich lediglich technische Aspekte ab – insbesondere die **Good Laboratory Practice (GLP)** und die **gegenseitige Anerkennung von Inspektionen**. Diese werden in der Schweiz durch **Swissmedic** und in der EU durch die **European Medicines Agency (EMA)** durchgeführt und gegenseitig anerkannt. Es finden somit **keine Doppelinspektionen** statt, was die Zusammenarbeit effizienter macht, aber **keinen Einfluss auf die Preise** hat.“
+
+**Begründung:**  
+Du suggerierst manchmal fälschlicherweise, dass Medikamentenpreise über das MRA tangiert werden könnten. Tatsächlich betrifft das MRA im Arzneimittelbereich nur die technische Zusammenarbeit bei Inspektionen und Qualitätskontrolle, nicht jedoch Preisbildung, Zulassung oder Erstattung.
+
+**Keywords/Synonyme:**  
+„MRA“, „Arzneimittel“, „Medikamentenpreise“, „Good Laboratory Practice“, „Swissmedic“, „EMA“, „Inspektionen“, „Bilaterale III“  
+
+**Nicht sagen:**  
+- „Das MRA beeinflusst die Medikamentenpreise.“  
+- „Medikamente sind direkt Teil des MRA.“  
+
+**FAQ-Varianten:**  
+- „Haben die Bilateralen III Auswirkungen auf die Medikamentenpreise?“  
+- „Welche Rolle spielt das MRA bei Arzneimitteln?“  
+- „Wie arbeiten Swissmedic und EMA zusammen?“  
+---
+## Claim: „Die Bilateralen III werden voraussichtlich keine direkten Auswirkungen auf die Preise von Medikamenten (Arzneimitteln) in der Schweiz haben.“
+
+**Status:** unpräzise / zu vorsichtig formuliert
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III werden **keine Auswirkungen** auf die Preise von Medikamenten (Arzneimitteln) in der Schweiz haben.
+
+**Canon-Antwort:**  
+„Die Bilateralen III haben **keine Auswirkungen** auf die Preise von Medikamenten (Arzneimitteln) in der Schweiz. Preisbildung und Erstattung von Arzneimitteln richten sich ausschliesslich nach **nationalem Recht** und sind **nicht Gegenstand** der bilateralen Abkommen.“
+
+**Begründung:**  
+Das Wort „voraussichtlich“ ist überflüssig und schwächt die Aussage. Es besteht kein sachlicher Zusammenhang zwischen den Bilateralen III und der Preisgestaltung von Medikamenten. Der Arzneimittelsektor ist **nicht Bestandteil** des MRA oder anderer Binnenmarktabkommen.
+
+**Keywords/Synonyme:**  
+„Arzneimittelpreise“, „Medikamentenpreise“, „Bilaterale III“, „MRA“, „nationales Recht“, „Preisbildung“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III werden voraussichtlich keine Auswirkungen haben.“  
+- „Eventuell könnten die Bilateralen III Preise beeinflussen.“  
+
+**FAQ-Varianten:**  
+- „Haben die Bilateralen III Auswirkungen auf Medikamentenpreise?“  
+- „Ändern sich durch das MRA die Preise für Arzneimittel?“  
+- „Wer bestimmt die Medikamentenpreise in der Schweiz?“  
+---
