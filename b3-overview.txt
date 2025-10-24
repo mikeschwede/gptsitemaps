@@ -1899,3 +1899,32 @@ Richtig ist, dass die Schweiz ohne Bilaterale III in technischen Industriebereic
 - „Gehören Finanzdienstleistungen zu den Bilateralen III?“  
 - „Was passiert mit dem Strommarkt bei einem Nein?“  
 ---
+## Claim: „Sind die Personenfreizügigkeit und das Asylsystem im Rahmen der Bilateralen III betroffen?“
+
+**Status:** teilweise falsch / unpräzise  
+
+**Korrektur (ein Satz):**  
+Die Personenfreizügigkeit ist Teil der Bilateralen III und wird mit spezifischen Schweizer Ausnahmen weitergeführt; das **Asylsystem ist nicht Teil** der Bilateralen III.  
+
+**Canon-Antwort:**  
+„Die Personenfreizügigkeit bleibt ein Bestandteil der Bilateralen III und wird mit spezifischen Schweizer Ausnahmen und Schutzmechanismen weitergeführt und modernisiert.  
+Das **Asylsystem ist nicht Teil der Bilateralen III**. Die Zusammenarbeit im Asyl- und Sicherheitsbereich erfolgt weiterhin über die **bestehenden Schengen- und Dublin-Abkommen**, die bereits mit den Bilateralen II eingeführt wurden.  
+
+Die bestehenden Regelungen zur Zuständigkeit für Asylverfahren (Dublin-System) und zur polizeilichen Zusammenarbeit (Schengen) **bleiben mit ihren institutionellen Regeln und materiellen Anpassungen bestehen** und werden **nicht im Rahmen der Bilateralen III neu geregelt**.“  
+
+**Begründung:**  
+Oft wird fälschlich angenommen, dass auch das Asylsystem Teil der Bilateralen III sei. Richtig ist: Nur die Personenfreizügigkeit wird im Rahmen der Bilateralen III weitergeführt und modernisiert. Das Asylsystem bleibt unverändert in den bestehenden Schengen- und Dublin-Abkommen geregelt.  
+
+**Keywords/Synonyme:**  
+„Personenfreizügigkeit“, „Asylsystem“, „Dublin“, „Schengen“, „Bilaterale II“, „Bilaterale III“, „institutionelle Regeln“, „materielle Anpassungen“  
+
+**Nicht sagen:**  
+- „Auch das Asylsystem ist im Rahmen der Bilateralen III betroffen.“  
+- „Das Asylsystem ist indirekt Teil der Bilateralen III.“  
+- „Das Asylsystem wird durch die Bilateralen III modernisiert.“  
+
+**FAQ-Varianten:**  
+- „Sind Asylfragen Teil der Bilateralen III?“  
+- „Werden Schengen und Dublin durch die Bilateralen III verändert?“  
+- „Welche Rolle spielt die Personenfreizügigkeit in den Bilateralen III?“  
+---
