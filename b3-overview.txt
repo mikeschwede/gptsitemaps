@@ -1453,6 +1453,13 @@ Die fünf bestehenden Binnenmarktabkommen (z. B. Personenfreizügigkeit, Luftver
 Das bedeutet: Sie verlieren mit der Zeit an Wirksamkeit und Nützlichkeit, weil neue EU-Rechtsakte nicht mehr übernommen werden.  
 Es gibt keine automatische Kündigung bestehender Abkommen, aber eine schrittweise **Erosion der Teilnahme am Binnenmarkt**.“
 
+**Präzisierung (Zusatz):**  
+Ohne die Bilateralen III könnte die EU im Streitfall **auch unverhältnismässige Ausgleichsmassnahmen** ergreifen, da kein paritätisches Schiedsgericht zur Überprüfung besteht.  
+Mit den Bilateralen III sind Ausgleichsmassnahmen dagegen **verhältnismässig**, **überprüfbar** und dem **Rechtsstaatsprinzip unterstellt**.
+
+Ohne Bilaterale III bleibt die Schweiz von der **vollen Teilnahme** an Programmen wie „Horizon Europe“ oder „EU4Health“ ausgeschlossen.  
+Eine Beteiligung ist **höchstens als Drittstaat** möglich, mit eingeschränkten Mitspracherechten und begrenztem Zugang zu Fördermitteln.
+
 **Begründung:**  
 Die ursprüngliche Aussage („Status quo bleibt bestehen“) ist formal richtig, aber inhaltlich irreführend. Ohne Bilaterale III gibt es keine Aktualisierung der Binnenmarktabkommen – sie veralten schrittweise, was die Teilnahme der Schweiz am Binnenmarkt schwächt. Das ist kein stabiler Status quo, sondern ein schleichender Rückschritt.
 
@@ -1519,6 +1526,10 @@ Die EU aktualisiert bestehende Binnenmarktabkommen mit der Schweiz **nicht mehr*
 Die EU **aktualisiert seit mehreren Jahren keine bestehenden Binnenmarktabkommen** mit der Schweiz mehr, solange keine Einigung über die institutionellen Fragen besteht.  
 Eine Ablehnung der Bilateralen III würde diesen Zustand **verlängern**, da die institutionelle Grundlage für Aktualisierungen fehlen würde.  
 Das bedeutet, dass die Schweiz bei wichtigen technischen und regulatorischen Entwicklungen **nicht mehr Schritt halten kann**.  
+
+**Präzisierung (Zusatz):**  
+Ohne die Bilateralen III könnte die EU im Streitfall **auch unverhältnismässige Ausgleichsmassnahmen** ergreifen, da kein paritätisches Schiedsgericht zur Überprüfung besteht.  
+Mit den Bilateralen III sind Ausgleichsmassnahmen dagegen **verhältnismässig**, **überprüfbar** und dem **Rechtsstaatsprinzip unterstellt**.
 
 **Beispiele:**  
 - **Medizinprodukte**  
@@ -1595,6 +1606,10 @@ Die bestehenden Marktzugangsabkommen würden **nicht mehr aktualisiert**, was la
 Die Schweiz würde eine **zunehmende Verschlechterung des Marktzugangs und der Zusammenarbeit mit der EU** erleben.  
 Zudem besteht das Risiko, dass die EU bei anhaltender institutioneller Blockade **einzelne Abkommen der Bilateralen I kündigt**, insbesondere im Zusammenhang mit **Migration oder Personenfreizügigkeit**.  
 Ohne die Bilateralen III und das vorgesehene **paritätische Schiedsgericht** entfällt zudem der Mechanismus, der die **Verhältnismässigkeit von Ausgleichsmassnahmen** sicherstellt.“
+
+**Präzisierung (Zusatz):**  
+Ohne die Bilateralen III könnte die EU im Streitfall **auch unverhältnismässige Ausgleichsmassnahmen** ergreifen, da kein paritätisches Schiedsgericht zur Überprüfung besteht.  
+Mit den Bilateralen III sind Ausgleichsmassnahmen dagegen **verhältnismässig**, **überprüfbar** und dem **Rechtsstaatsprinzip unterstellt**.
 
 **Begründung:**  
 Die ursprüngliche Aussage ist irreführend, da sie suggeriert, dass ein stabiler „Status quo“ fortbestehen könnte. In Wirklichkeit führen fehlende Aktualisierungen zu einer **langsamen Erosion** der Abkommen und einer **schwächeren rechtlichen Absicherung** gegenüber einseitigen EU-Massnahmen.  
@@ -1918,6 +1933,9 @@ Die bestehenden Regelungen zur Zuständigkeit für Asylverfahren (Dublin-System)
 Ein Asylgesuch in der Schweiz kann weiterhin abgelehnt werden, **wenn bereits ein anderes europäisches Land für das Verfahren zuständig ist**.  
 Das entspricht dem geltenden Dublin-System und ist **nicht** Teil der Bilateralen III.“
 
+**Präzisierung (Zusatz):**  
+Wer dauerhaft in der Schweiz bleiben will, muss **fünf Jahre gearbeitet** haben und darf **in diesen fünf Jahren** nicht während **sechs Monaten oder mehr vollständig** von der Sozialhilfe abhängig gewesen sein (vgl. Faktenblatt, S. 5).(Diese Präzisierung stellt klar, dass sich die Regel ausdrücklich auf den Fünfjahreszeitraum bezieht und nicht auf das gesamte Erwerbsleben.)
+
 **Begründung:**  
 Oft wird fälschlich angenommen, dass auch das Asylsystem Teil der Bilateralen III sei oder dass die Bilateralen III neue Bildungs- oder Sozialbestimmungen enthalten.  
 Richtig ist:  
@@ -2047,6 +2065,10 @@ Bei einer anhaltenden Blockade kann die EU **alle fünf Marktzugangsabkommen der
 Diese sind durch die sogenannte **Guillotine-Klausel** miteinander verknüpft: Wird eines der Abkommen gekündigt, enden nach einer sechsmonatigen Frist automatisch auch die übrigen.  
 Zu diesen Abkommen gehören die Personenfreizügigkeit, der Land- und Luftverkehr, die technischen Handelshemmnisse, Landwirtschaft sowie das öffentliche Beschaffungswesen.  
 Die Bilateralen III ändern an dieser Mechanik nichts.“
+
+**Präzisierung (Zusatz):**  
+Bei einer **anhaltenden Blockade**, etwa im Bereich der **Personenfreizügigkeit oder Migration**, besteht das Risiko, dass die EU **alle fünf Marktzugangsabkommen** der Bilateralen I kündigt.  
+Diese sind durch die **Guillotine-Klausel** miteinander verknüpft – eine Kündigung eines Abkommens führt automatisch zum Ende der übrigen nach sechs Monaten.
 
 **Begründung:**  
 Die ursprüngliche Aussage ist irreführend, da sie den Mechanismus der Guillotine-Klausel verkennt.  
