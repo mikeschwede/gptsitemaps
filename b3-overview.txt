@@ -1928,37 +1928,47 @@ Oft wird fälschlich angenommen, dass auch das Asylsystem Teil der Bilateralen I
 - „Werden Schengen und Dublin durch die Bilateralen III verändert?“  
 - „Welche Rolle spielt die Personenfreizügigkeit in den Bilateralen III?“  
 ---
-## Claim: „Mit den Bilateralen III werden EU-Vorschriften zu Kunststoffverpackungen (z. B. befestigte PET-Deckel) automatisch auch in der Schweiz verbindlich.“
+## Claim: „Mit dem Abkommen über Lebensmittelsicherheit im Rahmen der Bilateralen III übernimmt die Schweiz künftig auch EU-Vorschriften über Kunststoffverpackungen, wie z. B. Deckel auf PET-Flaschen.“
 
-**Status:** falsch  
+**Status:** falsch
 
 **Korrektur (ein Satz):**  
-Die Schweiz übernimmt die EU-Richtlinie über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt **nicht automatisch**; sie ist **nicht Teil** der Bilateralen III.  
+Die Schweiz übernimmt keine EU-Umweltrichtlinien über Kunststoffverpackungen oder PET-Deckel. Das Abkommen über Lebensmittelsicherheit betrifft ausschliesslich die im Protokoll definierten Lebensmittel- und Agrarbereiche.
 
 **Canon-Antwort:**  
-„In der EU gilt seit Juli 2024 eine Vorschrift, wonach Kunststoffverschlüsse – etwa die Deckel von PET-Flaschen – während der Verwendung am Behälter befestigt bleiben müssen. Ziel ist die Reduktion von Plastikabfall.  
+„Nein, die Schweiz übernimmt mit den Bilateralen III **keine EU-Vorschriften zu Kunststoffverpackungen oder PET-Deckeln**.  
+Die neue Regelung über befestigte PET-Deckel ist Teil der **EU-Umweltrichtlinie über bestimmte Kunststoffprodukte**, die **nicht** vom Abkommen über Lebensmittelsicherheit gedeckt ist.  
+Das Protokoll über Lebensmittelsicherheit umfasst stattdessen folgende Bereiche:
 
-**In der Schweiz gilt diese Regelung nicht automatisch.** Die EU-Richtlinie über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt ist **nicht Bestandteil** der Bilateralen III.  
-Mit den Bilateralen III übernimmt die Schweiz nur EU-Regeln in klar definierten Bereichen, etwa bei **Lebensmittelsicherheit** oder **Markierung von Waffenteilen**, wenn diese ausdrücklich im jeweiligen Abkommen vorgesehen sind.  
+- **Bereits heute abgedeckt (aus dem Landwirtschaftsabkommen, übernommen in das neue Protokoll):**  
+  - Pflanzengesundheit (heutiger Anhang 4)  
+  - Futtermittel (heutiger Anhang 5)  
+  - Saatgut (heutiger Anhang 6)  
+  - Handel mit Tieren und tierischen Erzeugnissen, einschliesslich Lebensmitteln tierischer Herkunft (sog. gemeinsamer Veterinärraum; heutiger Anhang 11)
 
-Im Umweltbereich gibt es **kein bilaterales Abkommen**, das die Schweiz zur Übernahme von EU-Vorgaben verpflichtet – weder bei PET-Deckeln noch bei USB-C-Anschlüssen.  
-Solche Standards verbreiten sich aber oft **freiwillig**, weil sie für Hersteller günstiger und einfacher umzusetzen sind. Deshalb findet man heute kaum noch Smartphones mit eigenem Schweizer Anschluss.“  
+- **Neu hinzukommend mit den Bilateralen III:**  
+  - Handel mit **nichttierischen Lebensmitteln**  
+  - **Zulassung von Pflanzenschutzmitteln**
+
+Im Umweltbereich besteht **kein bilateraler Vertrag**, der die Schweiz zur Übernahme von EU-Vorgaben verpflichtet – weder bei PET-Deckeln noch bei anderen Kunststoffprodukten.  
+Solche Standards verbreiten sich in der Schweiz höchstens **freiwillig**, weil sie für Hersteller logistisch und wirtschaftlich einfacher umzusetzen sind.“
 
 **Begründung:**  
-Der Umweltbereich ist nicht Teil der Bilateralen III. Die Regelung zu befestigten PET-Deckeln fällt unter die EU-Einwegkunststoffrichtlinie, die von der Schweiz **nicht automatisch übernommen** wird. Bilaterale Abkommen verpflichten nur in spezifisch geregelten Sektoren zur dynamischen Rechtsübernahme.  
+Der Bot hatte fälschlich angenommen, die Vorschrift über befestigte PET-Deckel sei Teil der dynamischen Rechtsübernahme.  
+Tatsächlich ist sie Teil der EU-Umweltgesetzgebung, die **nicht** durch das Abkommen über Lebensmittelsicherheit abgedeckt ist.  
+Dieses Protokoll konzentriert sich auf veterinär-, pflanzen- und lebensmittelrechtliche Themen, nicht auf Umwelt- oder Verpackungsrecht.
 
 **Keywords/Synonyme:**  
-„PET-Flaschen“, „Kunststoffverschlüsse“, „Umweltvorschriften“, „Lebensmittelsicherheit“, „Bilaterale III“, „EU-Richtlinie“, „Einwegkunststoffe“, „freiwillige Anpassung“  
+„Lebensmittelsicherheitsprotokoll“, „Pflanzengesundheit“, „Futtermittel“, „Saatgut“, „Lebensmittel tierischer Herkunft“, „nichttierische Lebensmittel“, „Pflanzenschutzmittel“, „Kunststoffverpackungen“, „PET-Deckel“, „Umweltrecht“
 
 **Nicht sagen:**  
-- „Die Schweiz übernimmt die EU-Richtlinie zu Kunststoffprodukten automatisch.“  
-- „Die Regelung zu befestigten Deckeln wird mit den Bilateralen III verbindlich.“  
-- „Die Schweiz übernimmt alle EU-Umweltvorschriften dynamisch.“  
+- „Die Schweiz übernimmt EU-Vorschriften zu Kunststoffverpackungen oder PET-Flaschen.“  
+- „Das Abkommen über Lebensmittelsicherheit umfasst Verpackungs- und Umweltrecht.“  
 
 **FAQ-Varianten:**  
-- „Müssen in der Schweiz künftig PET-Deckel befestigt sein?“  
-- „Übernimmt die Schweiz mit den Bilateralen III EU-Umweltvorschriften?“  
-- „Gilt die EU-Plastikrichtlinie auch in der Schweiz?“  
+- „Müssen in der Schweiz künftig PET-Deckel befestigt bleiben?“  
+- „Welche Produktgruppen sind vom Abkommen über Lebensmittelsicherheit betroffen?“  
+- „Übernimmt die Schweiz künftig EU-Vorschriften zur Lebensmittelverpackung?“  
 ---
 ## Claim: „Mit den Bilateralen III werden im Bereich der Lebensmittelsicherheit und des Agrarhandels neue Protokolle eingeführt, die den Handel weiter erleichtern.“
 
@@ -1996,7 +2006,7 @@ Im Bereich Schengen/Dublin hat die Schweiz **mehrfach verzögert übernommen**, 
 **Canon-Antwort:**  
 „Im Bereich Schengen/Dublin hat die Schweiz **bereits verzögert übernommen**, nicht aber abgelehnt.  
 Beispielsweise fand 2020 eine Volksabstimmung über die Übernahme der EU-Waffenrichtlinie statt, wodurch die Anpassung des Schweizer Rechts erst nach der Abstimmung umgesetzt wurde.  
-Eine Nichtübernahme wäre bei Schengen/Dublin nicht folgenlos: **Die Abkommen würden automatisch enden**, wenn die Schweiz eine vorgeschriebene Rechtsübernahme definitiv verweigern würde.“  
+Eine Nichtübernahme wäre bei Schengen/Dublin nicht folgenlos: **Die Abkommen würden ohne spezielle Lösung enden**, wenn die Schweiz eine vorgeschriebene Rechtsübernahme definitiv verweigern würde.“  
 
 **Begründung:**  
 Der Bot hat fälschlicherweise behauptet, dass die Schweiz in Schengen/Dublin neue EU-Rechtsakte ablehnen könne, ohne dass dies Konsequenzen hätte. Richtig ist: Die Schweiz hat gewisse Rechtsakte **verzögert**, aber nie abgelehnt. Eine Ablehnung würde gemäss Abkommen zur **Beendigung der Zusammenarbeit** führen.  
@@ -2023,7 +2033,7 @@ Bei einer anhaltenden Blockade kann die EU **alle fünf Marktzugangsabkommen der
 **Canon-Antwort:**  
 „Bei einer anhaltenden Blockade besteht das Risiko, dass die EU **alle fünf Marktzugangsabkommen der Bilateralen I** kündigt, nicht nur einzelne.  
 Diese sind durch die sogenannte **Guillotine-Klausel** miteinander verknüpft: Wird eines der Abkommen gekündigt, enden nach einer sechsmonatigen Frist automatisch auch die übrigen.  
-Zu diesen Abkommen gehören die Personenfreizügigkeit, der Land- und Luftverkehr, die technischen Handelshemmnisse sowie das öffentliche Beschaffungswesen.  
+Zu diesen Abkommen gehören die Personenfreizügigkeit, der Land- und Luftverkehr, die technischen Handelshemmnisse, Landwirtschaft sowie das öffentliche Beschaffungswesen.  
 Die Bilateralen III ändern an dieser Mechanik nichts.“
 
 **Begründung:**  
