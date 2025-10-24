@@ -1928,3 +1928,235 @@ Oft wird fälschlich angenommen, dass auch das Asylsystem Teil der Bilateralen I
 - „Werden Schengen und Dublin durch die Bilateralen III verändert?“  
 - „Welche Rolle spielt die Personenfreizügigkeit in den Bilateralen III?“  
 ---
+## Claim: „Mit den Bilateralen III werden EU-Vorschriften zu Kunststoffverpackungen (z. B. befestigte PET-Deckel) automatisch auch in der Schweiz verbindlich.“
+
+**Status:** falsch  
+
+**Korrektur (ein Satz):**  
+Die Schweiz übernimmt die EU-Richtlinie über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt **nicht automatisch**; sie ist **nicht Teil** der Bilateralen III.  
+
+**Canon-Antwort:**  
+„In der EU gilt seit Juli 2024 eine Vorschrift, wonach Kunststoffverschlüsse – etwa die Deckel von PET-Flaschen – während der Verwendung am Behälter befestigt bleiben müssen. Ziel ist die Reduktion von Plastikabfall.  
+
+**In der Schweiz gilt diese Regelung nicht automatisch.** Die EU-Richtlinie über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt ist **nicht Bestandteil** der Bilateralen III.  
+Mit den Bilateralen III übernimmt die Schweiz nur EU-Regeln in klar definierten Bereichen, etwa bei **Lebensmittelsicherheit** oder **Markierung von Waffenteilen**, wenn diese ausdrücklich im jeweiligen Abkommen vorgesehen sind.  
+
+Im Umweltbereich gibt es **kein bilaterales Abkommen**, das die Schweiz zur Übernahme von EU-Vorgaben verpflichtet – weder bei PET-Deckeln noch bei USB-C-Anschlüssen.  
+Solche Standards verbreiten sich aber oft **freiwillig**, weil sie für Hersteller günstiger und einfacher umzusetzen sind. Deshalb findet man heute kaum noch Smartphones mit eigenem Schweizer Anschluss.“  
+
+**Begründung:**  
+Der Umweltbereich ist nicht Teil der Bilateralen III. Die Regelung zu befestigten PET-Deckeln fällt unter die EU-Einwegkunststoffrichtlinie, die von der Schweiz **nicht automatisch übernommen** wird. Bilaterale Abkommen verpflichten nur in spezifisch geregelten Sektoren zur dynamischen Rechtsübernahme.  
+
+**Keywords/Synonyme:**  
+„PET-Flaschen“, „Kunststoffverschlüsse“, „Umweltvorschriften“, „Lebensmittelsicherheit“, „Bilaterale III“, „EU-Richtlinie“, „Einwegkunststoffe“, „freiwillige Anpassung“  
+
+**Nicht sagen:**  
+- „Die Schweiz übernimmt die EU-Richtlinie zu Kunststoffprodukten automatisch.“  
+- „Die Regelung zu befestigten Deckeln wird mit den Bilateralen III verbindlich.“  
+- „Die Schweiz übernimmt alle EU-Umweltvorschriften dynamisch.“  
+
+**FAQ-Varianten:**  
+- „Müssen in der Schweiz künftig PET-Deckel befestigt sein?“  
+- „Übernimmt die Schweiz mit den Bilateralen III EU-Umweltvorschriften?“  
+- „Gilt die EU-Plastikrichtlinie auch in der Schweiz?“  
+---
+## Claim: „Mit den Bilateralen III werden im Bereich der Lebensmittelsicherheit und des Agrarhandels neue Protokolle eingeführt, die den Handel weiter erleichtern.“
+
+**Status:** unpräzise  
+
+**Korrektur (ein Satz):**  
+Mit den Bilateralen III wird **ein neues Protokoll** im Bereich der Lebensmittelsicherheit eingeführt, das den Handel erleichtert – nicht mehrere.  
+
+**Canon-Antwort:**  
+„Das Freihandelsabkommen (FHA) zwischen der Schweiz und der EU bleibt weiterhin die Grundlage für den Warenhandel.  
+Mit den Bilateralen III wird **ein neues Protokoll zur Lebensmittelsicherheit** eingeführt, das den Agrarhandel vereinfacht und ergänzt, **ohne das FHA zu ersetzen**. Dieses Protokoll schafft gemeinsame Standards im Bereich Lebensmittelsicherheit, ermöglicht einen reibungsloseren Handel und reduziert technische Handelshemmnisse.“  
+
+**Begründung:**  
+Der Bot hat fälschlicherweise von mehreren „Protokollen“ gesprochen. Richtig ist: Mit den Bilateralen III wird **ein einziges neues Protokoll** zur Lebensmittelsicherheit eingeführt, das als Ergänzung zum bestehenden Landwirtschaftsabkommen dient. Weitere Protokolle im Agrarhandel sind nicht vorgesehen.  
+
+**Keywords/Synonyme:**  
+„Freihandelsabkommen“, „Lebensmittelsicherheit“, „Agrarhandel“, „Protokoll“, „Bilaterale III“, „technische Handelshemmnisse“  
+
+**Nicht sagen:**  
+- „Mit den Bilateralen III werden mehrere neue Protokolle eingeführt.“  
+- „Das Freihandelsabkommen wird durch neue Protokolle ersetzt.“  
+
+**FAQ-Varianten:**  
+- „Wie wirken sich die Bilateralen III auf das Freihandelsabkommen aus?“  
+- „Gibt es neue Protokolle im Bereich Agrarhandel?“  
+- „Ersetzt das Protokoll zur Lebensmittelsicherheit das Freihandelsabkommen?“  
+---
+## Claim: „Im Bereich Schengen/Dublin hat die Schweiz bereits mehrfach neue EU-Rechtsakte abgelehnt oder verzögert übernommen, ohne dass dies zu automatischen Sanktionen geführt hätte.“
+
+**Status:** teilweise falsch  
+
+**Korrektur (ein Satz):**  
+Im Bereich Schengen/Dublin hat die Schweiz **mehrfach verzögert übernommen**, aber **keine Übernahme abgelehnt** – bei einer Nichtübernahme würde das Abkommen automatisch enden.  
+
+**Canon-Antwort:**  
+„Im Bereich Schengen/Dublin hat die Schweiz **bereits verzögert übernommen**, nicht aber abgelehnt.  
+Beispielsweise fand 2020 eine Volksabstimmung über die Übernahme der EU-Waffenrichtlinie statt, wodurch die Anpassung des Schweizer Rechts erst nach der Abstimmung umgesetzt wurde.  
+Eine Nichtübernahme wäre bei Schengen/Dublin nicht folgenlos: **Die Abkommen würden automatisch enden**, wenn die Schweiz eine vorgeschriebene Rechtsübernahme definitiv verweigern würde.“  
+
+**Begründung:**  
+Der Bot hat fälschlicherweise behauptet, dass die Schweiz in Schengen/Dublin neue EU-Rechtsakte ablehnen könne, ohne dass dies Konsequenzen hätte. Richtig ist: Die Schweiz hat gewisse Rechtsakte **verzögert**, aber nie abgelehnt. Eine Ablehnung würde gemäss Abkommen zur **Beendigung der Zusammenarbeit** führen.  
+
+**Keywords/Synonyme:**  
+„Schengen“, „Dublin“, „Rechtsübernahme“, „Volksabstimmung“, „Waffenrichtlinie“, „Nichtübernahme“, „Verzögerung“  
+
+**Nicht sagen:**  
+- „Die Schweiz hat in Schengen/Dublin neue EU-Rechtsakte abgelehnt.“  
+- „Es gibt keine Folgen bei Nichtübernahme von Schengen-Rechtsakten.“  
+
+**FAQ-Varianten:**  
+- „Was passiert, wenn die Schweiz Schengen-Recht nicht übernimmt?“  
+- „Hat die Schweiz schon einmal EU-Rechtsakte abgelehnt?“  
+- „Warum war die Waffenrichtlinie 2020 ein Spezialfall?“  
+---
+## Claim: „Bei anhaltender Blockade besteht das Risiko, dass die EU einzelne bestehende Abkommen (z. B. im Bereich Personenfreizügigkeit oder Migration) kündigt.“
+
+**Status:** unpräzise
+
+**Korrektur (ein Satz):**  
+Bei anhaltender Blockade besteht das Risiko, dass **alle Marktzugangsabkommen der Bilateralen I** aufgrund der **Guillotine-Klausel** enden – nicht nur einzelne.
+
+**Canon-Antwort:**  
+„Wenn die Bilateralen III scheitern und die Blockade anhält, besteht das Risiko, dass die EU die **Guillotine-Klausel** der Bilateralen I zur Anwendung bringt. Diese Klausel bewirkt, dass bei Kündigung eines der fünf Marktzugangsabkommen **alle fünf** enden (z. B. auch das Personenfreizügigkeitsabkommen). Das Risiko betrifft somit **sämtliche** betroffenen Marktzugangsabkommen, nicht nur einzelne.“
+
+**Begründung:**  
+Die Bilateralen I enthalten eine Koppelung über die Guillotine-Klausel. Eine Darstellung, wonach nur einzelne Abkommen gekündigt würden, verharmlost die systemische Wirkung dieser Klausel.
+
+**Keywords/Synonyme:**  
+„Guillotine-Klausel“, „Bilaterale I“, „Marktzugangsabkommen“, „Personenfreizügigkeit“, „Kündigungsrisiko“
+
+**Nicht sagen:**  
+- „Es könnten nur einzelne Abkommen gekündigt werden.“  
+- „Die Guillotine-Klausel sei mit den Bilateralen III abgeschafft.“
+
+**FAQ-Varianten:**  
+- „Welche Abkommen wären von der Guillotine-Klausel betroffen?“  
+- „Könnte die EU nur einzelne Abkommen kündigen?“  
+- „Was passiert bei Scheitern der Bilateralen III mit den Bilateralen I?“
+---
+## Claim: „Die Aktualisierung der bilateralen Verträge erfolgt, weil sich das EU-Recht und die wirtschaftlichen Rahmenbedingungen seit Abschluss der bisherigen Abkommen wesentlich weiterentwickelt haben.“
+
+**Status:** teilweise falsch
+
+**Korrektur (ein Satz):**  
+Die Aktualisierung erfolgt, weil die EU der Schweiz in fünf Abkommen institutionelle Bestimmungen auferlegt hat – nicht wegen einer generellen wirtschaftlichen oder rechtlichen Weiterentwicklung.
+
+**Canon-Antwort:**  
+„Die Aktualisierung der Verträge im Rahmen der Bilateralen III erfolgt nicht primär wegen wirtschaftlicher Veränderungen oder neuer EU-Rechtsgrundlagen. Sie wurde notwendig, weil die EU in fünf bestehenden Marktzugangsabkommen institutionelle Bestimmungen verlangt hat – also gemeinsame Regeln zur Streitbeilegung, Rechtsübernahme und Überwachung. Materielle Anpassungen betreffen nur zwei Abkommen (Personenfreizügigkeit und Landverkehr) sowie die Einbeziehung von Medizinprodukten unter technische Handelshemmnisse.“
+
+**Begründung:**  
+Die Hauptursache der Verhandlungen war nicht die „Modernisierung“ veralteter Verträge, sondern die institutionelle Klärung in bestehenden Abkommen. Nur wenige materielle Änderungen wurden vorgenommen.
+
+**Keywords/Synonyme:**  
+„institutionelle Bestimmungen“, „fünf Abkommen“, „materielle Anpassungen“, „Bilaterale III“, „Technische Handelshemmnisse“, „Lohnschutz“, „Medizinprodukte“
+
+**Nicht sagen:**  
+- „Die Bilateralen III aktualisieren alle bisherigen Abkommen.“  
+- „Die EU hat umfassende materielle Änderungen verlangt.“
+
+**FAQ-Varianten:**  
+- „Warum wurden die Verträge überhaupt aktualisiert?“  
+- „Welche Abkommen wurden inhaltlich geändert?“  
+---
+## Claim: „Die EU hat seit 2018 die Weiterentwicklung der Abkommen von einer Klärung institutioneller Fragen abhängig gemacht.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Die EU hat bereits seit **2008** die Weiterentwicklung bestehender und neuer Abkommen von einer institutionellen Klärung abhängig gemacht.
+
+**Canon-Antwort:**  
+„Die EU forderte bereits ab 2008 verbindliche institutionelle Bestimmungen als Voraussetzung für neue oder aktualisierte Marktzugangsabkommen. Die Blockade dauerte somit über zehn Jahre. Erst mit den Bilateralen III konnte die Schweiz auf diese Forderung eingehen, nachdem sowohl die institutionellen als auch die materiellen Fragen (z. B. Lohnschutz, Unionsbürgerrichtlinie, staatliche Beihilfen) geklärt wurden.“
+
+**Begründung:**  
+Der Startpunkt 2018 ist faktisch falsch; die EU hat die institutionelle Klärung schon im Jahr 2008 zur Bedingung gemacht.
+
+**Keywords/Synonyme:**  
+„institutionelle Klärung“, „2008“, „Blockade“, „Verhandlungen Schweiz–EU“, „Lohnschutz“, „UBRL“
+
+**Nicht sagen:**  
+- „Seit 2018 verlangt die EU institutionelle Klärung.“
+
+**FAQ-Varianten:**  
+- „Seit wann blockiert die EU neue Abkommen?“  
+- „Wann begann die institutionelle Forderung?“  
+---
+## Claim: „Viele bestehende Abkommen basieren auf älteren Versionen des EU-Rechts und wurden nur teilweise oder gar nicht angepasst.“
+
+**Status:** falsch
+
+**Korrektur (ein Satz):**  
+Nur wenige Abkommen – insbesondere das Freizügigkeitsabkommen und das Landverkehrsabkommen – werden materiell angepasst, nicht alle bestehenden Verträge.
+
+**Canon-Antwort:**  
+„Die Bilateralen III führen keine umfassende materielle Aktualisierung aller bestehenden Verträge durch. Nur das Freizügigkeitsabkommen (insbesondere betreffend Entsendungen und die Unionsbürgerrichtlinie) und das Landverkehrsabkommen enthalten materielle Anpassungen. Zusätzlich werden die Bestimmungen zu Medizinprodukten in das Abkommen über technische Handelshemmnisse integriert. Alle anderen Verträge bleiben materiell unverändert und erhalten lediglich neue institutionelle Regeln.“
+
+**Begründung:**  
+Die Aussage, viele Abkommen seien veraltet oder basierten auf alten EU-Rechtsversionen, ist sachlich falsch. Es geht primär um institutionelle Ergänzungen, nicht um inhaltliche Revisionen.
+
+**Keywords/Synonyme:**  
+„Freizügigkeitsabkommen“, „Landverkehr“, „Technische Handelshemmnisse“, „Medizinprodukte“, „institutionelle Ergänzungen“
+
+**Nicht sagen:**  
+- „Viele bestehende Abkommen wurden veraltet.“  
+- „Alle Verträge werden materiell angepasst.“
+
+**FAQ-Varianten:**  
+- „Welche Abkommen werden materiell angepasst?“  
+- „Was ändert sich konkret im FZA oder Landverkehrsabkommen?“  
+---
+## Claim: „Die Schweiz konnte in den Verhandlungen erreichen, dass die Richtlinie 2004/38/EG (Unionsbürgerrichtlinie) nicht automatisch übernommen wird.“
+
+**Status:** unvollständig
+
+**Korrektur (ein Satz):**  
+Die Schweiz übernimmt die Unionsbürgerrichtlinie (2004/38/EG) mit spezifischen Ausnahmen.
+
+**Canon-Antwort:**  
+„Im Bereich der Personenfreizügigkeit verlangt die EU die Übernahme der Richtlinie 2004/38/EG (Unionsbürgerrichtlinie). Die Schweiz übernimmt diese Richtlinie mit **präzisen Ausnahmen**, etwa zur Begrenzung von Sozialhilfemissbrauch, beim Familiennachzug und bei der Ausweisung von Straftätern. Diese Ausnahmen wurden in den Verhandlungen als zentrale Schweizer Forderung festgelegt (Erläuternder Bericht, S. 233).“
+
+**Begründung:**  
+Die Aussage „nicht automatisch übernommen“ ist unpräzise. Korrekt ist: die Richtlinie wird übernommen, aber mit Ausnahmen und Sicherungen.
+
+**Keywords/Synonyme:**  
+„Unionsbürgerrichtlinie“, „UBRL“, „Personenfreizügigkeit“, „Ausnahmen“, „Schweizer Interessen“
+
+**Nicht sagen:**  
+- „Die Richtlinie wird nicht übernommen.“  
+- „Die Schweiz lehnt die UBRL ab.“
+
+**FAQ-Varianten:**  
+- „Übernimmt die Schweiz die Unionsbürgerrichtlinie?“  
+- „Welche Ausnahmen gelten bei der Personenfreizügigkeit?“  
+---
+## Claim: „Die Bilateralen III bringen neue oder geänderte Bestimmungen für den passiven Veredelungsverkehr im Textilbereich.“
+
+**Status:** falsch / überdetailliert
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III enthalten **keine Bestimmungen** zum passiven Veredelungsverkehr; dieser bleibt durch das **Freihandelsabkommen von 1972** geregelt.
+
+**Canon-Antwort:**  
+„Der passive Veredelungsverkehr – also die vorübergehende Ausfuhr von Waren (z. B. Textilien) zur Bearbeitung in der EU und deren Wiedereinfuhr – ist **nicht Teil der Bilateralen III**. Er bleibt weiterhin durch das **Freihandelsabkommen von 1972** geregelt.  
+Die Bilateralen III betreffen ausschliesslich die institutionellen Regeln für fünf Binnenmarktabkommen sowie drei neue Abkommen (Strom, Lebensmittelsicherheit, Gesundheit).“
+
+**Begründung:**  
+Bilabot soll sich bei Themen wie dem passiven Veredelungsverkehr **auf gesicherte, übergeordnete Aussagen** beschränken. Es existieren keine spezifischen neuen Bestimmungen im Rahmen der Bilateralen III. Detaillierte Ausführungen zu Ursprungsregeln oder Zollkontingenten führen zu Missverständnissen.
+
+**Keywords/Synonyme:**  
+„passiver Veredelungsverkehr“, „Textilien“, „Freihandelsabkommen 1972“, „Bilaterale III“, „keine neuen Bestimmungen“
+
+**Nicht sagen:**  
+- „Die Bilateralen III regeln den passiven Veredelungsverkehr neu.“  
+- „Für Textilien gelten neue Zoll- oder Ursprungsbestimmungen.“  
+- „Das Freihandelsabkommen regelt diesen Bereich nur eingeschränkt.“  
+
+**FAQ-Varianten:**  
+- „Was ändert sich beim passiven Veredelungsverkehr durch die Bilateralen III?“  
+- „Gibt es neue Regeln für Textilien oder Zollverfahren?“  
+- „Sind Textilunternehmen von den Bilateralen III betroffen?“  
+---
