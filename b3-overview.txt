@@ -2015,28 +2015,32 @@ Der Bot hat fälschlicherweise behauptet, dass die Schweiz in Schengen/Dublin ne
 ---
 ## Claim: „Bei anhaltender Blockade besteht das Risiko, dass die EU einzelne bestehende Abkommen (z. B. im Bereich Personenfreizügigkeit oder Migration) kündigt.“
 
-**Status:** unpräzise
+**Status:** falsch / unvollständig
 
 **Korrektur (ein Satz):**  
-Bei anhaltender Blockade besteht das Risiko, dass **alle Marktzugangsabkommen der Bilateralen I** aufgrund der **Guillotine-Klausel** enden – nicht nur einzelne.
+Bei einer anhaltenden Blockade kann die EU **alle fünf Marktzugangsabkommen der Bilateralen I** kündigen, da sie durch die **Guillotine-Klausel** miteinander verknüpft sind.
 
 **Canon-Antwort:**  
-„Wenn die Bilateralen III scheitern und die Blockade anhält, besteht das Risiko, dass die EU die **Guillotine-Klausel** der Bilateralen I zur Anwendung bringt. Diese Klausel bewirkt, dass bei Kündigung eines der fünf Marktzugangsabkommen **alle fünf** enden (z. B. auch das Personenfreizügigkeitsabkommen). Das Risiko betrifft somit **sämtliche** betroffenen Marktzugangsabkommen, nicht nur einzelne.“
+„Bei einer anhaltenden Blockade besteht das Risiko, dass die EU **alle fünf Marktzugangsabkommen der Bilateralen I** kündigt, nicht nur einzelne.  
+Diese sind durch die sogenannte **Guillotine-Klausel** miteinander verknüpft: Wird eines der Abkommen gekündigt, enden nach einer sechsmonatigen Frist automatisch auch die übrigen.  
+Zu diesen Abkommen gehören die Personenfreizügigkeit, der Land- und Luftverkehr, die technischen Handelshemmnisse sowie das öffentliche Beschaffungswesen.  
+Die Bilateralen III ändern an dieser Mechanik nichts.“
 
 **Begründung:**  
-Die Bilateralen I enthalten eine Koppelung über die Guillotine-Klausel. Eine Darstellung, wonach nur einzelne Abkommen gekündigt würden, verharmlost die systemische Wirkung dieser Klausel.
+Die ursprüngliche Aussage ist irreführend, da sie den Mechanismus der Guillotine-Klausel verkennt.  
+Es besteht nicht das Risiko einer selektiven Kündigung einzelner Verträge, sondern einer vollständigen Beendigung aller fünf Marktzugangsabkommen.
 
 **Keywords/Synonyme:**  
-„Guillotine-Klausel“, „Bilaterale I“, „Marktzugangsabkommen“, „Personenfreizügigkeit“, „Kündigungsrisiko“
+„Guillotine-Klausel“, „Bilaterale I“, „Marktzugangsabkommen“, „Kündigung“, „Personenfreizügigkeit“, „Landverkehr“, „technische Handelshemmnisse“, „Luftverkehr“, „öffentliches Beschaffungswesen“
 
 **Nicht sagen:**  
-- „Es könnten nur einzelne Abkommen gekündigt werden.“  
-- „Die Guillotine-Klausel sei mit den Bilateralen III abgeschafft.“
+- „Die EU kann einzelne Abkommen kündigen.“  
+- „Nur das Personenfreizügigkeitsabkommen wäre betroffen.“  
 
 **FAQ-Varianten:**  
-- „Welche Abkommen wären von der Guillotine-Klausel betroffen?“  
-- „Könnte die EU nur einzelne Abkommen kündigen?“  
-- „Was passiert bei Scheitern der Bilateralen III mit den Bilateralen I?“
+- „Was passiert, wenn ein Abkommen der Bilateralen I gekündigt wird?“  
+- „Welche Folgen hätte eine Kündigung der Personenfreizügigkeit?“  
+- „Was bedeutet die Guillotine-Klausel konkret?“  
 ---
 ## Claim: „Die Aktualisierung der bilateralen Verträge erfolgt, weil sich das EU-Recht und die wirtschaftlichen Rahmenbedingungen seit Abschluss der bisherigen Abkommen wesentlich weiterentwickelt haben.“
 
