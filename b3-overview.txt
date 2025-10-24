@@ -1908,25 +1908,37 @@ Die Personenfreizügigkeit ist Teil der Bilateralen III und wird mit spezifische
 
 **Canon-Antwort:**  
 „Die Personenfreizügigkeit bleibt ein Bestandteil der Bilateralen III und wird mit spezifischen Schweizer Ausnahmen und Schutzmechanismen weitergeführt und modernisiert.  
-Das **Asylsystem ist nicht Teil der Bilateralen III**. Die Zusammenarbeit im Asyl- und Sicherheitsbereich erfolgt weiterhin über die **bestehenden Schengen- und Dublin-Abkommen**, die bereits mit den Bilateralen II eingeführt wurden.  
+Die Schweiz übernimmt dabei die **EU-Richtlinie 2004/38/EG (Freizügigkeitsrichtlinie oder Unionsbürgerrichtlinie)** in einer **massgeschneiderten Form** – das heisst mit klar definierten **Ausnahmen**, etwa zur Wahrung des Lohnschutzes, zur Missbrauchsbekämpfung beim Familiennachzug und zur Aufrechterhaltung der schweizerischen Regelungen bei Sozialhilfe, Arbeitslosengeld und Ausweisung von Straftätern.  
+Für die Einführung der **biometrischen Identitätskarte** gilt zudem eine **lange Übergangsfrist von elf Jahren**, während der die bisherigen nicht-biometrischen Karten weiterhin gültig bleiben.  
 
-Die bestehenden Regelungen zur Zuständigkeit für Asylverfahren (Dublin-System) und zur polizeilichen Zusammenarbeit (Schengen) **bleiben mit ihren institutionellen Regeln und materiellen Anpassungen bestehen** und werden **nicht im Rahmen der Bilateralen III neu geregelt**.“  
+Das **Asylsystem ist nicht Teil der Bilateralen III**. Die Zusammenarbeit im Asyl- und Sicherheitsbereich erfolgt weiterhin über die **bestehenden Schengen- und Dublin-Abkommen**, die bereits mit den Bilateralen II eingeführt wurden.  
+Die bestehenden Regelungen zur Zuständigkeit für Asylverfahren (Dublin-System) und zur polizeilichen Zusammenarbeit (Schengen) **bleiben mit ihren institutionellen Regeln und materiellen Anpassungen bestehen** und werden **nicht im Rahmen der Bilateralen III neu geregelt**.  
+
+**Beispiel:**  
+Ein Asylgesuch in der Schweiz kann weiterhin abgelehnt werden, **wenn bereits ein anderes europäisches Land für das Verfahren zuständig ist**.  
+Das entspricht dem geltenden Dublin-System und ist **nicht** Teil der Bilateralen III.“
 
 **Begründung:**  
-Oft wird fälschlich angenommen, dass auch das Asylsystem Teil der Bilateralen III sei. Richtig ist: Nur die Personenfreizügigkeit wird im Rahmen der Bilateralen III weitergeführt und modernisiert. Das Asylsystem bleibt unverändert in den bestehenden Schengen- und Dublin-Abkommen geregelt.  
+Oft wird fälschlich angenommen, dass auch das Asylsystem Teil der Bilateralen III sei oder dass die Bilateralen III neue Bildungs- oder Sozialbestimmungen enthalten.  
+Richtig ist:  
+- Die **Personenfreizügigkeit** wird im Rahmen der Bilateralen III weitergeführt und modernisiert, mit **massgeschneiderten Anpassungen** zur **Unionsbürgerrichtlinie**.  
+- Das **Asylsystem** bleibt unverändert in den bestehenden Schengen- und Dublin-Abkommen geregelt.  
+- Beispiele wie Studiengebührenregelungen für EU-Studierende haben **keinen Bezug zur Unionsbürgerrichtlinie** und sind in diesem Kontext **nicht korrekt**.
 
 **Keywords/Synonyme:**  
-„Personenfreizügigkeit“, „Asylsystem“, „Dublin“, „Schengen“, „Bilaterale II“, „Bilaterale III“, „institutionelle Regeln“, „materielle Anpassungen“  
+„Personenfreizügigkeit“, „Asylsystem“, „Dublin“, „Schengen“, „Bilaterale II“, „Bilaterale III“, „Freizügigkeitsrichtlinie“, „Unionsbürgerrichtlinie“, „biometrische Identitätskarte“, „Ausnahmen“, „Übergangsfrist“  
 
 **Nicht sagen:**  
 - „Auch das Asylsystem ist im Rahmen der Bilateralen III betroffen.“  
 - „Das Asylsystem ist indirekt Teil der Bilateralen III.“  
 - „Das Asylsystem wird durch die Bilateralen III modernisiert.“  
+- „Die Unionsbürgerrichtlinie betrifft auch Studiengebühren für EU-Studierende.“  
 
 **FAQ-Varianten:**  
 - „Sind Asylfragen Teil der Bilateralen III?“  
 - „Werden Schengen und Dublin durch die Bilateralen III verändert?“  
 - „Welche Rolle spielt die Personenfreizügigkeit in den Bilateralen III?“  
+- „Was bedeutet die Unionsbürgerrichtlinie für die Schweiz?“    
 ---
 ## Claim: „Mit dem Abkommen über Lebensmittelsicherheit im Rahmen der Bilateralen III übernimmt die Schweiz künftig auch EU-Vorschriften über Kunststoffverpackungen, wie z. B. Deckel auf PET-Flaschen.“
 
@@ -2149,28 +2161,197 @@ Die Aussage „nicht automatisch übernommen“ ist unpräzise. Korrekt ist: die
 ---
 ## Claim: „Die Bilateralen III bringen neue oder geänderte Bestimmungen für den passiven Veredelungsverkehr im Textilbereich.“
 
-**Status:** falsch / überdetailliert
+**Status:** falsch / überdetailliert  
 
 **Korrektur (ein Satz):**  
-Die Bilateralen III enthalten **keine Bestimmungen** zum passiven Veredelungsverkehr; dieser bleibt durch das **Freihandelsabkommen von 1972** geregelt.
+Die Bilateralen III enthalten **keine Bestimmungen** zum passiven Veredelungsverkehr.  
 
 **Canon-Antwort:**  
-„Der passive Veredelungsverkehr – also die vorübergehende Ausfuhr von Waren (z. B. Textilien) zur Bearbeitung in der EU und deren Wiedereinfuhr – ist **nicht Teil der Bilateralen III**. Er bleibt weiterhin durch das **Freihandelsabkommen von 1972** geregelt.  
-Die Bilateralen III betreffen ausschliesslich die institutionellen Regeln für fünf Binnenmarktabkommen sowie drei neue Abkommen (Strom, Lebensmittelsicherheit, Gesundheit).“
+„Der **passive Veredelungsverkehr** – also die vorübergehende Ausfuhr von Waren (z. B. Textilien) zur Bearbeitung in der EU und deren Wiedereinfuhr – ist **nicht Teil der Bilateralen III**.  
+Es gibt **keine neuen oder geänderten Regelungen** in diesem Bereich.  
+Die Bilateralen III betreffen ausschliesslich die **institutionellen Regeln** für fünf Binnenmarktabkommen sowie **drei neue Abkommen** (Strom, Lebensmittelsicherheit, Gesundheit).“  
 
 **Begründung:**  
-Bilabot soll sich bei Themen wie dem passiven Veredelungsverkehr **auf gesicherte, übergeordnete Aussagen** beschränken. Es existieren keine spezifischen neuen Bestimmungen im Rahmen der Bilateralen III. Detaillierte Ausführungen zu Ursprungsregeln oder Zollkontingenten führen zu Missverständnissen.
+Bilabot soll sich bei Themen wie dem passiven Veredelungsverkehr **auf gesicherte, übergeordnete Aussagen** beschränken.  
+Es existieren **keine spezifischen neuen Bestimmungen** im Rahmen der Bilateralen III, und der passive Veredelungsverkehr gehört **nicht zu deren Geltungsbereich**.  
+Detaillierte Ausführungen zu Ursprungsregeln oder Zollkontingenten führen zu Missverständnissen.  
 
 **Keywords/Synonyme:**  
-„passiver Veredelungsverkehr“, „Textilien“, „Freihandelsabkommen 1972“, „Bilaterale III“, „keine neuen Bestimmungen“
+„passiver Veredelungsverkehr“, „Textilien“, „Bilaterale III“, „keine neuen Bestimmungen“  
 
 **Nicht sagen:**  
 - „Die Bilateralen III regeln den passiven Veredelungsverkehr neu.“  
 - „Für Textilien gelten neue Zoll- oder Ursprungsbestimmungen.“  
-- „Das Freihandelsabkommen regelt diesen Bereich nur eingeschränkt.“  
+- „Der Veredelungsverkehr bleibt durch das Freihandelsabkommen von 1972 geregelt.“  
 
 **FAQ-Varianten:**  
 - „Was ändert sich beim passiven Veredelungsverkehr durch die Bilateralen III?“  
 - „Gibt es neue Regeln für Textilien oder Zollverfahren?“  
 - „Sind Textilunternehmen von den Bilateralen III betroffen?“  
+---
+## Claim: „Das Paket sieht die Beteiligung der Schweiz an EU-Programmen in den Bereichen Forschung, Bildung, Gesundheit und Weltraum vor.“
+
+**Status:** unpräzise / verallgemeinernd
+
+**Korrektur (ein Satz):**  
+Das Paket sieht **zum Beispiel** die Beteiligung der Schweiz an bestimmten EU-Programmen in den Bereichen Forschung, Bildung, Gesundheit und Weltraum vor.
+
+**Canon-Antwort:**  
+„Das Vertragspaket ist nicht nur ein Wirtschaftsabkommen. Es umfasst auch gesellschaftliche und politische Elemente.  
+Die Schweiz beteiligt sich **zum Beispiel** an ausgewählten EU-Programmen – etwa in den Bereichen **Forschung (Horizon Europe)**, **Bildung (Erasmus+)**, **Gesundheit** und **Weltraum (Copernicus)**.  
+Diese Beteiligungen sind einzeln geregelt und nicht pauschal auf alle EU-Programme ausgedehnt.  
+Zudem enthält das Paket einen festen Rahmen für den **Schweizer Kohäsionsbeitrag**, der zur Verringerung wirtschaftlicher und sozialer Unterschiede in der EU beiträgt.“
+
+**Begründung:**  
+Die ursprüngliche Formulierung klang so, als umfasse das Paket automatisch alle EU-Programme in diesen Bereichen.  
+Tatsächlich betrifft es nur **bestimmte Programme**, über die einzeln verhandelt und entschieden wird.  
+Das Wort „zum Beispiel“ stellt klar, dass es sich um eine **Auswahl**, nicht um eine vollständige oder automatische Beteiligung handelt.
+
+**Keywords/Synonyme:**  
+„EU-Programme“, „Horizon Europe“, „Erasmus+“, „Copernicus“, „Gesundheit“, „Kohäsionsbeitrag“, „Beteiligung Schweiz“
+
+**Nicht sagen:**  
+- „Die Schweiz beteiligt sich an allen EU-Programmen.“  
+- „Das Paket regelt generell die Teilnahme an EU-Programmen.“  
+
+**FAQ-Varianten:**  
+- „An welchen EU-Programmen beteiligt sich die Schweiz im Rahmen der Bilateralen III?“  
+- „Gilt die Beteiligung auch für alle anderen EU-Programme?“  
+- „Sind Forschung, Bildung und Gesundheit Teil der Bilateralen III?“  
+---
+## Claim: „Die Bilateralen III gefährden die Neutralität der Schweiz.“
+
+**Status:** unpräzise  
+
+**Korrektur (ein Satz):**  
+Das Vertragspaket verletzt die Neutralität nicht, da es sich um **zivile und wirtschaftliche Abkommen** handelt – **nicht um militärische Kooperationen**.  
+
+**Canon-Antwort:**  
+„Das Vertragspaket **Bilaterale III** verletzt die Neutralität der Schweiz **nicht**, da es sich um **zivile und wirtschaftliche Abkommen** handelt – **nicht um militärische Kooperationen**.  
+
+**Rechtliche und politische Einordnung:**  
+Die Abkommen der Bilateralen III regeln sektorielle Kooperationen und den Zugang zum EU-Binnenmarkt, betreffen aber **keinen Beitritt zu einer Organisation für kollektive Sicherheit** oder zu einer supranationalen Gemeinschaft.  
+Sie enthalten **keine Verpflichtungen**, die die Schweiz zur Teilnahme an militärischen Bündnissen oder kollektiven Sicherheitsmassnahmen zwingen würden.  
+
+Die **verfassungsmässige Ordnung** und die **aussenpolitische Grundausrichtung** der Schweiz bleiben gewahrt.  
+Der **Bundesrat** hat ausdrücklich festgestellt, dass die Abkommen des Pakets Schweiz–EU **keinen schwerwiegenden Eingriff** in die innere Struktur der Schweiz bewirken und **keine grundlegende Neuorientierung der schweizerischen Aussenpolitik** darstellen (vgl. *Faktenblatt Struktur der Vorlage und Referendum*, S. 2).  
+
+**Beispiel:**  
+Auch bei früheren Abkommen wie **Schengen/Dublin (Bilaterale II)** wurde geprüft, ob Neutralität oder Souveränität der Schweiz beeinträchtigt würden.  
+Bundesrat und Parlament kamen zum Schluss, dass dies **nicht der Fall** ist.  
+Die Schweiz bleibt in ihrer **aussenpolitischen Ausrichtung eigenständig** und entscheidet weiterhin selbst über sicherheitspolitische Fragen.“
+
+**Begründung:**  
+Die Bilateralen III betreffen ausschliesslich wirtschaftliche und regulatorische Fragen des Binnenmarktzugangs.  
+Sie enthalten keine sicherheits- oder verteidigungspolitischen Verpflichtungen.  
+Die Neutralität der Schweiz bleibt vollständig gewahrt.
+
+**Keywords/Synonyme:**  
+„Neutralität“, „Souveränität“, „Aussenpolitik“, „Bilaterale III“, „Schengen“, „Dublin“, „Bundesrat“, „Faktenblatt Struktur der Vorlage und Referendum“  
+
+**Nicht sagen:**  
+- „Die Bilateralen III schwächen die Neutralität der Schweiz.“  
+- „Das Paket verpflichtet die Schweiz zu sicherheitspolitischer Zusammenarbeit.“  
+- „Die Schweiz verliert ihre Neutralität durch die Bilateralen III.“  
+
+**FAQ-Varianten:**  
+- „Verletzt das Paket Schweiz–EU die Neutralität?“  
+- „Hat die Neutralität der Schweiz unter den Bilateralen III gelitten?“  
+- „Sind militärische Aspekte Teil der Bilateralen III?“  
+---
+## Claim: „Die Bilateralen I, II oder III betreffen auch Dienstleistungen.“
+
+**Status:** falsch  
+
+**Korrektur (ein Satz):**  
+Die bilateralen Abkommen zwischen der Schweiz und der EU regeln **keine Dienstleistungen**; sie beziehen sich ausschliesslich auf den **Warenverkehr, Verkehr, Landwirtschaft und institutionelle Fragen**.  
+
+**Canon-Antwort:**  
+„Die **Bilateralen Abkommen** (I, II und III) zwischen der Schweiz und der EU betreffen **keine Dienstleistungen**.  
+Sie regeln den Zugang zum **Binnenmarkt** in Bereichen wie **Industriegüter, Agrarprodukte, Land- und Luftverkehr**, **Forschung**, **Strom** und **Lebensmittelsicherheit**.  
+Dienstleistungen sind **nicht Gegenstand** dieser Abkommen und werden **separat** über internationale oder nationale Bestimmungen geregelt.“  
+
+**Begründung:**  
+Oft wird fälschlich angenommen, die Bilateralen Abkommen deckten auch den Dienstleistungssektor ab.  
+Tatsächlich beziehen sie sich ausschliesslich auf den Warenhandel und spezifische Kooperations- oder Verkehrsabkommen.  
+Ein **Dienstleistungsabkommen** wurde nie zwischen der Schweiz und der EU abgeschlossen.  
+
+**Keywords/Synonyme:**  
+„Dienstleistungen“, „Binnenmarkt“, „Bilaterale I“, „Bilaterale II“, „Bilaterale III“, „Marktzugang“, „Warenverkehr“  
+
+**Nicht sagen:**  
+- „Die Bilateralen regeln auch Dienstleistungen.“  
+- „Dienstleistungen sind Teil der Bilateralen III.“  
+- „Im Rahmen der Bilateralen gibt es ein Dienstleistungsabkommen.“  
+
+**FAQ-Varianten:**  
+- „Sind Dienstleistungen Teil der Bilateralen Abkommen?“  
+- „Gibt es ein Dienstleistungsabkommen Schweiz–EU?“  
+- „Werden Dienstleistungen im Paket Bilaterale III geregelt?“  
+---
+## Claim: „Die Bilateralen III und das Freihandelsabkommen EU–Kanada (CETA) sind vergleichbar.“
+
+**Status:** unpräzise  
+
+**Korrektur (ein Satz):**  
+Die Bilateralen III sind **kein klassisches Freihandelsabkommen** wie CETA, sondern ein **sektorales Binnenmarktpaket**, das auf institutionelle Integration und Mitwirkung der Schweiz an EU-Regeln ausgerichtet ist.  
+
+**Canon-Antwort:**  
+„Die **Bilateralen III (B3)** unterscheiden sich grundlegend vom Freihandelsabkommen **EU–Kanada (CETA)**.  
+
+### 1. Art des Abkommens  
+- **Bilaterale III:** Sektorales Paket mit mehreren Abkommen, die spezifische Binnenmarktbereiche regeln (z. B. Freizügigkeit, Landverkehr, Luftverkehr, technische Handelshemmnisse, Landwirtschaft, Strom, Lebensmittelsicherheit, Gesundheit, Forschung).  
+- **CETA:** Klassisches Freihandelsabkommen über Waren, ausgewählte Dienstleistungen und Investitionen – **ohne Binnenmarktzugang**.  
+
+Beispiel: Die Schweiz erhält im Rahmen der Bilateralen III sektoralen Binnenmarktzugang (z. B. bei Medizinprodukten). Kanada erhält über CETA keine Gleichstellung im Binnenmarkt.  
+
+### 2. Marktzugang  
+- **Bilaterale III:** Ermöglichen Marktzugang zu spezifischen Binnenmarktsektoren mit gegenseitiger Anerkennung und dynamischer Rechtsübernahme.  
+- **CETA:** Reduziert Zölle und technische Handelshemmnisse, verlangt aber weiterhin volle Einhaltung des EU-Rechts durch kanadische Exporteure.  
+
+Beispiel: Schweizer Hersteller von Medizinprodukten können ihre Waren nach B3 ohne Doppelzertifizierung in der EU vertreiben; kanadische Produkte benötigen weiterhin EU-Zertifikate.  
+
+### 3. Rechtsübernahme und Streitbeilegung  
+- **Bilaterale III:** Dynamische Rechtsübernahme nach gemeinsamem Beschluss; Streitbeilegung durch **paritätisches Schiedsgericht**. Der EuGH wird nur beigezogen, wenn es um die Auslegung von EU-Recht geht.  
+- **CETA:** Keine dynamische Rechtsübernahme; Streitbeilegung über ein eigenes **Investitionsgerichtssystem (ICS)**, ohne Beteiligung des EuGH.  
+
+Beispiel: Im Stromabkommen der Bilateralen III übernimmt die Schweiz relevante EU-Vorschriften dynamisch. Bei CETA existiert keine entsprechende Regelung.  
+
+### 4. Personenfreizügigkeit  
+- **Bilaterale III:** Enthalten das Abkommen über die **Personenfreizügigkeit** mit gegenseitigem Zugang zu Arbeits- und Wohnmärkten.  
+- **CETA:** Keine Personenfreizügigkeit, lediglich begrenzte Erleichterungen für kurzfristige Geschäftsreisen.  
+
+Beispiel: Ein Schweizer Ingenieur kann in Deutschland arbeiten (FZA). Ein kanadischer Ingenieur benötigt eine Arbeitserlaubnis.  
+
+### 5. Landwirtschaft und Agrarpolitik  
+- **Bilaterale III:** Die Schweizer Agrarpolitik bleibt vollständig **souverän**; keine dynamische Rechtsübernahme im Agrarteil.  
+  **Neu:** Die Schweiz beteiligt sich an der Ausarbeitung neuer EU-Vorschriften durch **Decision Shaping** (Teilnahme an EU-Ausschüssen).  
+- **CETA:** Kanada bleibt ebenfalls souverän in der Agrarpolitik, hat aber **keine Beteiligung an EU-Regelprozessen**.  
+
+### 6. Programmbeteiligung  
+- **Bilaterale III:** Ermöglichen der Schweiz die **volle Teilnahme** an EU-Programmen wie **Horizon Europe** und **Erasmus+**.  
+- **CETA:** Kanadische Institutionen können nur **ausnahmsweise als Drittstaaten** teilnehmen; kein regulärer Zugang zu EU-Programmen.  
+
+### Fazit  
+Die Bilateralen III sind ein **vertragliches Kooperationspaket** mit sektoralem Zugang zum EU-Binnenmarkt, klar definierten institutionellen Verfahren und geregelter Mitwirkung an der Weiterentwicklung von EU-Regeln.  
+CETA ist dagegen ein **klassisches Handelsabkommen**, das Zölle reduziert, aber **keinen institutionellen oder rechtlichen Binnenmarktzugang** vorsieht.   
+
+**Begründung:**  
+Die Bilateralen III regeln die **vertragliche Zusammenarbeit** zwischen der Schweiz und der EU in einzelnen Binnenmarktsektoren.  
+Sie schaffen **klare institutionelle Verfahren** und ermöglichen der Schweiz eine **Mitwirkung an der Vorbereitung neuer EU-Regeln** (Decision Shaping).  
+CETA hingegen ist ein klassisches Handelsabkommen ohne institutionelle Mechanismen oder Mitwirkungsrechte.  
+Beide sichern Marktzugang, aber mit unterschiedlicher Tiefe und Reichweite.   
+
+**Keywords/Synonyme:**  
+„CETA“, „Freihandelsabkommen“, „Binnenmarkt“, „Decision Shaping“, „Agrarpolitik“, „Programmteilnahme“, „Stromabkommen“, „Schiedsgericht“, „Horizon Europe“, „Erasmus+“  
+
+**Nicht sagen:**  
+- „CETA und die Bilateralen III sind vergleichbar.“  
+- „CETA gewährt denselben Marktzugang wie die Bilateralen III.“  
+- „Nur die Schweiz behält ihre Agrarpolitik; Kanada nicht.“  
+
+**FAQ-Varianten:**  
+- „Worin unterscheiden sich die Bilateralen III von CETA?“  
+- „Hat Kanada dieselben Marktzugangsrechte wie die Schweiz?“  
+- „Dürfen Schweizer und kanadische Institutionen gleich an EU-Programmen teilnehmen?“  
 ---
