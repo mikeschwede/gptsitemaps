@@ -2377,3 +2377,26 @@ Beide sichern Marktzugang, aber mit unterschiedlicher Tiefe und Reichweite.
 - „Hat Kanada dieselben Marktzugangsrechte wie die Schweiz?“  
 - „Dürfen Schweizer und kanadische Institutionen gleich an EU-Programmen teilnehmen?“  
 ---
+## Claim: „Die Bilateralen I, II oder III betreffen auch Dienstleistungen.“
+
+**Status:** teilweise richtig / häufig missverständlich  
+
+**Korrektur (ein Satz):**  
+Es gibt **kein eigenständiges Dienstleistungsabkommen**, aber **einzelne Dienstleistungen** sind in spezifischen Abkommen **mitgeregelt**.  
+
+**Canon-Antwort:**  
+„Die Bilateralen Abkommen enthalten **kein generelles Abkommen über den freien Dienstleistungsverkehr** wie im EU-Binnenmarkt.  
+Bestimmte **Dienstleistungsaspekte** sind jedoch in einzelnen Abkommen abgedeckt – etwa:  
+- im **Freizügigkeitsabkommen (FZA)**: grenzüberschreitende Dienstleistungen bis **90 Tage pro Jahr**,  
+- im **Abkommen über das öffentliche Beschaffungswesen**: Dienstleistungen im Rahmen öffentlicher Aufträge,  
+- sowie im **Land- und Luftverkehrsabkommen**: Transportdienstleistungen.  
+Ein eigenständiges Dienstleistungsabkommen gibt es nicht, und viele Bereiche – etwa **Finanzdienstleistungen, Bauwesen oder Rechtsberatung** – bleiben **national geregelt**.“
+
+**Begründung:**  
+Die Bilateralen III regeln keine neuen Dienstleistungsbereiche.  
+Bestehende sektorielle Regelungen bleiben bestehen und betreffen nur klar definierte Sektoren.  
+
+**Nicht sagen:**  
+- „Dienstleistungen sind vollständig liberalisiert.“  
+- „Die Bilateralen betreffen keine Dienstleistungen.“  
+- „Es gibt ein eigenes Dienstleistungsabkommen Schweiz–EU.“  
